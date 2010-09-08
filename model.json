@@ -49,6 +49,42 @@
         "url" : "",
         "Rating" : 0
     },
+   kee_pex: {
+       "name" : "kee_pex",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 0,
+           "sugar" : 0,
+           "sodium" : 0,
+           "caffein" : 0,
+           "taurine" : 0,
+           "niacin" : 0,
+           "panthenol acid" : 0,
+           "vitamin C" : 0,
+           "vitamin B6" : 0,
+           "vitamin B12" : 0,
+           "others" : ""
+        },
+        "volume" : 250,
+        "bought from" : "",
+        "paid" : 1,
+        "look" : "It is a red can with a bird in the front. I think it
+        should be an eagle or something in front of three pyramids but it looks more like an angry
+        seagul to me (which is even worse!). It says Energy Drink Maca Power,
+        stating that they included something extraordinary into the drink.
+        The drink itself is pink, which was kinda surprising only knowing
+        either ordinary energy drinks with this yellow-greenish color or
+        the berry offsprings being pink.",
+        "taste" : "Given the fact Maca is in this stuff it does not really
+        taste any different from all the other energy drinks. It somewhat
+        tastes more like bubble gum (like HubbaBubba) than Gummy bears and
+        it is, like most of these drinks, very sweet. It does not taste bad
+        or anything, but i expected more of Maca(whatever this stuff is
+        anyway).",
+        "overall" : "",
+        "url" : "www.kee-pex.de",
+        "Rating" : 0
+    },
    lions: {
        "name" : "Lions Energizer",
        "CO2"  : true,
@@ -65,7 +101,7 @@
            "others" : ""
         },
         "volume" : 250,
-        "bought from" : "Getraenke Offmann Bohnsdorf",
+        "bought from" : "Getränke Hoffmann Bohnsdorf",
         "paid" : 0.49,
         "look" : "It comes in a somewhat cheap looking can with a female
         lion on it(wtf).The can is silver with red graphics on it.",
@@ -95,24 +131,14 @@
         "volume" : 485,
         "bought from" : "Kaisers Berlin Gropiuspassagen",
         "paid" : 1.69,
-        "look" : "The can looks really cool with its black front and its
-        white/bronze text. At the bottom it says KEINE HALBEN SACHEN (no things done by halve)
-        but actually is resealable. It is not really simple to drink from
-        this, but the cap holds really tight! ",
-        "taste" : "The taste is really smooth and not too sweet. It does
-        not taste much like gummy bears, which is, at least for me, a good
-        thing. I really like it. When drinking it you really feal
-        empowered.",
-        "overall" : "I must say this is one of my favorite energy drinks.
-        It tastes not incredibly sweet. Got average taurine and caffein
-        contents and comes in a big bottle. The only downside for me is the
-        resealable cap, which is somewhat hard to drink from and the above
-        average price.",
+        "look" : "The can looks really cool with its black front and its white/bronze text. At the bottom it says KEINE HALBEN SACHEN (no things done by halve) but actually is resealable. It is not really simple to drink from this, but the cap holds really tight! ",
+        "taste" : "The taste is really smooth and not too sweet. It does not taste much like gummy bears, which is, at least for me, a good thing. I really like it. When drinking it you really feal empowered.",
+        "overall" : "I must say this is one of my favorite energy drinks.  It tastes not incredibly sweet. Got average taurine and caffein contents and comes in a big bottle. The only downside for me is the resealable cap, which is somewhat hard to drink from and the above average price.",
         "url" : "www.relentlessenergy.de",
         "Rating" : 8.5
     },
    ener_g : {
-       "name" : "",
+       "name" : "Ener-G",
        "CO2"  : true,
        "Nutritions" : {
            "energy" : 50.2,
@@ -141,7 +167,7 @@
         "url" : "GEDIMA Erfrischungsgetraenke GMBH",
         "Rating" : 6.6
     },
-   EnerG_black: {
+   ener_g_black : {
        "name" : "Ener-G Black",
        "CO2"  : true,
        "Nutritions" : {
