@@ -49,25 +49,77 @@
         "url" : "",
         "Rating" : 0
     },
-   kee_pex: {
-       "name" : "kee_pex",
+   ed_hardy: {
+       "name" : "Ed Hardy Energy Drink",
        "CO2"  : true,
        "Nutritions" : {
-           "energy" : 0,
-           "sugar" : 0,
+           "energy" : 45,
+           "sugar" : 10.7,
            "sodium" : 0,
-           "caffein" : 0,
-           "taurine" : 0,
-           "niacin" : 0,
-           "panthenol acid" : 0,
-           "vitamin C" : 0,
-           "vitamin B6" : 0,
-           "vitamin B12" : 0,
+           "caffein" : 34,
+           "taurine" : 400,
+           "niacin" : 8,
+           "panthenol acid" : 2,
+           "vitamin B6" : 2,
+           "vitamin B12" : 2,
            "others" : ""
         },
         "volume" : 250,
-        "bought from" : "",
-        "paid" : 1,
+        "bought from" : "Netto Bohnsdorf",
+        "paid" : 0.99,
+        "look" : "It is a black can with a drawn tiger on the front (most
+        likely a well known tattoo by ed hardy). For me it looks somewhat
+        stupid. I do not like the style of these tattoos at all.",
+        "taste" : "It tastes a lot like some very sweet berry juice.
+        The taste is very intense, it actually is too sweet in my opinion.
+        It got a below average CO2 contents or maybe it is because it fell
+        down when i bought it.",
+        "overall" : "It is not my taste and i do not really like the style.
+        The price is above average, but it surely packs a punch with all
+        the added stuff in it.",
+        "url" : "www.drinksofmind.de",
+        "Rating" : 4
+    },
+   fritz_cola : {
+       "name" : "fritz-cola",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 42,
+           "sugar" : 10.5,
+           "sodium" : 0.002,
+           "caffein" : 25,
+           "taurine" : 0,
+           "others" : ""
+        },
+        "volume" : 330,
+        "bought from" : "Kaufland Berlin Schöneweide",
+        "paid" : 0.75,
+        "look" : "It is a pretty simple bottle with a black sticker with
+        two heads on it. I kinda like the look, it makes the Coke _cool_.",
+        "taste" : "It tastes like normal coke with a tiny bit of citrus. It
+        is really refreshening and is really similar to stuff like Vita
+        Cola. In addition it got LOTS of caffein in it.",
+        "overall" : "Even though at first i did not thought it is a real ENERGY DRINK but when i looked at the caffein contents my mind changed. The taste is really nice and smooth and got 25mg of the good stuff. For me it is a real go-go, check it out. I mean it.",
+        "url" : "fritz-kola.de",
+        "Rating" : 8.4
+    },
+   kee_pex: {
+       "name" : "Kee Pex",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 48,
+           "sugar" : 11,
+           "sodium" : 0.02,
+           "caffein" : 32,
+           "taurine" : 400,
+           "niacin" : 6.12,
+           "panthenol acid" : 2,
+           "vitamin B6" : 0.68,
+           "others" : "Maca"
+        },
+        "volume" : 250,
+        "bought from" : "Hit Discounter Berlin Zoo",
+        "paid" : 0.99,
         "look" : "It is a red can with a bird in the front. I think it
         should be an eagle or something in front of three pyramids but it looks more like an angry
         seagul to me (which is even worse!). It says Energy Drink Maca Power,
@@ -81,9 +133,12 @@
         it is, like most of these drinks, very sweet. It does not taste bad
         or anything, but i expected more of Maca(whatever this stuff is
         anyway).",
-        "overall" : "",
+        "overall" : "This stuff is actually not bad, even though i do not
+        really like the bubble gum taste in my energy drink. Be sure to
+        check this one out if you get the chance. I mean it contains Maca
+        and stuff!",
         "url" : "www.kee-pex.de",
-        "Rating" : 0
+        "Rating" : 6.7
     },
    lions: {
        "name" : "Lions Energizer",
@@ -130,7 +185,7 @@
         },
         "volume" : 485,
         "bought from" : "Kaisers Berlin Gropiuspassagen",
-        "paid" : 1.69,
+        "paid" : 1.59,
         "look" : "The can looks really cool with its black front and its white/bronze text. At the bottom it says KEINE HALBEN SACHEN (no things done by halve) but actually is resealable. It is not really simple to drink from this, but the cap holds really tight! ",
         "taste" : "The taste is really smooth and not too sweet. It does not taste much like gummy bears, which is, at least for me, a good thing. I really like it. When drinking it you really feal empowered.",
         "overall" : "I must say this is one of my favorite energy drinks.  It tastes not incredibly sweet. Got average taurine and caffein contents and comes in a big bottle. The only downside for me is the resealable cap, which is somewhat hard to drink from and the above average price.",
