@@ -49,6 +49,107 @@
         "url" : "",
         "Rating" : 0
     },
+   schwarze_dose : {
+       "name" : "Schwarze Dose 28",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 58,
+           "sugar" : 14.4,
+           "sodium" : 0.001,
+           "caffein" : 32,
+           "taurine" : 0,
+           "niacin" : 7.9,
+           "panthenol acid" : 2,
+           "vitamin C" : 24,
+           "vitamin B6" : 2,
+           "vitamin B12" : 2,
+           "others" : "guarana, QCoenzym Q10 (3mg), Isomaltose(5g)"
+        },
+        "volume" : 250,
+        "bought from" : "Real Berlin TODO",
+        "paid" : 1,
+        "look" : "Black Can with golden phoenix.",
+        "taste" : "Can says Acai taste",
+        "overall" : "",
+        "url" : "www.schwarzedose.de",
+        "Rating" : 0
+    },
+   burn_energy: {
+       "name" : "Burn Energy Drink",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 57,
+           "sugar" : 13.3,
+           "sodium" : 0.02,
+           "caffein" : 32,
+           "taurine" : 400,
+           "niacin" : 6,
+           "panthenol acid" : 1.7,
+           "vitamin B6" : 0.7,
+           "vitamin B12" : 0.3,
+           "others" : "Glucuronolattone(140mg),inositolo(12mg) TODO"
+        },
+        "volume" : 250,
+        "bought from" : "Supermarked PAM, Milano, Viale Olona",
+        "paid" : 0.99,
+        "look" : "Black can with a flame at the front. Does more look like
+        chili drink than energy drink.",
+        "taste" : "TODO",
+        "overall" : "It is from the Coca Cola Company",
+        "url" : "www.burnenergydrink.it",
+        "Rating" : 0
+    },
+   monster_energy : {
+       "name" : "Monster Energy",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 48,
+           "sugar" : 12,
+           "sodium" : 0.08,
+           "caffein" : 30,
+           "taurine" : 400,
+           "niacin" : 8.54,
+           "vitamin B6" : 0.84,
+           "vitamin B12" : 2.5,
+           "others" : "Ginseng (80mg),L-Carnitina(40mg),Riboflavina(Vit B2(0.74mg))"
+        },
+        "volume" : 500,
+        "bought from" : "Supermarked PAM, Milano, Viale Olona",
+        "paid" : 1.69,
+        "look" : "black can, green M. One of the more common energy drinks",
+        "taste" : "like soap/flowers. really sweet (haven't drunk it
+        chilled though). not enough CO2. When cold it tastes much better,
+        more like lychie and not as sweet. Not the typical gummy bear
+        taste.",
+        "overall" : "drank this before in the US. enough for a long night.
+        Must drink chilled, otherwise it will taste really bad",
+        "url" : "www.monsterenergy.com",
+        "Rating" : 7.5
+    },
+   blitz_energy : {
+       "name" : "Blitz! Energy Drink",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 46,
+           "sugar" : 10.5,
+           "sodium" : 0,
+           "caffein" : 30,
+           "taurine" : 400,
+           "niacin" : 7.2,
+           "panthenol acid" : 2,
+           "vitamin B6" : 0.8,
+           "vitamin B12" : 0.4,
+        },
+        "volume" : 250,
+        "bought from" : "Unes Maxi, Milano, Via E.De Marchi",
+        "paid" : 0.70,
+        "look" : "isilver with hurricane on it TODO",
+        "taste" : "really sweet which tastes a lot like the standard gummy
+        bear flavour. Not much CO2.(haven't drunk chilled though)",
+        "overall" : "cheap and solid, probably tastes better chilled.",
+        "url" : "www.atlantesrl.it",
+        "Rating" : 6.7
+    },
    ed_hardy: {
        "name" : "Ed Hardy Energy Drink",
        "CO2"  : true,
@@ -76,8 +177,9 @@
         down when i bought it.",
         "overall" : "It is not my taste and i do not really like the style.
         The price is above average, but it surely packs a punch with all
-        the added stuff in it.",
-        "url" : "www.drinksofmind.de",
+        the added stuff in it. My guess is you pay a lot for the name, not
+        the good taste.",
+        "url" : "www.edhardyenergydrink.eu",
         "Rating" : 4
     },
    fritz_cola : {
