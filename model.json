@@ -1,5 +1,5 @@
 {
-   template_with_comments : {
+   "template_with_comments" : {
        "name" : "",
        "CO2"  : true,
        "Nutritions" : {
@@ -13,6 +13,10 @@
            "vitamin C" : 0, /* mg */
            "vitamin B6" : 0,/* mg */
            "vitamin B12" : 0, /* ug */
+           "glucuronolacton" : 0, /* mg */
+           "coenzym Q10" : 0, /* mg */
+           "isomaltose" : 5 ,/* g */
+           "guarana" : 0, /* mg */
            "others" : ""
         },
         "volume" : 330,     /* ml */
@@ -22,9 +26,9 @@
         "taste" : "",
         "overall" : "",
         "url" : "",
-        "Rating" : 0
+        "rating" : 0
     },
-   template : {
+   "template" : {
        "name" : "",
        "CO2"  : true,
        "Nutritions" : {
@@ -38,6 +42,10 @@
            "vitamin C" : 0,
            "vitamin B6" : 0,
            "vitamin B12" : 0,
+           "glucuronolacton" : 0,
+           "coenzym Q10" : 0,
+           "isomaltose" : 0 ,
+           "guarana" : 0,
            "others" : ""
         },
         "volume" : 330,
@@ -47,9 +55,71 @@
         "taste" : "",
         "overall" : "",
         "url" : "",
-        "Rating" : 0
+        "rating" : 0
     },
-   schwarze_dose : {
+   "taurine_force" : {
+       "name" : "Carrefour Energy Drink Taurine Force",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 0,
+           "sugar" : 0,
+           "sodium" : 0,
+           "caffein" : 0,
+           "taurine" : 0,
+           "niacin" : 0,
+           "panthenol acid" : 0,
+           "vitamin C" : 0,
+           "vitamin B6" : 0,
+           "vitamin B12" : 0,
+           "glucuronolacton" : 0,
+           "coenzym Q10" : 0,
+           "isomaltose" : 0 ,
+           "guarana" : 0,
+           "others" : ""
+        },
+        "volume" : 250,
+        "bought from" : "",
+        "paid" : 1,
+        "look" : "Somewhat cheap looking blue can with silver backdrop. In
+        the front there is a exploding core or maybe a brain cell or i
+        don't know.",
+        "taste" : "Tastes actually really good. Typical Energy Drink taste,
+        not too much CO2, really sweet.",
+        "overall" : "Tastes like an ordinary energy drink. Nothing special
+        but rock solid. It also was not really expensive. Produced for
+        Carrefour which is orginally located in France but i found that one in
+        italy,milano",
+        "url" : "carrefour supermarket",
+        "rating" : 8 
+    },
+   "rockstar_energy" : {
+       "name" : "Rockstar Energy Drink",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 60,
+           "sugar" : 13.1,
+           "sodium" : 0.054,
+           "caffein" : 32,
+           "taurine" : 400,
+           "niacin" : 3.6,
+           "panthenol acid" : 1.2,
+           "vitamin C" : 0,
+           "vitamin B6" : 0,
+           "vitamin B12" : 0,
+           "glucuronolacton" : 0,
+           "coenzym Q10" : 0,
+           "others" : ""
+        },
+        "volume" : 500,
+        "bought from" : "",
+        "paid" : 1,
+        "look" : "",
+        "taste" : "",
+        "overall" : "",
+        "url" : "",
+        "rating" : 0
+    },
+   "schwarze_dose" : {
        "name" : "Schwarze Dose 28",
        "CO2"  : true,
        "Nutritions" : {
@@ -63,18 +133,20 @@
            "vitamin C" : 24,
            "vitamin B6" : 2,
            "vitamin B12" : 2,
-           "others" : "guarana, QCoenzym Q10 (3mg), Isomaltose(5g)"
+           "coenzym Q10" : 3,
+           "guarana" : 100,
+           "isomaltose" : 5,
         },
         "volume" : 250,
         "bought from" : "Real Berlin TODO",
         "paid" : 1,
         "look" : "Black Can with golden phoenix.",
-        "taste" : "Can says Acai taste",
+        "taste" : "Can writing says 'Acai taste'",
         "overall" : "",
         "url" : "www.schwarzedose.de",
-        "Rating" : 0
+        "rating" : 0
     },
-   burn_energy: {
+   "burn_energy" : {
        "name" : "Burn Energy Drink",
        "CO2"  : true,
        "Nutritions" : {
@@ -97,9 +169,9 @@
         "taste" : "TODO",
         "overall" : "It is from the Coca Cola Company",
         "url" : "www.burnenergydrink.it",
-        "Rating" : 0
+        "rating" : 0
     },
-   monster_energy : {
+   "monster_energy" : {
        "name" : "Monster Energy",
        "CO2"  : true,
        "Nutritions" : {
@@ -124,9 +196,9 @@
         "overall" : "drank this before in the US. enough for a long night.
         Must drink chilled, otherwise it will taste really bad",
         "url" : "www.monsterenergy.com",
-        "Rating" : 7.5
+        "rating" : 7.5
     },
-   blitz_energy : {
+   "blitz_energy" : {
        "name" : "Blitz! Energy Drink",
        "CO2"  : true,
        "Nutritions" : {
@@ -148,9 +220,9 @@
         bear flavour. Not much CO2.(haven't drunk chilled though)",
         "overall" : "cheap and solid, probably tastes better chilled.",
         "url" : "www.atlantesrl.it",
-        "Rating" : 6.7
+        "rating" : 6.7
     },
-   ed_hardy: {
+   "ed_hardy": {
        "name" : "Ed Hardy Energy Drink",
        "CO2"  : true,
        "Nutritions" : {
@@ -180,9 +252,9 @@
         the added stuff in it. My guess is you pay a lot for the name, not
         the good taste.",
         "url" : "www.edhardyenergydrink.eu",
-        "Rating" : 4
+        "rating" : 4
     },
-   fritz_cola : {
+   "fritz_cola" : {
        "name" : "fritz-cola",
        "CO2"  : true,
        "Nutritions" : {
@@ -203,9 +275,9 @@
         Cola. In addition it got LOTS of caffein in it.",
         "overall" : "Even though at first i did not thought it is a real ENERGY DRINK but when i looked at the caffein contents my mind changed. The taste is really nice and smooth and got 25mg of the good stuff. For me it is a real go-go, check it out. I mean it.",
         "url" : "fritz-kola.de",
-        "Rating" : 8.4
+        "rating" : 8.4
     },
-   kee_pex: {
+   "kee_pex": {
        "name" : "Kee Pex",
        "CO2"  : true,
        "Nutritions" : {
@@ -240,9 +312,9 @@
         check this one out if you get the chance. I mean it contains Maca
         and stuff!",
         "url" : "www.kee-pex.de",
-        "Rating" : 6.7
+        "rating" : 6.7
     },
-   lions: {
+   "lions": {
        "name" : "Lions Energizer",
        "CO2"  : true,
        "Nutritions" : {
@@ -268,9 +340,9 @@
         This is really really nice stuff which gives you lots of energy for
         the day or the night.",
         "url" : "www.lions-energizer.de",
-        "Rating" : 9.1
+        "rating" : 9.1
     },
-   relentless: {
+   "relentless": {
        "name" : "Relentless Origin",
        "CO2"  : true,
        "Nutritions" : {
@@ -292,9 +364,9 @@
         "taste" : "The taste is really smooth and not too sweet. It does not taste much like gummy bears, which is, at least for me, a good thing. I really like it. When drinking it you really feal empowered.",
         "overall" : "I must say this is one of my favorite energy drinks.  It tastes not incredibly sweet. Got average taurine and caffein contents and comes in a big bottle. The only downside for me is the resealable cap, which is somewhat hard to drink from and the above average price.",
         "url" : "www.relentlessenergy.de",
-        "Rating" : 8.5
+        "rating" : 8.5
     },
-   ener_g : {
+   "ener_g" : {
        "name" : "Ener-G",
        "CO2"  : true,
        "Nutritions" : {
@@ -320,11 +392,11 @@
         it tastes better than the ener-g black.",
         "overall" : "It tastes better than the ener-g black stuff but not
         too much. It simply is not my taste. The price and the can is cool
-        though.",
+        though. Can also be found in NP-Market Berlin",
         "url" : "GEDIMA Erfrischungsgetraenke GMBH",
-        "Rating" : 6.6
+        "rating" : 6.6
     },
-   ener_g_black : {
+   "ener_g_black" : {
        "name" : "Ener-G Black",
        "CO2"  : true,
        "Nutritions" : {
@@ -355,9 +427,9 @@
         anyway if you get the chance, because the price is actually really
         cheap.",
         "url" : "GEDIMA Erfrischungsgetraenke GMBH",
-        "Rating" : 5.5
+        "rating" : 5.5
     },
-   naturell_energy_citrus : {
+   "naturell_energy_citrus" : {
        "name" : "Naturell energy Citrus",
        "CO2"  : true,
        "Nutritions" : {
@@ -382,9 +454,9 @@
         on on a lazy saturday. And for the price you at least have to try
         it once!",
         "url" : "Taisentaler Getraenke GMBH",
-        "Rating" : 8
+        "rating" : 8
     },
-   russian_power : {
+   "russian_power" : {
        "name" : "Russian Power",
        "CO2"  : true,
        "Nutritions" : {
@@ -406,9 +478,9 @@
         "taste" : "This energy drink tasts really good. Its not too sweet, got this characteristic gummy bear taste and well, you really feel empowered! The whey in it does not have any taste, but that is really no problem,at least there is no can disposit for this here in germany.",
         "overall" : "A great energy drink with no can disposit but an average price. I drank this one after the ANGEL Natural stuff and i felt much better afterwards.A small downer only is what i paid for it.",
         "url" : "www.russianpower.org",
-        "Rating" : 7.5
+        "rating" : 7.5
        },
-   angel_pomgranate : {
+   "angel_pomgranate" : {
        "name" : "ANGEL Natural energy Pomegranate",
        "CO2"  : false,
        "Nutritions" : {
@@ -426,7 +498,7 @@
         "taste" : "Oh my god this is so sweet.It tastes incredibly disgusting like drinking pure syrup.",
         "overall" : "Even though i never drank a CO2 free energy drink which tasted good i though i would give this one a shot.Bad idea, now i got some serious head ache.I give 1 point for the packaging, which is kinda cool and the average caffein content",
         "url" : "www.angel-drink.com",
-        "Rating" : 2
+        "rating" : 2
     }
 }
 
