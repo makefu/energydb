@@ -22,6 +22,7 @@
            "coenzym Q10" : 0, /* mg */
            "isomaltose" : 0 ,/* g */
            "guarana" : 0, /* mg */
+           "whey" : 0, /* g */
            "others" : ""
         },
         "volume" : 330,     /* ml */
@@ -50,6 +51,7 @@
            "glucuronolacton" : 0,
            "coenzym Q10" : 0,
            "isomaltose" : 0 ,
+           "biotin" : 0, 
            "guarana" : 0,
            "others" : ""
         },
@@ -61,6 +63,60 @@
         "overall" : "",
         "url" : "",
         "rating" : 0
+    },
+   "power_up" : {
+       "name" : "Power Up Energy Drink",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 0,
+           "sugar" : 0,
+           "sodium" : 0,
+           "caffein" : 0,
+           "taurine" : 0,
+           "niacin" : 0,
+           "panthenol acid" : 0,
+           "vitamin C" : 0,
+           "vitamin B6" : 0,
+           "vitamin B12" : 0,
+           "glucuronolacton" : 0,
+           "coenzym Q10" : 0,
+           "isomaltose" : 0 ,
+           "biotin" : 0, 
+           "guarana" : 0,
+           "others" : ""
+        },
+        "volume" : 250,
+        "bought from" : "Real Berlin Neukölln",
+        "paid" : 0.49,
+        "look" : "A silver can with the Power up logo on it.Really looks somewhat cheap.",
+        "taste" : "It tastes really sweet with a very strong gummy taste. It surely is not the best E-drink i drank until now.",
+        "overall" : "A Cheap, mediocre tasting drink.",
+        "url" : "SIG-Import GmbH",
+        "rating" : 7.1
+    },
+   "steinberg" : {
+       "name" : "Power by steinberg and unimall promotion drink",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 48,
+           "sugar" : 11.0,
+           "sodium" : 0.04,
+           "caffein" : 32,
+           "taurine" : 30,
+           "panthenol acid" : 1.2,
+           "vitamin B6" : 0.4,
+           "biotin" : 30, 
+           "whey" : 51,
+           "others" : ""
+        },
+        "volume" : 250,
+        "bought from" : "IFA Berlin at UNIMALL promition booth",
+        "paid" : 0,
+        "look" : "Black can with some musician or something on it, very graphical",
+        "taste" : "I really really like this stuff with whey. It tastes not too soure, average CO2, not too sweet gummy bear taste. I like it",
+        "overall" : "This is the kind of energy drink i really like to drink. Tastes almost the same as the Russian Power stuff, at least check this stuff out or send unimall.de a mail you want one of these drinks. It was free for me, that definitly is a plus.",
+        "url" : "unimall.de(promo),suesswarenversand.de",
+        "rating" : 9.4
     },
    "blitz_start" : {
        "name" : "Blitz Start",
@@ -85,17 +141,9 @@
         "volume" : 25,
         "bought from" : "",
         "paid" : 1.25,
-        "look" : "Small red bottle or vial with Michael Schumacher on it.
-        Looks similar to other shots like Red Bull Shot.",
-        "taste" : "Smells really intense like multi vitamin drinks.First
-        sip is extremely soure, i guess you have to drink it at once.Oh my
-        god it tastes so weird... Like very soure syrup or something. I
-        dont know",
-        "overall" : "Well what can i say, this was my first SHOT and i
-        cannot really say i liked the taste. It contains a vast amount of
-        added vitamins and stuff, so it has to be good. The vial is very
-        small and perfect to-go for the quick energy shot. It costs a lot less
-        like the Red Bull Shots here. At least try it once.",
+        "look" : "Small red bottle or vial with Michael Schumacher on it.  Looks similar to other shots like Red Bull Shot.",
+        "taste" : "Smells really intense like multi vitamin drinks.First sip is extremely soure, i guess you have to drink it at once.Oh my god it tastes so weird... Like very soure syrup or something. I dont know",
+        "overall" : "Well what can i say, this was my first SHOT and i cannot really say i liked the taste. It contains a vast amount of added vitamins and stuff, so it has to be good. The vial is very small and perfect to-go for the quick energy shot. It costs a lot less like the Red Bull Shots here. At least try it once.",
         "url" : "www.schneekoppe.de",
         "rating" : 6.7
     },
@@ -170,15 +218,9 @@
         "volume" : 250,
         "bought from" : "",
         "paid" : 1,
-        "look" : "Somewhat cheap looking blue can with silver backdrop. In
-        the front there is a exploding core or maybe a brain cell or i
-        don't know.",
-        "taste" : "Tastes actually really good. Typical Energy Drink taste,
-        not too much CO2, really sweet.",
-        "overall" : "Tastes like an ordinary energy drink. Nothing special
-        but rock solid. It also was not really expensive. Produced for
-        Carrefour which is orginally located in France but i found that one in
-        italy,milano",
+        "look" : "Somewhat cheap looking blue can with silver backdrop. In the front there is a exploding core or maybe a brain cell or i don't know.",
+        "taste" : "Tastes actually really good. Typical Energy Drink taste, not too much CO2, really sweet.",
+        "overall" : "Tastes like an ordinary energy drink. Nothing special but rock solid. It also was not really expensive. Produced for Carrefour which is orginally located in France but i found that one in italy,milano",
         "url" : "carrefour supermarket",
         "rating" : 8 
     },
@@ -201,11 +243,11 @@
            "others" : ""
         },
         "volume" : 500,
-        "bought from" : "",
-        "paid" : 1,
-        "look" : "",
-        "taste" : "",
-        "overall" : "",
+        "bought from" : "Real Berlin Neukölln",
+        "paid" : 1.79,
+        "look" : "TODO",
+        "taste" : "TODO",
+        "overall" : "TODO",
         "url" : "",
         "rating" : 0
     },
@@ -228,13 +270,13 @@
            "isomaltose" : 5,
         },
         "volume" : 250,
-        "bought from" : "Real Berlin TODO",
-        "paid" : 1,
-        "look" : "Black Can with golden phoenix.",
-        "taste" : "Can writing says 'Acai taste'",
-        "overall" : "",
+        "bought from" : "Real Berlin Neukölln",
+        "paid" : 1.49,
+        "look" : "Black Can with golden phoenix.TODO",
+        "taste" : "Can writing says 'Acai taste'TODO",
+        "overall" : "TODO",
         "url" : "www.schwarzedose.de",
-        "rating" : 0
+        "rating" : 8.0
     },
    "burn_energy" : {
        "name" : "Burn Energy Drink",
@@ -254,8 +296,7 @@
         "volume" : 250,
         "bought from" : "Supermarked PAM, Milano, Viale Olona",
         "paid" : 0.99,
-        "look" : "Black can with a flame at the front. Does more look like
-        chili drink than energy drink.",
+        "look" : "Black can with a flame at the front. Does more look like chili drink than energy drink.",
         "taste" : "TODO",
         "overall" : "It is from the Coca Cola Company",
         "url" : "www.burnenergydrink.it",
@@ -279,12 +320,8 @@
         "bought from" : "Supermarked PAM, Milano, Viale Olona",
         "paid" : 1.69,
         "look" : "black can, green M. One of the more common energy drinks",
-        "taste" : "like soap/flowers. really sweet (haven't drunk it
-        chilled though). not enough CO2. When cold it tastes much better,
-        more like lychie and not as sweet. Not the typical gummy bear
-        taste.",
-        "overall" : "drank this before in the US. enough for a long night.
-        Must drink chilled, otherwise it will taste really bad",
+        "taste" : "like soap/flowers. really sweet (haven't drunk it chilled though). not enough CO2. When cold it tastes much better, more like lychie and not as sweet. Not the typical gummy bear taste.",
+        "overall" : "drank this before in the US. enough for a long night.  Must drink chilled, otherwise it will taste really bad",
         "url" : "www.monsterenergy.com",
         "rating" : 7.5
     },
@@ -306,8 +343,7 @@
         "bought from" : "Unes Maxi, Milano, Via E.De Marchi",
         "paid" : 0.70,
         "look" : "isilver with hurricane on it TODO",
-        "taste" : "really sweet which tastes a lot like the standard gummy
-        bear flavour. Not much CO2.(haven't drunk chilled though)",
+        "taste" : "really sweet which tastes a lot like the standard gummy bear flavour. Not much CO2.(haven't drunk chilled though)",
         "overall" : "cheap and solid, probably tastes better chilled.",
         "url" : "www.atlantesrl.it",
         "rating" : 6.7
@@ -330,19 +366,30 @@
         "volume" : 250,
         "bought from" : "Netto Bohnsdorf",
         "paid" : 0.99,
-        "look" : "It is a black can with a drawn tiger on the front (most
-        likely a well known tattoo by ed hardy). For me it looks somewhat
-        stupid. I do not like the style of these tattoos at all.",
-        "taste" : "It tastes a lot like some very sweet berry juice.
-        The taste is very intense, it actually is too sweet in my opinion.
-        It got a below average CO2 contents or maybe it is because it fell
-        down when i bought it.",
-        "overall" : "It is not my taste and i do not really like the style.
-        The price is above average, but it surely packs a punch with all
-        the added stuff in it. My guess is you pay a lot for the name, not
-        the good taste.",
+        "look" : "It is a black can with a drawn tiger on the front (most likely a well known tattoo by ed hardy). For me it looks somewhat stupid. I do not like the style of these tattoos at all.",
+        "taste" : "It tastes a lot like some very sweet berry juice.  The taste is very intense, it actually is too sweet in my opinion.  It got a below average CO2 contents or maybe it is because it fell down when i bought it.",
+        "overall" : "It is not my taste and i do not really like the style.  The price is above average, but it surely packs a punch with all the added stuff in it. My guess is you pay a lot for the name, not the good taste.",
         "url" : "www.edhardyenergydrink.eu",
         "rating" : 4
+    },
+    "fritz-kaffee" :{
+       "name" : "fritz Kola-Kaffee-Brause",
+       "CO2"  : true,
+       "Nutritions" : {
+           "energy" : 43,
+           "sugar" : 10.6,
+           "sodium" : 0.002,
+           "caffein" : 25,
+           "others" : ""
+        },
+        "volume" : 330,
+        "bought from" : "Kaisers Berlin Potsdamer Platz",
+        "paid" : 0.79,
+        "look" : "Same as fritz cola, it has a simplified bottle with a now brown etiquette.",
+        "taste" : "It tastes like cola and ... well coffee. It is a really weird taste but i kinda like it. You have to try it out",
+        "overall" : "Weird and somewhat funny stuff. Just try it when you see it.",
+        "url" : "fritz-kola.de",
+        "rating" : 7.3
     },
    "fritz_cola" : {
        "name" : "fritz-cola",
@@ -352,17 +399,13 @@
            "sugar" : 10.5,
            "sodium" : 0.002,
            "caffein" : 25,
-           "taurine" : 0,
            "others" : ""
         },
         "volume" : 330,
         "bought from" : "Kaufland Berlin Schöneweide",
         "paid" : 0.75,
-        "look" : "It is a pretty simple bottle with a black sticker with
-        two heads on it. I kinda like the look, it makes the Coke _cool_.",
-        "taste" : "It tastes like normal coke with a tiny bit of citrus. It
-        is really refreshening and is really similar to stuff like Vita
-        Cola. In addition it got LOTS of caffein in it.",
+        "look" : "It is a pretty simple bottle with a black sticker with two heads on it. I kinda like the look, it makes the Coke _cool_.",
+        "taste" : "It tastes like normal coke with a tiny bit of citrus. It is really refreshening and is really similar to stuff like Vita Cola. In addition it got LOTS of caffein in it.",
         "overall" : "Even though at first i did not thought it is a real ENERGY DRINK but when i looked at the caffein contents my mind changed. The taste is really nice and smooth and got 25mg of the good stuff. For me it is a real go-go, check it out. I mean it.",
         "url" : "fritz-kola.de",
         "rating" : 8.4
@@ -384,23 +427,9 @@
         "volume" : 250,
         "bought from" : "Hit Discounter Berlin Zoo",
         "paid" : 0.99,
-        "look" : "It is a red can with a bird in the front. I think it
-        should be an eagle or something in front of three pyramids but it looks more like an angry
-        seagul to me (which is even worse!). It says Energy Drink Maca Power,
-        stating that they included something extraordinary into the drink.
-        The drink itself is pink, which was kinda surprising only knowing
-        either ordinary energy drinks with this yellow-greenish color or
-        the berry offsprings being pink.",
-        "taste" : "Given the fact Maca is in this stuff it does not really
-        taste any different from all the other energy drinks. It somewhat
-        tastes more like bubble gum (like HubbaBubba) than Gummy bears and
-        it is, like most of these drinks, very sweet. It does not taste bad
-        or anything, but i expected more of Maca(whatever this stuff is
-        anyway).",
-        "overall" : "This stuff is actually not bad, even though i do not
-        really like the bubble gum taste in my energy drink. Be sure to
-        check this one out if you get the chance. I mean it contains Maca
-        and stuff!",
+        "look" : "It is a red can with a bird in the front. I think it should be an eagle or something in front of three pyramids but it looks more like an angry seagul to me (which is even worse!). It says Energy Drink Maca Power, stating that they included something extraordinary into the drink.  The drink itself is pink, which was kinda surprising only knowing either ordinary energy drinks with this yellow-greenish color or the berry offsprings being pink.",
+        "taste" : "Given the fact Maca is in this stuff it does not really taste any different from all the other energy drinks. It somewhat tastes more like bubble gum (like HubbaBubba) than Gummy bears and it is, like most of these drinks, very sweet. It does not taste bad or anything, but i expected more of Maca(whatever this stuff is anyway).",
+        "overall" : "This stuff is actually not bad, even though i do not really like the bubble gum taste in my energy drink. Be sure to check this one out if you get the chance. I mean it contains Maca and stuff!",
         "url" : "www.kee-pex.de",
         "rating" : 6.7
     },
@@ -422,13 +451,9 @@
         "volume" : 250,
         "bought from" : "Getränke Hoffmann Bohnsdorf",
         "paid" : 0.49,
-        "look" : "It comes in a somewhat cheap looking can with a female
-        lion on it(wtf).The can is silver with red graphics on it.",
-        "taste" : "I really like the taste of this stuff. It is not
-        incredible sweet and the gummy bear taste is not too intrusive.",
-        "overall" : "I can highly recommend it for its taste AND its price.
-        This is really really nice stuff which gives you lots of energy for
-        the day or the night.",
+        "look" : "It comes in a somewhat cheap looking can with a female lion on it(wtf).The can is silver with red graphics on it.",
+        "taste" : "I really like the taste of this stuff. It is not incredible sweet and the gummy bear taste is not too intrusive.",
+        "overall" : "I can highly recommend it for its taste AND its price.  This is really really nice stuff which gives you lots of energy for the day or the night.",
         "url" : "www.lions-energizer.de",
         "rating" : 9.1
     },
@@ -474,15 +499,9 @@
         "volume" : 250,
         "bought from" : "Edeka Berlin Alexanderplatz(Alexa)",
         "paid" : 0.69,
-        "look" : "Has a pretty standard, oldschool looking red can with
-        blue and silver typeface",
-        "taste" : "Really sweet, with a very similar after taste to the
-        ener-g black stuff. Gummy bear taste is pretty dominant. Also
-        tastes a bit like berry but without the cola taste. In my oppinion
-        it tastes better than the ener-g black.",
-        "overall" : "It tastes better than the ener-g black stuff but not
-        too much. It simply is not my taste. The price and the can is cool
-        though. Can also be found in NP-Market Berlin",
+        "look" : "Has a pretty standard, oldschool looking red can with blue and silver typeface",
+        "taste" : "Really sweet, with a very similar after taste to the ener-g black stuff. Gummy bear taste is pretty dominant. Also tastes a bit like berry but without the cola taste. In my oppinion it tastes better than the ener-g black.",
+        "overall" : "It tastes better than the ener-g black stuff but not too much. It simply is not my taste. The price and the can is cool though. Can also be found in NP-Market Berlin",
         "url" : "GEDIMA Erfrischungsgetraenke GMBH",
         "rating" : 6.6
     },
@@ -504,18 +523,9 @@
         "volume" : 250,
         "bought from" : "Edeka Berlin Alexanderplatz(Alexa)",
         "paid" : 0.69,
-        "look" : "Black Can with red and bronze face. It says High energy
-        and Cola Drink at the front.",
-        "taste" : "At first, it is really really sweet. It should taste
-        like Cola but it sure tastes like everything BUT cola. The taste is
-        something between berry juice,citrus and Gummy bear taste. It
-        somewhat reminds me of the Coke of Red bull, which does not taste
-        good either.",
-        "overall" : "Besides being too frickin sweet for my taste it is not
-        really bad. It has a below average caffein content and far below
-        average taurine content. It is not really my taste, check it out
-        anyway if you get the chance, because the price is actually really
-        cheap.",
+        "look" : "Black Can with red and bronze face. It says High energy and Cola Drink at the front.",
+        "taste" : "At first, it is really really sweet. It should taste like Cola but it sure tastes like everything BUT cola. The taste is something between berry juice,citrus and Gummy bear taste. It somewhat reminds me of the Coke of Red bull, which does not taste good either.",
+        "overall" : "Besides being too frickin sweet for my taste it is not really bad. It has a below average caffein content and far below average taurine content. It is not really my taste, check it out anyway if you get the chance, because the price is actually really cheap.",
         "url" : "GEDIMA Erfrischungsgetraenke GMBH",
         "rating" : 5.5
     },
@@ -559,7 +569,8 @@
            "vitamin B12" : 2.0,
            "caffein" : 32",
            "taurine" : 380,
-           "others" : "50% whey"
+           "whey" : 51,
+           "others" : ""
        }
         "volume" : 250,
         "bought from" : "Aljonka Russische Spezialitaeten Alexanderplatz",
@@ -568,7 +579,7 @@
         "taste" : "This energy drink tasts really good. Its not too sweet, got this characteristic gummy bear taste and well, you really feel empowered! The whey in it does not have any taste, but that is really no problem,at least there is no can disposit for this here in germany.",
         "overall" : "A great energy drink with no can disposit but an average price. I drank this one after the ANGEL Natural stuff and i felt much better afterwards.A small downer only is what i paid for it.",
         "url" : "www.russianpower.org",
-        "rating" : 7.5
+        "rating" : 8.5
        },
    "angel_pomgranate" : {
        "name" : "ANGEL Natural energy Pomegranate",
