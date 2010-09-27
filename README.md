@@ -9,7 +9,9 @@ completely with ingredients like caffeine or sugar.
 
 For that i will design a database scheme which can handle my demands, as
 well as a web frontend which is able to search through and view the entries
-very similar to a cms but with a bit more structure.
+very similar to a cms. Currently there is only a static site generator with
+some templates, more will come.
+
 
 Usage
 =====
