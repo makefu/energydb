@@ -29,7 +29,8 @@
             "taurine": 400, 
             "vitamin B12": 0.3, 
             "vitamin B6": 0.7, 
-            "others": "Glucuronolattone(140mg),inositolo(12mg) TODO"
+            "glucuronolacton" :  140,
+            "others": "inositole(12mg)"
         }, 
         "CO2": true, 
         "name": "Burn Energy Drink", 
@@ -420,7 +421,7 @@
             "others": ""
         }, 
         "CO2": true, 
-        "name": "Carrefour Energy Drink Taurine Force", 
+        "name": "Carrefour Taurine Force Energy Drink", 
         "rating": 8, 
         "bought from": "Carrefour Milan", 
         "overall": "Tastes like an ordinary energy drink. Nothing special but rock solid. It also was not really expensive. Produced for Carrefour which is orginally located in France but i found that one in italy,milano", 
@@ -575,10 +576,10 @@
             "whey": 51
         }, 
         "CO2": true, 
-        "name": "Power by Steinberg and Unimall promotion drink", 
-        "rating": 9.4, 
+        "name": "Power by Steinberg and Unimall", 
+        "rating": 9.1, 
         "bought from": "IFA Berlin at UNIMALL promition booth", 
-        "overall": "This is the kind of energy drink i really like to drink. Tastes almost the same as the Russian Power stuff, at least check this stuff out or send unimall.de a mail you want one of these drinks. It was free for me, that definitly is a plus.", 
+        "overall": "I got this one from the IFA Berlin at the UNIMALL promotion booth, for that i had a small chatter what they do and stuff.In the end i got this delicios energy drink.This is the kind of energy drink i really like to drink. Tastes almost the same as the Russian Power stuff, at least check this stuff out or send unimall.de a mail you want one of these drinks. It was free for me, that definitly is a plus.", 
         "paid": 0, 
         "volume": 250, 
         "taste": "I really really like this stuff with whey. It tastes not too soure, average CO2, not too sweet gummy bear taste. I like it", 
