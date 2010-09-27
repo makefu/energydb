@@ -1,0 +1,29 @@
+<html>
+<body>
+    <h1 id="heading">{{Name}}</h1>
+    <h2>Nutritions</h2>
+    <center>
+    <table border="0">
+        <tr><th>Contents</th>
+            <th>per 100ml</th></tr>
+        {{#energy}}
+        <tr><td>Energy</td>
+            <td>{{energy}} kcal</td>
+        {{/energy}}
+    </table>
+    </center>
+    <h2>General Informations</h2>
+    volume: {{volume}} ml <br />
+    Bought from: {{bought from}} <br />
+    Paid: {{paid}} Euro<br />
+    url: {{url}} <br />
+    <h2>Review</h2>
+    <h3>Look</h3>
+    {{look}}
+    <h3>Taste</h3>
+    {{taste}}
+    <h3>Overall</h3>
+    {{overall}}
+    <h3>Rating: {{rating}} of 10</h3>
+</body>
+</html>

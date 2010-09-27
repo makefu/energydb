@@ -12,10 +12,8 @@ def str2bool(s):
 
 
 def todec(s):
-    try:
-        return Decimal(str(round(float(s),3)))
-    except:
-        return 0
+    try: return Decimal(str(round(float(s),3)))
+    except: return 0
 
 drinkcont = {}
 key = raw_input("Key ")

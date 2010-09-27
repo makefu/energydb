@@ -8,11 +8,17 @@ def todec(s):
     except: return 0
 
 template_file = 'generate_html.mustache'
-output_file = 'generated_list.html'
+template_drink = 'generate_drink.mustache'
+output_file = 'energy.html'
+output_folder = 'drinks/'
 db_file = 'model.json'
 
 f = open(template_file)
-template = f.read()
+list_template = f.read()
+f.close()
+
+f = open(template_drink)
+drink_template = f.read()
 f.close()
 
 f = open(db_file)
@@ -25,4 +31,14 @@ for drink in drinktab.keys():
     drinktab[drink]['key'] = drink
     drink_list['drinks'].append(drinktab[drink])
 
-print pystache.render(template,drink_list)
+
+# write the complete list
+f = open(output_file,"w")
+f.write(pystache.render(list_template,drink_list))
+f.close()
+
+#write seperate pages
+for drink in drinktab.values():
+    f = open(output_folder+drink['key']+".html","w",)
+    f.write(pystache.render(drink_template,drink).encode('utf-8'))
+    f.close()

@@ -1,6 +1,7 @@
 <html>
+<center>
 <body>
-    <table border="1">
+    <table border="0">
         <tr>
             <th>Name</th>
             <th>CO2</th>
@@ -9,14 +10,15 @@
         </tr>
         {{#drinks}}
         <tr>
-            <th>{{name}}</th>
-            <th>{{CO2}}</th>
-            <th>{{paid}}</th>
-            <th>{{rating}}</th>
+            <td><a href="drinks/{{key}}.html">{{name}}</a></td>
+            <td>{{CO2}}</td>
+            <td>{{paid}}</td>
+            <td>{{rating}}</td>
         </tr>
         {{/drinks}}
     </table>
 </body>
+</center>
 </html>
 
 
