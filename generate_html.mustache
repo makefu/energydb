@@ -11,7 +11,7 @@
         {{#drinks}}
         <tr>
             <td><a href="drinks/{{key}}.html">{{name}}</a></td>
-            <td>{{CO2}}</td>
+            <td>{{#CO2}}Yes{{/CO2}}{{^CO2}}No{{/CO2}}</td>
             <td>{{paid}}</td>
             <td>{{rating}}</td>
         </tr>
