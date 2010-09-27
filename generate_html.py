@@ -9,7 +9,7 @@ def todec(s):
 
 template_file = 'generate_html.mustache'
 template_drink = 'generate_drink.mustache'
-output_file = 'energy.html'
+output_file = 'index.html'
 output_folder = 'drinks/'
 db_file = 'model.json'
 
