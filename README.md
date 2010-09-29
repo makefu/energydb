@@ -22,7 +22,7 @@ generate the database.
 - simplejson (pip install simplejson)
 - pystashe (Mustache for python), currently a fork which fixes inner
   contexts from http://github.com/rafaelcv/pystache
-
+- markdown (pip install markdown) for genrating html from this README
 
 Help me!
 ========

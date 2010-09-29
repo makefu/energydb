@@ -42,3 +42,11 @@ for drink in drinktab.values():
     f = open(output_folder+drink['key']+".html","w",)
     f.write(pystache.render(drink_template,drink).encode('utf-8'))
     f.close()
+
+#try to convert the README file into html
+try:
+    import markdown
+    markdown.markdownFromFile(input="README.md", 
+                              output="README.html")
+except:
+    print "markdown not installed, skipping generation of README"
