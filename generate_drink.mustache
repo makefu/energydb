@@ -1,5 +1,6 @@
 <html>
 <body>
+<div style="width:800px;margin: 0px auto">
     <h1 id="heading">{{Name}}</h1>
     <h2>Nutritions</h2>
     {{#Nutritions}}
@@ -115,8 +116,7 @@
     </table>
     {{/Nutritions}}
     <h2>General Informations</h2>
-    CO2: <td>{{#CO2}}Yes{{/CO2}}{{^CO2}}No{{/CO2}}</td>
-    {{volume}} ml <br />
+    CO2: <td>{{#CO2}}Yes{{/CO2}}{{^CO2}}No{{/CO2}} <br />
     volume: {{volume}} ml <br />
     Bought from: {{bought from}} <br />
     Paid: {{paid}} Euro<br />
@@ -129,5 +129,6 @@
     <h3>Overall</h3>
     {{overall}}
     <h3>Rating: {{rating}} of 10</h3>
+</div >
 </body>
 </html>
