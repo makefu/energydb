@@ -1,11 +1,11 @@
 {
     "fritz-kaffee": {
         "Nutritions": {
-            "sugar": 10.6, 
+            "sodium": 0.002, 
             "energy": 43, 
             "others": "", 
             "caffein": 25, 
-            "sodium": 0.002
+            "sugar": 10.6
         }, 
         "CO2": true, 
         "name": "fritz Kola-Kaffee-Brause", 
@@ -21,15 +21,15 @@
     "burn_energy": {
         "Nutritions": {
             "niacin": 6, 
+            "glucuronolacton": 140, 
             "panthenol acid": 1.7, 
-            "caffein": 32, 
-            "energy": 57, 
             "sodium": 0.02, 
+            "energy": 57, 
+            "caffein": 32, 
             "sugar": 13.3, 
             "taurine": 400, 
             "vitamin B12": 0.3, 
             "vitamin B6": 0.7, 
-            "glucuronolacton" :  140,
             "others": "inositol(12mg)"
         }, 
         "CO2": true, 
@@ -47,9 +47,9 @@
         "Nutritions": {
             "niacin": 7.92, 
             "panthenol acid": 1.98, 
-            "caffein": 32, 
-            "energy": 52, 
             "sodium": 0.1, 
+            "energy": 52, 
+            "caffein": 32, 
             "sugar": 11.8, 
             "taurine": 400, 
             "vitamin B12": 2, 
@@ -71,9 +71,9 @@
         "Nutritions": {
             "niacin": 8, 
             "panthenol acid": 2, 
-            "caffein": 28, 
-            "energy": 51, 
             "sodium": 0.05, 
+            "energy": 51, 
+            "caffein": 28, 
             "sugar": 12.7, 
             "taurine": 10, 
             "vitamin B12": 2, 
@@ -82,22 +82,23 @@
         }, 
         "CO2": true, 
         "name": "Gipsy Energy Cola", 
-        "rating": 0, 
+        "rating": 1.0, 
         "bought from": "Lombardini Discont Milano", 
-        "overall": "TODO", 
+        "overall": "This is the WORST! Never try it, just trust me. Never EVER buy this stuff. Even though it costs onl 59 cent, you will regret it!", 
         "paid": 0.59, 
         "volume": 250, 
-        "taste": "TODO", 
+        "taste": "The first sip is like... mh ... 1 second later UAAARGHHHH!!!! Wtf seriously? what were they thinking? This is BY far the worst cola stuff i ever drank. It tastes so much like some weird chemical experiment. Thats how i would imagine toilet cleaner tastes like. Have they ever tasted it before?", 
         "url": "Lockwoods Italiana", 
-        "look": "TODO"
+        "look": "A silver and red can with the Gipsy energy cola logo on it. It really looks cheap to me. But one cannot imagine that some can like that tastes like shit!"
     }, 
     "blitz_start": {
         "Nutritions": {
             "niacin": 16, 
             "panthenol acid": 6, 
-            "caffein": 416, 
-            "energy": 276, 
             "sodium": 0, 
+            "energy": 276, 
+            "caffein": 416, 
+            "biotin": 50, 
             "guarana": 800, 
             "sugar": 40, 
             "vitamin B2": 1.4, 
@@ -106,8 +107,7 @@
             "vitamin B6": 1.4, 
             "taurine": 0, 
             "others": "Mateextract(200mg)", 
-            "magnesium": 224, 
-            "biotin": 50
+            "magnesium": 224
         }, 
         "CO2": false, 
         "name": "Blitz Start", 
@@ -124,9 +124,9 @@
         "Nutritions": {
             "niacin": 7.92, 
             "panthenol acid": 1.98, 
-            "caffein": 31.5, 
-            "energy": 48.8, 
             "sodium": 0.1, 
+            "energy": 48.8, 
+            "caffein": 31.5, 
             "sugar": 11.3, 
             "taurine": 380, 
             "vitamin B12": 2, 
@@ -176,9 +176,9 @@
     }, 
     "angel_pomgranate": {
         "Nutritions": {
-            "caffein": 32, 
-            "energy": 45, 
             "sodium": 0.03, 
+            "energy": 45, 
+            "caffein": 32, 
             "sugar": 11.2, 
             "taurine": 0, 
             "others": "Guarana Extract"
@@ -198,9 +198,9 @@
         "Nutritions": {
             "niacin": 6, 
             "panthenol acid": 2, 
-            "caffein": 24, 
-            "energy": 50.2, 
             "sodium": 0.1, 
+            "energy": 50.2, 
+            "caffein": 24, 
             "sugar": 12.1, 
             "vitamin C": 35, 
             "taurine": 30, 
@@ -222,9 +222,9 @@
         "Nutritions": {
             "niacin": 8, 
             "panthenol acid": 2, 
-            "caffein": 32, 
-            "energy": 45, 
             "sodium": 0, 
+            "energy": 45, 
+            "caffein": 32, 
             "sugar": 11, 
             "taurine": 400, 
             "vitamin B12": 2, 
@@ -246,9 +246,9 @@
         "Nutritions": {
             "niacin": 7.92, 
             "panthenol acid": 1.98, 
-            "caffein": 32, 
-            "energy": 45, 
             "sodium": 0.1, 
+            "energy": 45, 
+            "caffein": 32, 
             "sugar": 11.3, 
             "taurine": 380, 
             "vitamin B12": 2.0, 
@@ -271,9 +271,9 @@
         "Nutritions": {
             "niacin": 5.04, 
             "panthenol acid": 1.68, 
-            "caffein": 25.6, 
-            "energy": 44, 
             "sodium": 0.02, 
+            "energy": 44, 
+            "caffein": 25.6, 
             "sugar": 10.6, 
             "vitamin C": 16.8, 
             "taurine": 26, 
@@ -293,9 +293,9 @@
     }, 
     "naturell_energy_citrus": {
         "Nutritions": {
-            "caffein": 32, 
-            "energy": 45.9, 
             "sodium": 0.01, 
+            "energy": 45.9, 
+            "caffein": 32, 
             "sugar": 11.1, 
             "taurine": 0, 
             "others": "Guarana extract"
@@ -315,9 +315,9 @@
         "Nutritions": {
             "niacin": 7.2, 
             "panthenol acid": 2, 
-            "caffein": 30, 
-            "energy": 46, 
             "sodium": 0, 
+            "energy": 46, 
+            "caffein": 30, 
             "sugar": 10.5, 
             "taurine": 400, 
             "vitamin B12": 0.4, 
@@ -338,9 +338,9 @@
         "Nutritions": {
             "niacin": 6.12, 
             "panthenol acid": 2, 
-            "caffein": 32, 
-            "energy": 48, 
             "sodium": 0.02, 
+            "energy": 48, 
+            "caffein": 32, 
             "sugar": 11, 
             "taurine": 400, 
             "vitamin B6": 0.68, 
@@ -357,14 +357,48 @@
         "url": "www.kee-pex.de", 
         "look": "It is a red can with a bird in the front. I think it should be an eagle or something in front of three pyramids but it looks more like an angry seagul to me (which is even worse!). It says Energy Drink Maca Power, stating that they included something extraordinary into the drink.  The drink itself is pink, which was kinda surprising only knowing either ordinary energy drinks with this yellow-greenish color or the berry offsprings being pink."
     }, 
+    "effect": {
+        "Nutritions": {
+            "niacin": 7.0, 
+            "vitamin C": 0, 
+            "coenzym Q10": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.07, 
+            "energy": 45.0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "guarana": 0, 
+            "sugar": 11.0, 
+            "vitamin B2": 0.6, 
+            "taurine": 400.0, 
+            "vitamin B12": 2.0, 
+            "vitamin B1": 0, 
+            "vitamin B6": 2.0, 
+            "biotin": 0, 
+            "whey": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0
+        }, 
+        "CO2": true, 
+        "name": "effect", 
+        "rating": 8.9, 
+        "bought from": "Rewe Berlin Bohnsdorf", 
+        "overall": "I like the look, the taste and the price. This is one rock solid energy drink, one of my favorites. Do not hesistate to buy it when you see it. Sure there quite some other energy drinks which are a lot cheaper, but this stuff surely tastes good.", 
+        "paid": 0.99, 
+        "volume": 330.0, 
+        "taste": "It really tastes like a great energy drink. It is not too sour or sweet, well actually it is really sweet but that is fine for me. The gummy bear taste is not really strong which is a good thing. That is the stuff i really like to drink. I really would consider it premium (they actually tasted it before selling it).", 
+        "url": "www.effect-energy.com", 
+        "others": "inositol(20mg)", 
+        "look": "It is a white and siver can with red dots. They seem to go for simplicity. I kinda like the look though."
+    }, 
     "schwarze_dose": {
         "Nutritions": {
             "niacin": 7.9, 
             "coenzym Q10": 3, 
             "panthenol acid": 2, 
-            "caffein": 32, 
-            "energy": 58, 
             "sodium": 0.001, 
+            "energy": 58, 
+            "caffein": 32, 
             "guarana": 100, 
             "sugar": 14.4, 
             "vitamin C": 24, 
@@ -386,11 +420,11 @@
     }, 
     "fritz_cola": {
         "Nutritions": {
-            "sugar": 10.5, 
+            "sodium": 0.002, 
             "energy": 42, 
             "others": "", 
             "caffein": 25, 
-            "sodium": 0.002
+            "sugar": 10.5
         }, 
         "CO2": true, 
         "name": "fritz-cola", 
@@ -408,9 +442,9 @@
             "niacin": 0, 
             "glucuronolacton": 240, 
             "panthenol acid": 0, 
-            "sodium": 0.04, 
-            "energy": 46.5, 
             "caffein": 32, 
+            "energy": 46.5, 
+            "sodium": 0.04, 
             "sugar": 11, 
             "vitamin B2": 0.6, 
             "vitamin B3": 8.7, 
@@ -434,24 +468,24 @@
     "booster_edeka": {
         "Nutritions": {
             "niacin": 8.0, 
-            "vitamin B2": 0, 
+            "vitamin C": 0, 
             "coenzym Q10": 0, 
             "panthenol acid": 2.0, 
             "sodium": 0.07, 
             "energy": 44.0, 
             "caffein": 32.0, 
+            "biotin": 0, 
             "guarana": 0, 
             "sugar": 10.4, 
-            "vitamin C": 0, 
+            "vitamin B2": 0, 
             "calcium": 0, 
             "vitamin B12": 2.0, 
             "vitamin B1": 0, 
             "vitamin B6": 2.0, 
             "taurine": 400.0, 
-            "magnesium": 0, 
             "whey": 0, 
             "isomaltose": 0, 
-            "biotin": 0
+            "magnesium": 0
         }, 
         "CO2": true, 
         "name": "Booster Energy Drink", 
@@ -468,9 +502,9 @@
         "Nutritions": {
             "niacin": 8, 
             "panthenol acid": 2, 
-            "caffein": 30, 
-            "energy": 47, 
             "sodium": 0.1, 
+            "energy": 47, 
+            "caffein": 30, 
             "sugar": 10.8, 
             "taurine": 380, 
             "vitamin B12": 2, 
@@ -491,9 +525,9 @@
     "monster_energy": {
         "Nutritions": {
             "niacin": 8.54, 
-            "caffein": 30, 
-            "energy": 48, 
             "sodium": 0.08, 
+            "energy": 48, 
+            "caffein": 30, 
             "sugar": 12, 
             "taurine": 400, 
             "vitamin B12": 2.5, 
@@ -542,9 +576,9 @@
         "Nutritions": {
             "niacin": 8, 
             "panthenol acid": 2, 
-            "caffein": 34, 
-            "energy": 45, 
             "sodium": 0, 
+            "energy": 45, 
+            "caffein": 34, 
             "sugar": 10.7, 
             "taurine": 400, 
             "vitamin B12": 2, 
@@ -565,9 +599,9 @@
     "steinberg": {
         "Nutritions": {
             "panthenol acid": 1.2, 
-            "caffein": 32, 
-            "energy": 48, 
             "sodium": 0.04, 
+            "energy": 48, 
+            "caffein": 32, 
             "sugar": 11.0, 
             "taurine": 30, 
             "vitamin B6": 0.4, 
@@ -590,9 +624,9 @@
         "Nutritions": {
             "niacin": 3.6, 
             "panthenol acid": 1.2, 
-            "caffein": 32, 
-            "energy": 46, 
             "sodium": 0.05, 
+            "energy": 46, 
+            "caffein": 32, 
             "sugar": 10.4, 
             "taurine": 400, 
             "vitamin B12": 0.2, 

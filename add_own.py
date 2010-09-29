@@ -41,6 +41,7 @@ nutr['vitamin B2'] = todec(raw_input('vitamin B2: '))
 nutr['vitamin C'] = todec(raw_input('vitamin C: '))
 nutr['coenzym Q10'] = todec(raw_input('coenzym Q10: '))
 nutr['isomaltose'] = todec(raw_input('isomaltose: '))
+drink['others'] = raw_input('others: ')
 
 drink['volume'] = todec(raw_input('volume: '))
 drink['bought from'] = raw_input('bought from: ')
