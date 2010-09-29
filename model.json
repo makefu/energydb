@@ -82,14 +82,14 @@
         }, 
         "CO2": true, 
         "name": "Gipsy Energy Cola", 
-        "rating": 0, 
+        "rating": 1.0, 
         "bought from": "Lombardini Discont Milano", 
-        "overall": "TODO", 
+        "overall": "This is the WORST! Never try it, just trust me. Never EVER buy this stuff. Even though it costs onl 59 cent, you will regret it!", 
         "paid": 0.59, 
         "volume": 250, 
-        "taste": "TODO", 
+        "taste": "The first sip is like... mh ... 1 second later UAAARGHHHH!!!! Wtf seriously? what were they thinking? This is BY far the worst cola stuff i ever drank. It tastes so much like some weird chemical experiment. Thats how i would imagine toilet cleaner tastes like. Have they ever tasted it before?", 
         "url": "Lockwoods Italiana", 
-        "look": "TODO"
+        "look": "A silver and red can with the Gipsy energy cola logo on it. It really looks cheap to me. But one cannot imagine that some can like that tastes like shit!"
     }, 
     "blitz_start": {
         "Nutritions": {
