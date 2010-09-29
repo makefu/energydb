@@ -9,7 +9,9 @@ completely with ingredients like caffeine or sugar.
 
 For that i will design a database scheme which can handle my demands, as
 well as a web frontend which is able to search through and view the entries
-very similar to a cms but with a bit more structure.
+very similar to a cms. Currently there is only a static site generator with
+some templates, more will come.
+
 
 Usage
 =====
@@ -20,7 +22,7 @@ generate the database.
 - simplejson (pip install simplejson)
 - pystashe (Mustache for python), currently a fork which fixes inner
   contexts from http://github.com/rafaelcv/pystache
-
+- markdown (pip install markdown) for genrating html from this README
 
 Help me!
 ========
