@@ -120,6 +120,40 @@
         "url": "www.schneekoppe.de", 
         "look": "Small red bottle or vial with Michael Schumacher on it.  Looks similar to other shots like Red Bull Shot."
     }, 
+    "power_point_juicy": {
+        "Nutritions": {
+            "niacin": 3.6, 
+            "vitamin B2": 0, 
+            "coenzym Q10": 0, 
+            "panthenol acid": 1.2, 
+            "sodium": 0.1, 
+            "energy": 41.0, 
+            "caffein": 32.0, 
+            "guarana": 0, 
+            "sugar": 9.5, 
+            "vitamin C": 0, 
+            "calcium": 0, 
+            "vitamin B12": 0.2, 
+            "vitamin B1": 0, 
+            "vitamin B6": 0.4, 
+            "biotin": 0, 
+            "taurine": 400.0, 
+            "whey": 51.0, 
+            "isomaltose": 0, 
+            "magnesium": 0
+        }, 
+        "CO2": true, 
+        "name": "powerpoint euphoric energy Juicy", 
+        "rating": 9.4, 
+        "bought from": "Edeka Supercenter Stuttgart Zuffenhausen", 
+        "overall": "This is some great energy drink with 25 percent fruit content. I really like the taste and the price is really ok, too. Overall a great juicy energy drink without can desposit here in Germany. I really can recommend it.", 
+        "paid": 0.69, 
+        "volume": 250.0, 
+        "taste": "It somewhat does not taste any like an ordinary energy drink, more like a multi vitamin drink with CO2. It is a bit sour, but very juicy. I really like the taste.", 
+        "url": "www.powerpoint-energy.de", 
+        "others": "Inosit,Guaranaextract", 
+        "look": "It is an orange and black can with the powerpoint logo at the front. It looks kinda stylish."
+    }, 
     "lions": {
         "Nutritions": {
             "niacin": 7.92, 
@@ -320,15 +354,15 @@
             "sodium": 0.07, 
             "energy": 44.0, 
             "caffein": 30.0, 
-            "calcium": 0, 
             "guarana": 0, 
             "sugar": 10.4, 
             "vitamin B2": 0, 
-            "taurine": 380.0, 
+            "calcium": 0, 
             "vitamin B12": 2.0, 
             "vitamin B1": 0, 
             "vitamin B6": 2.0, 
             "biotin": 0, 
+            "taurine": 380.0, 
             "whey": 0, 
             "isomaltose": 0, 
             "magnesium": 0
@@ -344,29 +378,6 @@
         "url": "Netto Marken-Discount AG, 93142 Maxhuetten-Haidorf -901390-", 
         "others": "", 
         "look": "Silver bottle with some real cheap label with a panther or something as a logo. This stuff looks real cheap, and well... it is, actually. Some people say it looks like a bottle for car oil..."
-    }, 
-    "blitz_energy": {
-        "Nutritions": {
-            "niacin": 7.2, 
-            "panthenol acid": 2, 
-            "caffein": 30, 
-            "energy": 46, 
-            "sodium": 0, 
-            "sugar": 10.5, 
-            "taurine": 400, 
-            "vitamin B12": 0.4, 
-            "vitamin B6": 0.8
-        }, 
-        "CO2": true, 
-        "name": "Blitz! Energy Drink", 
-        "rating": 6.7, 
-        "bought from": "Unes Maxi, Milano, Via E.De Marchi", 
-        "overall": "cheap and solid, probably tastes better chilled.", 
-        "paid": 0.7, 
-        "volume": 250, 
-        "taste": "really sweet which tastes a lot like the standard gummy bear flavour. Not much CO2.(haven't drunk chilled though)", 
-        "url": "www.atlantesrl.it", 
-        "look": "isilver with hurricane on it TODO"
     }, 
     "kee_pex": {
         "Nutritions": {
@@ -391,6 +402,29 @@
         "url": "www.kee-pex.de", 
         "look": "It is a red can with a bird in the front. I think it should be an eagle or something in front of three pyramids but it looks more like an angry seagul to me (which is even worse!). It says Energy Drink Maca Power, stating that they included something extraordinary into the drink.  The drink itself is pink, which was kinda surprising only knowing either ordinary energy drinks with this yellow-greenish color or the berry offsprings being pink."
     }, 
+    "blitz_energy": {
+        "Nutritions": {
+            "niacin": 7.2, 
+            "panthenol acid": 2, 
+            "caffein": 30, 
+            "energy": 46, 
+            "sodium": 0, 
+            "sugar": 10.5, 
+            "taurine": 400, 
+            "vitamin B12": 0.4, 
+            "vitamin B6": 0.8
+        }, 
+        "CO2": true, 
+        "name": "Blitz! Energy Drink", 
+        "rating": 6.7, 
+        "bought from": "Unes Maxi, Milano, Via E.De Marchi", 
+        "overall": "cheap and solid, probably tastes better chilled.", 
+        "paid": 0.7, 
+        "volume": 250, 
+        "taste": "really sweet which tastes a lot like the standard gummy bear flavour. Not much CO2.(haven't drunk chilled though)", 
+        "url": "www.atlantesrl.it", 
+        "look": "isilver with hurricane on it TODO"
+    }, 
     "effect": {
         "Nutritions": {
             "niacin": 7.0, 
@@ -407,11 +441,11 @@
             "vitamin B12": 2.0, 
             "vitamin B1": 0, 
             "vitamin B6": 2.0, 
+            "biotin": 0, 
             "taurine": 400.0, 
-            "magnesium": 0, 
             "whey": 0, 
             "isomaltose": 0, 
-            "biotin": 0
+            "magnesium": 0
         }, 
         "CO2": true, 
         "name": "effect", 
@@ -606,6 +640,40 @@
         "url": "www.rockstarenergy.com", 
         "look": "Black can with golden star at the front. It actually looks pretty cool."
     }, 
+    "leetmate": {
+        "Nutritions": {
+            "niacin": 0, 
+            "vitamin C": 0, 
+            "coenzym Q10": 0, 
+            "panthenol acid": 0, 
+            "sodium": 0, 
+            "energy": 0, 
+            "caffein": 18.0, 
+            "calcium": 0, 
+            "guarana": 0, 
+            "sugar": 0, 
+            "vitamin B2": 0, 
+            "taurine": 0, 
+            "vitamin B12": 0, 
+            "vitamin B1": 0, 
+            "vitamin B6": 0, 
+            "biotin": 0, 
+            "whey": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0
+        }, 
+        "CO2": true, 
+        "name": "1337mate", 
+        "rating": 8.4, 
+        "bought from": "leetmate.de", 
+        "overall": "This scene drink is driven under the concept of CC-BY-NC-SA. The guys behind 1337mate aim to be the open alternative to club mate. The drink as is tastes somewhat good, much more like mate tea.", 
+        "paid": 1.5, 
+        "volume": 330, 
+        "taste": "It tastes like Mate-tea with CO2 and sugar. There is another drink, well known in the hacker scene, Club Mate. It tastes much more like the original Mate tea, much more aromatic and tangy. It got few CO2 but tastes pretty good.", 
+        "url": "www.leetmate.de", 
+        "others": "mate-extract(0.40g)", 
+        "look": "It is a small see-through bottle with a printed black and green label. They got a ASCII-happy smiley in the front. At the inside of the label they got a QR-Code and \"1337 is awesome\"."
+    }, 
     "ed_hardy": {
         "Nutritions": {
             "niacin": 8, 
@@ -654,6 +722,40 @@
         "url": "unimall.de(promo),suesswarenversand.de", 
         "look": "Black can with some musician or something on it, very graphical"
     }, 
+    "flying_power": {
+        "Nutritions": {
+            "niacin": 8.0, 
+            "vitamin C": 0, 
+            "coenzym Q10": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.06, 
+            "energy": 48.0, 
+            "caffein": 32.0, 
+            "biotin": 0, 
+            "guarana": 0, 
+            "sugar": 11.0, 
+            "vitamin B2": 0, 
+            "calcium": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B1": 0, 
+            "vitamin B6": 2.0, 
+            "taurine": 400.0, 
+            "whey": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0
+        }, 
+        "CO2": true, 
+        "name": "Flying Power Energy Drink", 
+        "rating": 5.2, 
+        "bought from": "Aldi Sued Stuttgart Zuffenhausen", 
+        "overall": "I am a bit disappointed by the drink because it provides not the usual quality expected from Aldi. Its incredibly cheap though.At least give it a try if you see it. It has a too intense taste and not enough CO2 for what i like.", 
+        "paid": 0.34, 
+        "volume": 330.0, 
+        "taste": "Smells really intense. Very few CO2, and a very strong gummy bear taste. It also is very sweet. After taste is somewhat sour.", 
+        "url": "S.Spitz GmbH A-4800 Attnang-Puchheim, Austria (powered by topstar)", 
+        "others": "Inositol", 
+        "look": "A brown see-through bottle with a silver and red label. The label has an eagle at the front."
+    }, 
     "relentless": {
         "Nutritions": {
             "niacin": 3.6, 
@@ -677,5 +779,39 @@
         "taste": "The taste is really smooth and not too sweet. It does not taste much like gummy bears, which is, at least for me, a good thing. I really like it. When drinking it you really feal empowered.", 
         "url": "www.relentlessenergy.de", 
         "look": "The can looks really cool with its black front and its white/bronze text. At the bottom it says KEINE HALBEN SACHEN (no things done by halve) but actually is resealable. It is not really simple to drink from this, but the cap holds really tight! "
+    }, 
+    "energy_rocket": {
+        "Nutritions": {
+            "niacin": 7.92, 
+            "vitamin B2": 0, 
+            "coenzym Q10": 0, 
+            "panthenol acid": 1.92, 
+            "sodium": 0.1, 
+            "energy": 44.0, 
+            "caffein": 32.0, 
+            "guarana": 0, 
+            "sugar": 10.0, 
+            "vitamin C": 0, 
+            "calcium": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B1": 0, 
+            "vitamin B6": 2.0, 
+            "taurine": 380.0, 
+            "magnesium": 0, 
+            "whey": 0, 
+            "isomaltose": 0, 
+            "biotin": 0
+        }, 
+        "CO2": true, 
+        "name": "Energy Rocket", 
+        "rating": 8.0, 
+        "bought from": "Kaufland Stuttgart", 
+        "overall": "TODO", 
+        "paid": 0.5, 
+        "volume": 500.0, 
+        "taste": "TODO", 
+        "url": "Radlberger Getraenke A-3105 Unterradlberg", 
+        "others": "", 
+        "look": "Blue bottle with silver label and red-blue emblem"
     }
 }
