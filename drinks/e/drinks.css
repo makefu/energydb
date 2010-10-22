@@ -1,0 +1,13 @@
+div#wrapper {
+    width : 600px;
+    margin : 0px auto;
+}
+#nutritions {
+    float : left;
+}
+#photo {
+    float : left;
+}
+#general_info {
+    clear : both;
+}
