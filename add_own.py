@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 import simplejson as json
 import sys
 from decimal import Decimal
