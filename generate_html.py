@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 import pystache
 import simplejson as json
@@ -7,8 +7,8 @@ def todec(s):
     try: return Decimal(str(round(float(s),3)))
     except: return 0
 
-template_file = 'generate_html.mustache'
-template_drink = 'generate_drink.mustache'
+template_file = 'templates/generate_html.mustache'
+template_drink = 'templates/generate_drink.mustache'
 output_file = 'index.html'
 output_folder = 'drinks/'
 db_file = 'model.json'

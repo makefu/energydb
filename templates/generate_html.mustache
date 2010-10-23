@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" type="text/css" href="drinks/drinks.css" />
+    <link rel="stylesheet" type="text/css" href="drinks/e/drinks.css" />
     <title>Energy Drink Database</title>
     
 </head>
@@ -10,6 +10,7 @@
 <H1>Energy Drink Database</H1>
     <table border="0" width="80%">
         <tr>
+            <th>Thumb</th>
             <th>Name</th>
             <th>CO2</th>
             <th>Price</th>
@@ -17,6 +18,7 @@
         </tr>
         {{#drinks}}
         <tr>
+            <td><img src="drinks/img/thumb_{{key}}.jpg"></td>
             <td><a href="drinks/{{key}}.html">{{name}}</a></td>
             <td>{{#CO2}}Yes{{/CO2}}{{^CO2}}No{{/CO2}}</td>
             <td>{{paid}}</td>

@@ -218,7 +218,7 @@
         "overall": "Well what can i say, this was my first SHOT and i cannot really say i liked the taste. It contains a vast amount of added vitamins and stuff, so it has to be good. The vial is very small and perfect to-go for the quick energy shot. It costs a lot less like the Red Bull Shots here. At least try it once.", 
         "paid": 1.25, 
         "volume": 25, 
-        "taste": "Smells really intense like multi vitamin drinks.First sip is extremely soure, i guess you have to drink it at once.Oh my god it tastes so weird... Like very soure syrup or something. I dont know", 
+        "taste": "Smells really intense like multi vitamin drinks.First sip is extremely sour, i guess you have to drink it at once.Oh my god it tastes so weird... Like very soure syrup or something. I dont know", 
         "url": "www.schneekoppe.de", 
         "look": "Small red bottle or vial with Michael Schumacher on it.  Looks similar to other shots like Red Bull Shot."
     }, 
@@ -310,7 +310,7 @@
         "url": "", 
         "look": ""
     }, 
-    "angel_pomgranate": {
+    "angel_pomegranate": {
         "Nutritions": {
             "sodium": 0.03, 
             "energy": 45, 
