@@ -65,5 +65,5 @@ drinktab[key]= drink
     
 
 f = open(json_file,'w+')
-f.write(json.dumps(drinktab,indent=4,use_decimal=True))
+f.write(json.dumps(drinktab,indent=4,use_decimal=True,sort_keys=True))
 f.close()
