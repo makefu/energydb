@@ -884,6 +884,40 @@
         "url": "www.rockstarenergy.com", 
         "volume": 500
     }, 
+    "rockstar_guava": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q10": 0, 
+            "energy": 63.0, 
+            "guarana": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 3.6, 
+            "others": "Ginseng Extract(1g)", 
+            "panthenol acid": 1.2, 
+            "sodium": 0.1, 
+            "sugar": 15.0, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0.2, 
+            "vitamin B2": 0, 
+            "vitamin B6": 0.4, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "E-Center Stuttgart Zuffenhausen", 
+        "look": "Like all Rockstar drinks it comes in a half liter can with a big golden star at the front. I really like this style. This can is purple with a golden top. Maybe because it should look somewhat tropical (thats at least what the name suggests).", 
+        "name": "Rockstar Punched Energy+Guava", 
+        "overall": "I like it much better than most of the Rockstar Energy Drinks because it is only sweet, not OMGWTF sweet.I can recommend this drink, even though it is not 100 percent my taste. Check it out.", 
+        "paid": 1.79, 
+        "rating": 7.6, 
+        "taste": "The taste is similar to the Monster Ripper, but it is both barely as sweet and disgusting as that drink. It tastes somewhat like pineapple but i am actually not really sure what it \"should\" be. I guess it is guava, but i never actually ate or drank this fruit. The taste is really not too sweet for my taste. I am really sure it is only drinkable when it is cold, otherwise the taste may fall over to MAXIMUM sweetness.", 
+        "url": "www.rockstarenergy.de", 
+        "volume": 500.0
+    }, 
     "russian_power": {
         "CO2": true, 
         "Nutritions": {
