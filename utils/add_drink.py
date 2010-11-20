@@ -18,7 +18,13 @@ def todec(s):
 drinkcont = {}
 key = raw_input("Key ")
 drink['name'] = raw_input("full Name:")
+
 drink['CO2']= str2bool(raw_input('CO2 '))
+drink['taste'] = raw_input('taste: ')
+drink['look'] = raw_input('look: ')
+drink['overall'] = raw_input('overall: ')
+drink['url'] = raw_input('url: ')
+drink['rating'] = todec(raw_input('rating: '))
 
 drink['Nutritions'] = {}
 nutr = drink['Nutritions']
@@ -47,11 +53,6 @@ drink['volume'] = todec(raw_input('volume: '))
 drink['bought from'] = raw_input('bought from: ')
 drink['paid'] = todec(raw_input('paid: '))
 
-drink['look'] = raw_input('look: ')
-drink['taste'] = raw_input('taste: ')
-drink['overall'] = raw_input('overall: ')
-drink['url'] = raw_input('url: ')
-drink['rating'] = todec(raw_input('rating: '))
 
 print "to add:",drink
 f = open(json_file)
