@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 import simplejson as json
-import sys
+import sys, datetime
 from decimal import Decimal
 print "Usage: %s " % sys.argv[0]
 al = len(sys.argv)
@@ -17,6 +17,7 @@ def todec(s):
 
 drinkcont = {}
 key = raw_input("Key ")
+drink['date'] = datetime.date.today()
 drink['name'] = raw_input("full Name:")
 
 drink['CO2']= str2bool(raw_input('CO2 '))

@@ -12,8 +12,21 @@ well as a web frontend which is able to search through and view the entries
 very similar to a cms. Currently there is only a static site generator with
 some templates, more will come.
 
+Keep in Mind
+------------
+... that this project is an VERY early stage and i am currently mostly
+interested in creating data entries of drinks i drank. Occasionally i will
+implement of what i think are "cool" features like a changelog or RSS feed
+but do not expect a great deal of changes in a very short timespan. 
 
-Usage
+It would be really really glad if anyone could provide useful informations 
+how to make the design for the front page and the single drink pages, 
+because i am somewhat retarded in that way.
+
+Even better would be a pull request with fixed css and/or mustache template
+files. 
+
+Installation and Usage
 =====
 you will need the following things to add new drinks automagically and
 generate the database.
