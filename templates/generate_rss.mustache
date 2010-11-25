@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Energydb Drinks</title>
+  <description>This is the feed of all energydrinks held on energydb</description>
+  <link>{{website}}</link>
+  <lastBuildDate>{{today}} </lastBuildDate>
+  <pubDate>{{today}} </pubDate>
+{{#drinks}} 
+  <item>
+    <title>{{name}}</title>
+    <description></description>
+    <link>{{host}}/drinks/{{key}}.html</link>
+    <guid>{{key}}</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+{{/drinks}} 
+</channel>
+</rss>
+
