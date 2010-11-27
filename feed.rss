@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-11-25 </lastBuildDate>
-  <pubDate>2010-11-25 </pubDate>
+  <lastBuildDate>2010-11-28 </lastBuildDate>
+  <pubDate>2010-11-28 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -144,6 +144,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/template.html</link>
     <guid>template</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>mad bat energy drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mad_bat.html</link>
+    <guid>mad_bat</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
