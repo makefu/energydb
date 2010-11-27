@@ -17,7 +17,7 @@ def todec(s):
 
 drinkcont = {}
 key = raw_input("Key ")
-drink['date'] = datetime.date.today()
+drink['date'] = str(datetime.date.today())
 drink['name'] = raw_input("full Name:")
 
 drink['CO2']= str2bool(raw_input('CO2 '))
