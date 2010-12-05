@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-11-30 </lastBuildDate>
-  <pubDate>2010-11-30 </pubDate>
+  <lastBuildDate>2010-12-05 </lastBuildDate>
+  <pubDate>2010-12-05 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -207,6 +207,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_guava.html</link>
     <guid>rockstar_guava</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Trojka energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/trojka_energy.html</link>
+    <guid>trojka_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
