@@ -26,6 +26,7 @@ drink['look'] = raw_input('look: ')
 drink['overall'] = raw_input('overall: ')
 drink['url'] = raw_input('url: ')
 drink['rating'] = todec(raw_input('rating: '))
+drink['tribute'] = raw_input('tribute: ')
 
 drink['Nutritions'] = {}
 nutr = drink['Nutritions']
