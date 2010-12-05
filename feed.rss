@@ -280,6 +280,13 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>NOS</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/nos.html</link>
+    <guid>nos</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>Monster Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/monster_energy.html</link>
