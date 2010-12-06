@@ -3,10 +3,11 @@ div#wrapper {
     margin : 0px auto;
 }
 #nutritions {
-    float : left;
+  width : 250px;
+  float : left;
 }
 #photo {
-    float : left;
+  float : right;
 }
 #general_info {
     clear : both;
