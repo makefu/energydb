@@ -1,14 +1,33 @@
 div#wrapper {
-    width : 600px;
+    width : 650px;
     margin : 0px auto;
-}
-#nutritions {
-  width : 250px;
-  float : left;
 }
 #photo {
   float : right;
+  margin : 10px;
 }
-#general_info {
-    clear : both;
+
+body {
+  font-family : arial, helvetica;
+}
+
+table {
+  border : 1px solid #666;
+}
+tr:nth-child(even) {
+  background-color : #eee;
+}
+tr:nth-child(odd) {
+  background-color : #fff;
+}
+/* The big energy drink table */
+
+#all_drinks tr {
+  height: 100px;
+}
+#all_drinks tr:hover {
+  background-color: #ddd
+}
+#all_drinks tr:first-child {
+  height: 40px;
 }
