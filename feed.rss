@@ -4,8 +4,15 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-12-06 </lastBuildDate>
-  <pubDate>2010-12-06 </pubDate>
+  <lastBuildDate>2010-12-09 </lastBuildDate>
+  <pubDate>2010-12-09 </pubDate>
+<item>
+    <title>Russian Power</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/russian_power.html</link>
+    <guid>russian_power</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -46,6 +53,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/relentless_shot.html</link>
     <guid>relentless_shot</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>actilife Be you</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/actilife.html</link>
+    <guid>actilife</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -182,10 +196,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Russian Power</title>
+    <title>M Budget DRINK Sugarfree</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/russian_power.html</link>
-    <guid>russian_power</guid>
+    <link>http://makefu.github.com/energydb/drinks/m_budget_sugarfree.html</link>
+    <guid>m_budget_sugarfree</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
