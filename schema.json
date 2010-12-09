@@ -1,5 +1,5 @@
 { 
-   "name" : "template",
+   "name" : "",
    "CO2"  : true,
    "Nutritions" : {
        "energy" : "kcal",
@@ -26,10 +26,12 @@
     },
     "volume" : "ml",
     "bought from" : "",
-    "paid" : "euro",
+    "paid" : "Euro",
     "look" : "",
     "taste" : "",
     "overall" : "",
     "url" : "",
-    "rating" : ""
+    "rating" : "",
+    "date" : "",
+    "tribute" : ""
 }
