@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-12-09 </lastBuildDate>
-  <pubDate>2010-12-09 </pubDate>
+  <lastBuildDate>2010-12-10 </lastBuildDate>
+  <pubDate>2010-12-10 </pubDate>
 <item>
     <title>Russian Power</title>
     <description></description>
@@ -81,6 +81,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/she_energy.html</link>
     <guid>she_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Trojka energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/trojka_energy.html</link>
+    <guid>trojka_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -224,10 +231,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Trojka energy</title>
+    <title>Denner E-ZERO energy-taste</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/trojka_energy.html</link>
-    <guid>trojka_energy</guid>
+    <link>http://makefu.github.com/energydb/drinks/denner_e-zero.html</link>
+    <guid>denner_e-zero</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
