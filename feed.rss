@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-12-10 </lastBuildDate>
-  <pubDate>2010-12-10 </pubDate>
+  <lastBuildDate>2010-12-11 </lastBuildDate>
+  <pubDate>2010-12-11 </pubDate>
 <item>
     <title>Russian Power</title>
     <description></description>
@@ -32,6 +32,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/monster_ripper.html</link>
     <guid>monster_ripper</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>ACTION Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/action_energy_drink.html</link>
+    <guid>action_energy_drink</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
