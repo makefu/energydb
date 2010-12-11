@@ -747,6 +747,42 @@
         "url": "www.lions-energizer.de", 
         "volume": 250
     }, 
+    "m_budget_energy": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q10": 0, 
+            "energy": 45.0, 
+            "guarana": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 8.0, 
+            "others": "", 
+            "panthenol acid": 2.0, 
+            "sodium": 0, 
+            "sugar": 11.0, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Migros Swizerland", 
+        "date": "2010-12-11", 
+        "look": "It comes in a cheap looking green can. The can is the same as the sugar free variant of this energy drink, just without the sugarfree label. You would not expect this drink to appear in some clubs, but that is no problem for me.", 
+        "name": "M Budget Energy Drink", 
+        "overall": "This is some pretty good drink for its price. You may want to drink this one with your friends. The price is really really good for swizerland and o.k. for a drink here in Germany. If you have the chance and you are thirsty for ENERGY, be sure to check it out at least.", 
+        "paid": 0.66, 
+        "rating": 8.2, 
+        "taste": "Well, actually this drink does not really tastes too bad. It got the typical gummy bear taste, the after taste is a bit sour but quite ok. I would say this is the \"average\" energy drink. It does not taste like anything special. This is how you probably would expect an energy drink would taste like.", 
+        "tribute": "Thanks goes to Thorsten Schoog. Thank you for this delicious drink!", 
+        "url": "migros.ch", 
+        "volume": 250.0
+    }, 
     "m_budget_sugarfree": {
         "CO2": true, 
         "Nutritions": {
