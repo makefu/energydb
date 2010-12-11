@@ -819,6 +819,42 @@
         "url": "www.migros.ch", 
         "volume": 250.0
     }, 
+    "m_classic_energy_cola": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 26.0, 
+            "calcium": 0, 
+            "coenzym Q10": 0, 
+            "energy": 44.0, 
+            "guarana": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 0, 
+            "others": "", 
+            "panthenol acid": 0, 
+            "sodium": 0, 
+            "sugar": 11.0, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Migros Swizerland", 
+        "date": "2010-12-11", 
+        "look": "It comes in a silver can with red label and text. It is the same can as the other M Classic drinks just a different color. Again the can is slightly bigger than the normal cans, which is kinda cool in my opinion.", 
+        "name": "M Classig Energy Cola", 
+        "overall": "I am on the quest for the reasonably good tasting cola and energy drink. After this drink, i still am... How is it even possible to fuck up the taste that badly with every cola and energy drink? In the near future i will try it myself, to mix cola and energy. Maybe it is not even possible to mix these two without producing a bad taste? In my next cola/energy drink review i will write my results.", 
+        "paid": 0.77, 
+        "rating": 5.0, 
+        "taste": "UARGH this smells so weird... EWWW, why do all energy cola mix drinks taste so bad??? It tastes like there are some weird \"spices\" in this drink, i do not really know why. The after taste is just plain BAD, like cola syrup and energy and spices. In addition, the drink does not have enough CO2, which really sucks.", 
+        "tribute": "Tribute again goes to Thorsten Schoog!", 
+        "url": "www.migros.ch", 
+        "volume": 296.0
+    }, 
     "m_classic_energy_fruity": {
         "CO2": true, 
         "Nutritions": {
