@@ -5,6 +5,7 @@ git merge master
 CURR=`pwd`
 cd /home/makefu/repos/energydb
 ./generate_html.py
+git add .
 cd $CURR
 git commit -a -m "merged in changes from master"
 git push
