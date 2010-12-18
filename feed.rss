@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-12-17 </lastBuildDate>
-  <pubDate>2010-12-17 </pubDate>
+  <lastBuildDate>2010-12-18 </lastBuildDate>
+  <pubDate>2010-12-18 </pubDate>
 <item>
     <title>Russian Power</title>
     <description></description>
@@ -172,13 +172,6 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/lions.html</link>
     <guid>lions</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Template</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/template.html</link>
-    <guid>template</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
