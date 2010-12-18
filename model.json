@@ -57,7 +57,7 @@
             "vitamin B2": 0, 
             "vitamin B6": 2.0, 
             "vitamin C": 0, 
-            "whey": 0
+            "whey": 51
         }, 
         "bought from": "Beverage Dispenser Stuttgart Schwabstrasse", 
         "date": "2010-12-11", 
@@ -1618,36 +1618,6 @@
         "taste": "Oh my god, this is so... berry'... It smells so strong like these berry gummy bears. This is so sweet... geez. This that  same artificial berry taste you might know. It is just waaay too strong, i do not really like it.", 
         "url": "taurusenergy.de", 
         "volume": 500.0
-    }, 
-    "template": {
-        "CO2": true, 
-        "Nutritions": {
-            "biotin": 0, 
-            "caffein": 0, 
-            "coenzym Q10": 0, 
-            "energy": 0, 
-            "glucuronolacton": 0, 
-            "guarana": 0, 
-            "isomaltose": 0, 
-            "niacin": 0, 
-            "others": "", 
-            "panthenol acid": 0, 
-            "sodium": 0, 
-            "sugar": 0, 
-            "taurine": 0, 
-            "vitamin B12": 0, 
-            "vitamin B6": 0, 
-            "vitamin C": 0
-        }, 
-        "bought from": "", 
-        "look": "", 
-        "name": "Template", 
-        "overall": "", 
-        "paid": 1, 
-        "rating": 0, 
-        "taste": "", 
-        "url": "", 
-        "volume": 330
     }, 
     "trojka_energy": {
         "CO2": true, 
