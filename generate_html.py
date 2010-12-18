@@ -44,6 +44,7 @@ for drink in drinktab.keys():
 
 
 # write the complete list
+drink_list['num_drinks'] = len(drinktab)
 f = open(output_file,"w")
 f.write(pystache.render(list_template,drink_list))
 f.close()
