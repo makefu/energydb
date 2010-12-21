@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-12-18 </lastBuildDate>
-  <pubDate>2010-12-18 </pubDate>
+  <lastBuildDate>2010-12-21 </lastBuildDate>
+  <pubDate>2010-12-21 </pubDate>
 <item>
     <title>Russian Power</title>
     <description></description>
@@ -74,6 +74,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/m_budget_energy.html</link>
     <guid>m_budget_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Naturell energy Citrus</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/naturell_energy_citrus.html</link>
+    <guid>naturell_energy_citrus</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -224,10 +231,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Naturell energy Citrus</title>
+    <title>ICE-X Cannabis Ice Tea</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/naturell_energy_citrus.html</link>
-    <guid>naturell_energy_citrus</guid>
+    <link>http://makefu.github.com/energydb/drinks/ice-x.html</link>
+    <guid>ice-x</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
