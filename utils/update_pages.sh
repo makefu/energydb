@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if ! $(git diff-index --quiet HEAD);
+then
+  echo "still have dirty tree?"
+  exit 1
+fi
 git checkout gh-pages
 git merge master
 CURR=`pwd`
