@@ -1045,8 +1045,8 @@
             "vitamin B6": 0.84
         }, 
         "bought from": "Supermarked PAM, Milano, Viale Olona. ", 
-        "also from" : [
-          "Edeka Supercenter Stuttgart Zuffenhausen"
+        "also from" : [ { "shop" :
+          "Edeka Supercenter Stuttgart Zuffenhausen"}
         ],
         "last_reviewed": "17.12.2010", 
         "look": "black can, green M. One of the more common energy drinks", 
