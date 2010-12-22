@@ -105,9 +105,11 @@
 </div>
 <div id="general_info">
 <h2>General Informations</h2>
+{{#date}}Day of Review: {{date}} <br />{{/date}}
 CO2: <td>{{#CO2}}Yes{{/CO2}}{{^CO2}}No{{/CO2}} <br />
 Volume: {{volume}} ml <br />
 Bought from: {{bought from}} <br />
+{{#also from}}Also from: {{shop}} <br />{{/also from}}
 Paid: {{paid}} Euro<br />
 URL: {{url}} <br />
 <h2>Review</h2>

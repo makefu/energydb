@@ -1044,7 +1044,10 @@
             "vitamin B2": 0.74, 
             "vitamin B6": 0.84
         }, 
-        "bought from": "Supermarked PAM, Milano, Viale Olona. UPDATE: Edeka Supercenter Stuttgart", 
+        "bought from": "Supermarked PAM, Milano, Viale Olona. ", 
+        "also from" : [ { "shop" :
+          "Edeka Supercenter Stuttgart Zuffenhausen"}
+        ],
         "last_reviewed": "17.12.2010", 
         "look": "black can, green M. One of the more common energy drinks", 
         "name": "Monster Energy", 
