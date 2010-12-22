@@ -2,7 +2,7 @@
 
 import pystache
 import simplejson as json
-import subprocess,cgi, datetime
+import subprocess,cgi, datetime,re
 from decimal import Decimal
 def todec(s):
     try: return Decimal(str(round(float(s),3)))
@@ -17,7 +17,10 @@ output_folder = 'drinks/'
 db_file = 'model.json'
 
 drink_list = {}
-drink_list['changes'] = cgi.escape(subprocess.Popen(['git' ,'log' ,'master','-n','3'],stdout=subprocess.PIPE).communicate()[0]).replace('\n','<br/>')
+changes =subprocess.Popen(['git' ,'log' ,'master','-n','3','--no-color'],stdout=subprocess.PIPE).communicate()[0]
+changes = re.sub(r'commit.*\n','',changes)
+changes = re.sub(r'Author.*\n','',changes)
+drink_list['changes'] = cgi.escape(changes).replace('\n','<br/>\n')
 drink_list['today'] = datetime.date.today()
 drink_list['host'] = 'http://makefu.github.com/energydb'
 
