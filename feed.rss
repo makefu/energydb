@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2010-12-26 </lastBuildDate>
-  <pubDate>2010-12-26 </pubDate>
+  <lastBuildDate>2010-12-28 </lastBuildDate>
+  <pubDate>2010-12-28 </pubDate>
 <item>
     <title>Russian Power</title>
     <description></description>
@@ -375,6 +375,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/steinberg.html</link>
     <guid>steinberg</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Ener-G Shot</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/energ-g_shot.html</link>
+    <guid>energ-g_shot</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
