@@ -235,14 +235,14 @@
             "vitamin C": 0, 
             "whey": 0
         }, 
-        "bought from": "TODO", 
-        "look": "This drinks comes right from Holland, therefore most texts are dutch. It comes in a black bottle with a \"blue bastard\" dog at the cover. The can says it got \"an awfully 'cool' taste\" but i am not quite convinced yet. At first sight i haven't spotted the text it got CO2 but i hope for the best. O.k lets give it a shot", 
+        "bought from": "Deka Markt,Zaanse Schaan Netherlands", 
+        "look": "This drinks comes right from Holland, therefore most texts are dutch. It comes in a black can with a \"Blue Bastard\" dog at the cover. The can says it got \"an awfully 'cool' taste\" but i am not quite convinced yet. At first sight i haven't spotted the text it got CO2 but i hope for the best. O.k lets give it a shot", 
         "name": "Blue Bastard Energy Drink", 
         "overall": "All in all, this drink tastes pretty good. In respect to the price, it is really neat. I probably won't have the chance to drink it again, but if you live in Holland, you might be lucky to find it in your local supermarket.", 
         "paid": 0.35, 
         "rating": 8.1, 
         "taste": "It is a bit sour and got very few CO2 inside. Still, it does not taste too bad. The drink is sweet, but not too sweet and it is quite drinkable. This taste is relevant to my interest.", 
-        "tribute" : "I want to thank Misa for buying me this drink on her trip to Holland.I will always remember the time we drank and reviewed \"She Super Energy Drink\" in Hamburg.",
+        "tribute" : "I want to thank Misa for buying me this drink on her trip to Holland.I will always remember the time we drank and reviewed the \"Blue Bastard\" in Hamburg.",
         "url": "Blue Bastard Postbus 80, 4153 ZH BEESD", 
         "volume": 250.0
     }, 
@@ -670,11 +670,11 @@
             "vitamin C": 0, 
             "whey": 0
         }, 
-        "bought from": "Somewhere in the Netherlands (TODO)", 
-        "look": "It comes in a silver can with red and black printing. The full text at the front is \"Energy Slammers refreshing powerdrink with the 'unique energy taste'. Well, lets see how unique it is. The can does not look too expensive (well it isn't :P ). But i must admit, it really looks like an average energy drink.", 
+        "bought from": "Deka Markt,Zaanse Schaan Netherlands", 
+        "look": "It comes in a silver can with red and black printing. The full text at the front is \"Energy Slammers refreshing powerdrink with the 'unique energy taste'\". Well, lets see how unique it is. The can does not look too expensive (well it isn't :P ). But i must admit, it really looks like an average energy drink.", 
         "name": "Energy Slammers Refreshing Powerdrink", 
         "overall": "This is another energy drink from the Netherlands. It promotes its 'unique' taste and i must say the taste is somewhat unique, but not really in a good way. Most of the time breweries try out new tastes for their energy drinks they fail, this time it is not really the case. It is O.K. but surely not the best drink i ever drank. Give it a shot, you might like it. P.S. i was a bit ill the time, so i might not have described the taste 100 percent accurate.", 
-        "paid": 0.79, 
+        "paid": 0.28, 
         "rating": 6.3, 
         "taste": "The first sip was like... mh it tastes like nothing (i thought it is because of the cold i had), but the after taste is ... \"unique\", really. It tastes like hubba bubba chewing gum. It is incredibly sweet and i really do not like this after taste. It does not have too much CO2 inside though, it is quite drinkable in this way.", 
         "tribute" : "Thank you so much, Misa, for buying me this drink in the Netherlands!",
@@ -1675,7 +1675,7 @@
             "vitamin C": 25, 
             "whey": 0
         }, 
-        "bought from": "Netherlands (TODO)", 
+        "bought from": "Deka Markt,Zaanse Schaan Netherlands", 
         "look": "It comes in a pink can with a she-superman logo (or diamond) with a devils tail. As this is an netherland energy drink, everything text on the can is dutch language, which is a pain in the ass to decypher.", 
         "name": "She Super Energy Drink", 
         "overall": "I do not know if this really is a womens drink, maybe it tastes better when you are a girl. It tastes ... well different i guess. If you like incredibly sour drinks, this one is for you. If you ever tried center shock and liked it (or you like giving it to other people) this drink is a must. Check it out, it even has no sugar and calories, e.g. you do not get fat.", 
@@ -1832,13 +1832,14 @@
             "vitamin C": 0, 
             "whey": 0
         }, 
-        "bought from": "somewhere in NL (TODO)", 
+        "bought from": "Deka Markt,Zaanse Schaan Netherlands", 
         "look": "It comes in a green can with the black \"V\" logo at the front. The V looks like the atom symbol. It looks kinda cool though.", 
         "name": "V the afternoon wake-up call", 
         "overall": "It was nice to have a really different taste from ordinary drink, but \"special\" does not always mean \"better\". Therefore i cannot really recommend it. The after taste is just weird.", 
         "paid": 0.75, 
         "rating": 5.8, 
         "taste": "Tastes really... weird. It got a somewhat 'smokey', bitter after taste. I cannot really say i like it. There is not much CO2 in the drink, which, for me is definitly a minus. There is definitly not too much prickling on my tongue. It does not have the typical gummy bear taste like most energy drinks, this is probably because it does not contain any taurine.", 
+        "tribute" : "Very special Thanks goes to Misa for buying this drink for me in the Netherlands",
         "url": "Winters, Maarheeze NL", 
         "volume": 250.0
     }
