@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-01-08 </lastBuildDate>
-  <pubDate>2011-01-08 </pubDate>
+  <lastBuildDate>2011-01-09 </lastBuildDate>
+  <pubDate>2011-01-09 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -175,10 +175,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Lions Energizer</title>
+    <title>Clickz Suplemen Makanan</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
-    <guid>lions</guid>
+    <link>http://makefu.github.com/energydb/drinks/clickz.html</link>
+    <guid>clickz</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -193,6 +193,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/blue_bastard.html</link>
     <guid>blue_bastard</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Lions Energizer</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
+    <guid>lions</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
