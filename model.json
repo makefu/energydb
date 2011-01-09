@@ -337,6 +337,42 @@
         "url": "www.burnenergydrink.it", 
         "volume": 250
     }, 
+    "clickz": {
+        "CO2": false, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 15.2, 
+            "calcium": 0, 
+            "coenzym Q10": 0, 
+            "energy": 0, 
+            "guarana": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 0, 
+            "others": "ginseng(180ug)", 
+            "panthenol acid": 0, 
+            "sodium": 0, 
+            "sugar": 0, 
+            "taurine": 36.4, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 0, 
+            "vitamin C": 3.0, 
+            "whey": 0
+        }, 
+        "bought from": "Indomaret Bali, Indonesia", 
+        "date": "2011-01-09", 
+        "look": "The energy drink comes in a small see-through plastic bottle with a red and yellow label. The Clickz(r) logo is at the front. The drink itself has a somewhat yellowy color and does not look too promising.", 
+        "name": "Clickz Suplemen Makanan", 
+        "overall": "It looks like the first sight is not always right. Actually this is the best non-CO2 drink i ever drank. It is just so much better than every comparable drink. It is juicy and fruity and first of all it is not too sweet and not too sour! Why cannot other producer do as well here in Germany? This is some first class still energy drink.", 
+        "paid": 0.28, 
+        "rating": 7.6, 
+        "taste": "It does not smell weird or something, just a lot like gummy bear flavor from ordinary drinks just much more intense. The first sip was like... whew, this does not taste too bad. Actually it is really good for a drink without CO2. The flavor is similar to some fruit juice, has an undefined \"fruity\" taste but is much sweeter than normal juices just not as sweet as most energy drinks. The after taste is a bit sour. I somewhat like it.", 
+        "tribute": "Lots of Thanks goes to Misa, who brought me the first delicious still energy drink i ever drank!", 
+        "url": "PT. Sariguna Primatirta Pandaan, Indonesia", 
+        "volume": 330.0
+    }, 
     "denner_e-zero": {
         "CO2": true, 
         "Nutritions": {
