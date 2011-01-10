@@ -242,7 +242,7 @@
         "paid": 0.35, 
         "rating": 8.1, 
         "taste": "It is a bit sour and got very few CO2 inside. Still, it does not taste too bad. The drink is sweet, but not too sweet and it is quite drinkable. This taste is relevant to my interest.", 
-        "tribute" : "I want to thank Misa for buying me this drink on her trip to Holland.I will always remember the time we drank and reviewed the \"Blue Bastard\" in Hamburg.",
+        "tribute": "I want to thank Misa for buying me this drink on her trip to Holland.I will always remember the time we drank and reviewed the \"Blue Bastard\" in Hamburg.", 
         "url": "Blue Bastard Postbus 80, 4153 ZH BEESD", 
         "volume": 250.0
     }, 
@@ -677,7 +677,7 @@
         "paid": 0.28, 
         "rating": 6.3, 
         "taste": "The first sip was like... mh it tastes like nothing (i thought it is because of the cold i had), but the after taste is ... \"unique\", really. It tastes like hubba bubba chewing gum. It is incredibly sweet and i really do not like this after taste. It does not have too much CO2 inside though, it is quite drinkable in this way.", 
-        "tribute" : "Thank you so much, Misa, for buying me this drink in the Netherlands!",
+        "tribute": "Thank you so much, Misa, for buying me this drink in the Netherlands!", 
         "url": "Slammers Postbus 80 4153 ZH BEESD Nederland", 
         "volume": 250
     }, 
@@ -811,6 +811,42 @@
         "taste": "It somewhat tastes like Club Mate (not yet reviewed in this Database), actually it is kinda nice. The drink is not really sweet but a somewhat tart. The aftertaste is... well weird ...? I do not really know how to describe the taste, it was when rough when swallowing it down and left a weird \"hemp-like\" taste in the throat. I really have problems to describe this one. I mean it is not bad and all,actually surprisingly good but there is somewhat, which is just different i guess.", 
         "tribute": "Lots of thanks goes to Chris Gregorian who bought me this (and other drinks, which i will review in near future) for christmas. Still, why do you bought 20 MAD BAT energy drinks?????", 
         "url": "www.ice-x.eu", 
+        "volume": 250.0
+    }, 
+    "jack_jones": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 33.0, 
+            "calcium": 0, 
+            "coenzym Q10": 0, 
+            "energy": 47.0, 
+            "guarana": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 5.4, 
+            "others": "Folic acid(60ug)", 
+            "panthenol acid": 1.8, 
+            "sodium": 0.001, 
+            "sugar": 11.3, 
+            "taurine": 30.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0, 
+            "vitamin B2": 0.48, 
+            "vitamin B6": 0.6, 
+            "vitamin C": 18.0, 
+            "whey": 0
+        }, 
+        "bought from": "Jack/Jones jeans shop", 
+        "date": "2011-01-10", 
+        "look": "The drink comes in a black can  with white lines and text.", 
+        "name": "Jack Jones Energy Drink", 
+        "overall": "I must say i somewhat like it. It does not taste bad and everything, but it is really nothing special. One problem is the price tag which is really above average. This is one of these promotional drinks labeled by the companies. I hope to find the \"original\" energy drink with the data collected.", 
+        "paid": 1.5, 
+        "rating": 8.1, 
+        "taste": "Yep, it's Energy Drink. It is not that sweet, tastes somewhat like ... well energy drink? This is \"the\" definitive average energy drink. I mean it is not \"extreme\" in any way, but this is definitly a pro. I like it!", 
+        "tribute": "", 
+        "url": "www.uid.ag", 
         "volume": 250.0
     }, 
     "kee_pex": {
@@ -1069,7 +1105,7 @@
         "paid": 0.89, 
         "rating": "0.1", 
         "taste": "EWWWW... wtf seriously? This drink is just disgusting. It tastes something between gummy and plastic.  Has someone from the producer ever tasted it before selling? obviously NOT! It just tastes WRONG, probably something between toilet cleaner and dish soap.", 
-        "tribute" : "What the fuck were you thinking Christopher when you bought me 20(!) of these AFTER i reviewed this drink? Thank you very much...",
+        "tribute": "What the fuck were you thinking Christopher when you bought me 20(!) of these AFTER i reviewed this drink? Thank you very much...", 
         "url": "www.madbat.net", 
         "volume": 250.0
     }, 
@@ -1682,7 +1718,7 @@
         "paid": 0.99, 
         "rating": 6.5, 
         "taste": "It somewhat smells like synthetic peach at the first smell. When you drink it, the first sip is like... mhh this really smells like peach or something. Then you swallow it down, it tastes like apple or something, THEN it is like a punch in the face by SOUR. If you ever tried Center Shock chewing gum, this is the opposite of them, first somewhat delicious and then incredibly sour(painful). I never thought this is ever possible with an energy drink. Everything inside your mouth feels tingly, probably not made by human.", 
-        "tribute" : "Thank you Misa for buying me this drink from Holland.",
+        "tribute": "Thank you Misa for buying me this drink from Holland.", 
         "url": "she-energydrink.com", 
         "volume": 250
     }, 
@@ -1839,7 +1875,7 @@
         "paid": 0.75, 
         "rating": 5.8, 
         "taste": "Tastes really... weird. It got a somewhat 'smokey', bitter after taste. I cannot really say i like it. There is not much CO2 in the drink, which, for me is definitly a minus. There is definitly not too much prickling on my tongue. It does not have the typical gummy bear taste like most energy drinks, this is probably because it does not contain any taurine.", 
-        "tribute" : "Very special Thanks goes to Misa for buying this drink for me in the Netherlands",
+        "tribute": "Very special Thanks goes to Misa for buying this drink for me in the Netherlands", 
         "url": "Winters, Maarheeze NL", 
         "volume": 250.0
     }
