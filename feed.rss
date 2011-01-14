@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-01-10 </lastBuildDate>
-  <pubDate>2011-01-10 </pubDate>
+  <lastBuildDate>2011-01-14 </lastBuildDate>
+  <pubDate>2011-01-14 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -84,10 +84,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Taurus Energy Drink Berry</title>
+    <title>Lions Energizer</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
-    <guid>taurus_berry</guid>
+    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
+    <guid>lions</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -133,6 +133,13 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>miXXed up light</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mixxed_up_light.html</link>
+    <guid>mixxed_up_light</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>Gipsy Energy Cola</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/gipsy_energy_cola.html</link>
@@ -147,10 +154,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Blitz Start</title>
+    <title>BAWLS Guarana Cherry</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/blitz_start.html</link>
-    <guid>blitz_start</guid>
+    <link>http://makefu.github.com/energydb/drinks/bawls_cherry.html</link>
+    <guid>bawls_cherry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -196,10 +203,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Lions Energizer</title>
+    <title>Blitz Start</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
-    <guid>lions</guid>
+    <link>http://makefu.github.com/energydb/drinks/blitz_start.html</link>
+    <guid>blitz_start</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -291,6 +298,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/schwarze_dose.html</link>
     <guid>schwarze_dose</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Taurus Energy Drink Berry</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
+    <guid>taurus_berry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
