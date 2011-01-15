@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-01-14 </lastBuildDate>
-  <pubDate>2011-01-14 </pubDate>
+  <lastBuildDate>2011-01-15 </lastBuildDate>
+  <pubDate>2011-01-15 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -301,10 +301,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Taurus Energy Drink Berry</title>
+    <title>Red Horse Energydrink</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
-    <guid>taurus_berry</guid>
+    <link>http://makefu.github.com/energydb/drinks/red_horse.html</link>
+    <guid>red_horse</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -382,6 +382,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_energy.html</link>
     <guid>rockstar_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Taurus Energy Drink Berry</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
+    <guid>taurus_berry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
