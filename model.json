@@ -1427,6 +1427,42 @@
         "url": "SIG-Import GmbH", 
         "volume": 250
     }, 
+    "red_horse": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 30.0, 
+            "calcium": 0, 
+            "coenzym Q10": 0, 
+            "energy": 48.0, 
+            "guarana": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 8.0, 
+            "others": "", 
+            "panthenol acid": 2.0, 
+            "sodium": 0.03, 
+            "sugar": 11.3, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Aldi Nord, Hamburg", 
+        "date": "2011-01-15", 
+        "look": "It comes in a generic blue bottle with a silver cap and silver label. At the front there is a blue drawn horse together with the big Red Horse writing. The drink looks like the many discounter bottles for non-still drinks. ", 
+        "name": "Red Horse Energydrink", 
+        "overall": "This is just another bad discounter energy drink. I do not know why but most of the drinks sold by discounters do not taste \"good\" or \"great\", most of them just plain suck. And so does this drink. Without the bad aftertaste it might be ok, but not this way. Refrain yourself from buying this drink, trust me even though it is pretty cheap!", 
+        "paid": 0.59, 
+        "rating": 4.4, 
+        "taste": "Well, this one smells pretty generic. Oh my god, wtf? Red Horse tastes like... citrus toilet cleaner?! I mean the taste is not really intese,but there is something that tastes just \"wrong\" when drinking this drink. It is pretty hard to describute the taste. The first sip is quite ok, but if you swallow it down this weird after taste kicks in. It does not have enough CO2 to make the drink taste any better. ", 
+        "tribute": "", 
+        "url": "Urstromquelle GmbH & Co.KG, 15837 Baruth/Mark", 
+        "volume": 500.0
+    }, 
     "redbull": {
         "CO2": true, 
         "Nutritions": {
