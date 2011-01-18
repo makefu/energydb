@@ -1369,6 +1369,42 @@
         "url": "www.drinknos.com", 
         "volume": 473.0
     }, 
+    "p6_energy": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 30.0, 
+            "calcium": 0, 
+            "coenzym Q10": 0, 
+            "energy": 50.0, 
+            "guarana": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 7.9, 
+            "others": "", 
+            "panthenol acid": 2.0, 
+            "sodium": 0.068, 
+            "sugar": 11.1, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Internet trade shop importladen.de", 
+        "date": "2011-01-18", 
+        "look": "P6 comes in a black can with silver and orange zigzags. A huge p6 is at the front, along with the orange 'energy' text underneath. And that's about it.", 
+        "name": "P6 Energy", 
+        "overall": "I must say, it was not 'really' bad, just weird in some way. P6 i guess should taste 'fruity' but, well not really. I cannot say i like it, but i sure as hell drank much worse drinks. It is not as bad as monster ripper at least.", 
+        "paid": 1.49, 
+        "rating": 4.4, 
+        "taste": "Goddamn, it smells like Monster Ripper. Let's hope it does not taste like it... It is just incredibly sweet, with far too less CO2. The after taste is really sour, somewhat like citrus (i guess?). I guess there should be a fruit taste somewhere, but it is not working for me.", 
+        "tribute": "Thanks goes to Christopher (Wooki)!", 
+        "url": "www.p6-energy.de", 
+        "volume": 250.0
+    }, 
     "power_point_juicy": {
         "CO2": true, 
         "Nutritions": {
