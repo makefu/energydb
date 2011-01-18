@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-01-15 </lastBuildDate>
-  <pubDate>2011-01-15 </pubDate>
+  <lastBuildDate>2011-01-18 </lastBuildDate>
+  <pubDate>2011-01-18 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -32,6 +32,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/monster_ripper.html</link>
     <guid>monster_ripper</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>P6 Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/p6_energy.html</link>
+    <guid>p6_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
