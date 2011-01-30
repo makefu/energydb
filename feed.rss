@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-01-18 </lastBuildDate>
-  <pubDate>2011-01-18 </pubDate>
+  <lastBuildDate>2011-01-30 </lastBuildDate>
+  <pubDate>2011-01-30 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -133,6 +133,13 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>Carrefour Taurine Force Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/taurine_force.html</link>
+    <guid>taurine_force</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>Energy Boost Power Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/energy_boost.html</link>
@@ -221,6 +228,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/v_energy.html</link>
     <guid>v_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>NOS</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/nos.html</link>
+    <guid>nos</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -336,10 +350,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Carrefour Taurine Force Energy Drink</title>
+    <title>Bebida Energetica</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/taurine_force.html</link>
-    <guid>taurine_force</guid>
+    <link>http://makefu.github.com/energydb/drinks/energetica.html</link>
+    <guid>energetica</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -357,10 +371,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>NOS</title>
+    <title>Monster Assault Energy</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/nos.html</link>
-    <guid>nos</guid>
+    <link>http://makefu.github.com/energydb/drinks/monster_assault.html</link>
+    <guid>monster_assault</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -420,10 +434,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Power by Steinberg and Unimall</title>
+    <title>Recharge energy soda Redberry</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/steinberg.html</link>
-    <guid>steinberg</guid>
+    <link>http://makefu.github.com/energydb/drinks/recharge_redberry.html</link>
+    <guid>recharge_redberry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -438,6 +452,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/flying_power.html</link>
     <guid>flying_power</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Power by Steinberg and Unimall</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/steinberg.html</link>
+    <guid>steinberg</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
