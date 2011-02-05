@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-01-30 </lastBuildDate>
-  <pubDate>2011-01-30 </pubDate>
+  <lastBuildDate>2011-02-05 </lastBuildDate>
+  <pubDate>2011-02-05 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -35,10 +35,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>P6 Energy</title>
+    <title>Energy XXL</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/p6_energy.html</link>
-    <guid>p6_energy</guid>
+    <link>http://makefu.github.com/energydb/drinks/energy_xxl.html</link>
+    <guid>energy_xxl</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -182,10 +182,24 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>tonight onLimit</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/onlimit.html</link>
+    <guid>onlimit</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>Energy Slammers Refreshing Powerdrink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/energy_slammers.html</link>
     <guid>energy_slammers</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>P6 Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/p6_energy.html</link>
+    <guid>p6_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
