@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-02-05 </lastBuildDate>
-  <pubDate>2011-02-05 </pubDate>
+  <lastBuildDate>2011-02-06 </lastBuildDate>
+  <pubDate>2011-02-06 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -403,6 +403,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/russian_power.html</link>
     <guid>russian_power</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Denner Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/denner_energy.html</link>
+    <guid>denner_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
