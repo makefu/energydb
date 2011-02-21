@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-02-06 </lastBuildDate>
-  <pubDate>2011-02-06 </pubDate>
+  <lastBuildDate>2011-02-21 </lastBuildDate>
+  <pubDate>2011-02-21 </pubDate>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
@@ -445,6 +445,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/leetmate.html</link>
     <guid>leetmate</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Afri Cola</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/afri_cola.html</link>
+    <guid>afri_cola</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
