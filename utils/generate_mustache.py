@@ -1,8 +1,8 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 import json
 
-schema = "schema.json"
-output = "nutrition_table.html"
+schema = "../schema.json"
+output = "../nutrition_table.html"
 f = open(schema)
 scheme = json.load(f)
 f.close()
