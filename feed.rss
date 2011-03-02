@@ -4,8 +4,15 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-02-27 </lastBuildDate>
-  <pubDate>2011-02-27 </pubDate>
+  <lastBuildDate>2011-03-02 </lastBuildDate>
+  <pubDate>2011-03-02 </pubDate>
+<item>
+    <title>Mad bat BIO Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mad_bat-bio.html</link>
+    <guid>mad_bat-bio</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
 <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
