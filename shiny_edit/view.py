@@ -1,4 +1,5 @@
 from Tkinter import *
+import json
 SCHEMA_FILE='../schema.json'
 class App(Frame):
   def saveIt(self):
@@ -95,20 +96,40 @@ class App(Frame):
     r.grid(sticky=W+E+N+S,column=1,row=row)
 
   def createIngredientField(self,f):
+    mwidth = 10
+    mheight=5
+    msticky=E+W+N
+    row = 0
     ingFrame = Frame(f,borderwidth=4)
     ingFrame.pack(side=RIGHT,fill=BOTH,expand=YES)
-    ingFrame.columnconfigure(0,weight=2)
-    #ingFrame.columnconfigure(1,weight=1)
-    ingFrame.rowconfigure(0,weight=1)
-    ingFrame.rowconfigure(1,weight=1)
-    lab = Label(ingFrame,text='Label',bg='grey')
-    lab.grid(sticky=W+E+N+S)
-    e1 = Entry(ingFrame)
-    e1.grid(sticky=W+E,column=1,row=0)
-    lab2 = Label(ingFrame,text='Label 2',bg='grey')
-    lab2.grid(sticky=W+E,row=1)
-    e2 = Entry(ingFrame)
-    e2.grid(sticky=W+E,column=1,row=1)
+    ingFrame.columnconfigure(0,weight=1)
+    ingFrame.columnconfigure(1,weight=1)
+
+    ingFrame.rowconfigure(row,weight=1)
+    lTaste = Label(ingFrame,text='Nutritions',bg='grey')
+    lTaste.grid(sticky=E+W,row=row,columnspan=3)
+    row+=1
+
+    scheme = {}
+    with open(SCHEMA_FILE) as s:
+      scheme =json.load(s) 
+    nut = scheme['Nutritions']
+
+    for ingredient,t in nut.iteritems():
+      ingFrame.rowconfigure(row,weight=1)
+      bground = 'grey' if row %2 else 'lightgrey'
+      lTaste = Label(ingFrame,text=ingredient,bg=bground)
+      lTaste.grid(sticky=E+W,row=row)
+      p = self.review['Nutritions'] = Entry(ingFrame,width=mwidth)
+      p.grid(sticky=W+E,column=1,row=row)
+
+      lTaste = Label(ingFrame,text=t,bg=bground)
+      lTaste.grid(row=row,column=2,sticky=E+W)
+      row+=1
+
+
+
+    
 
   def createBottom(self):
     bottom = Frame(self,borderwidth=4)
