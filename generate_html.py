@@ -68,5 +68,7 @@ try:
     import markdown
     markdown.markdownFromFile(input="README.md", 
                               output="README.html")
+    markdown.markdownFromFile(input="TRIVIA.md", 
+                              output="TRIVIA.html")
 except:
     print "markdown not installed, skipping generation of README"
