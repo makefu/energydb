@@ -1,9 +1,63 @@
+#!/usr/bin/python2
 from Tkinter import *
-import json
+import simplejson as json
+from decimal import Decimal
 SCHEMA_FILE='../schema.json'
+
+json_file="/home/makefu/repos/energydb/model.json"
+
+def todec(s):
+    return Decimal(str(round(float(s),3)))
 class App(Frame):
   def saveIt(self):
-    print "saved!"
+    drink = {}
+    drink['Nutritions'] = nutr = {}
+    for k,v in self.review.iteritems():
+      if k is 'Nutritions':
+        for ingredient,val in v.iteritems():
+          if ingredient is not 'others':
+            try: 
+              nutr[ingredient] = todec(val.get())
+            except: 
+              print ingredient,"fixed from",val," to 0"
+              nutr[ingredient] = 0
+          else:
+            nutr[ingredient] = val.get()
+
+      else:
+        if k in ['taste','look','overall','tribute']:
+          drink[k] = v.get(1.0,END)[:-1] #kill trailing \n from text field
+        else:
+          drink[k] = v.get()
+
+    for v in ['rating','volume','paid']:
+      try:
+        drink[v] = todec(drink)
+      except Exception as e:
+        print 'could not convert',v,'to decimal'
+        drink[v] = 0
+    drink['CO2'] = True if drink['CO2'] else False
+    print drink
+    if raw_input('really want to save????').upper() not in ['Y','YES','1']:
+      print 'aborting'
+      return
+
+    drinktab = {}
+    key = drink['key']
+    del(drink['key'])
+
+    f = open(json_file)
+    drinktab = json.load(f,parse_float=todec)
+    f.close()
+    if key in drinktab:
+        print "already have this key included!"
+        return
+    drinktab[key]= drink
+    f = open(json_file,'w+')
+    f.write(json.dumps(drinktab,indent=4,use_decimal=True,sort_keys=True))
+    f.close()
+    print 'saved!'
+
   def createHead(self):
     top = Frame(self,borderwidth=4)
     top.pack(fill=BOTH,expand=NO)
@@ -40,60 +94,39 @@ class App(Frame):
   def createReviewField(self,f):
     mwidth = 30
     mheight=5
-    msticky=E+N+W+S
     row = 0
     rev_frame = Frame(f,borderwidth=4)
     rev_frame.pack(side=LEFT,fill=BOTH,expand=YES)
     rev_frame.columnconfigure(0,weight=1)
     rev_frame.columnconfigure(1,weight=2)
+    big_fields = ['taste','look','overall','tribute']
+    small_fields = ['bought from','paid','url','rating']
+    all_fields = big_fields + small_fields
+    for k in all_fields:
+      bground = 'grey' if not row %2 else 'lightgrey'
+      l = Label(rev_frame,text=k.capitalize()+':',bg=bground)
+      t = ''
+      align = ''
+      if k in big_fields:
+        print k,'is a big field'
+        t =  Text(rev_frame,height=mheight,width=mwidth)
+        align = N+E+W+S
+        weight = 1
+      if k in small_fields:
+        print k,'is a small field'
+        align = E+W
+        weight = 0
+        if k is not 'rating':
+          t =  Entry(rev_frame,width=mwidth)
+        else:
+          l= Label(rev_frame,text='Rating:',bg=bground,font='courier 20 bold')
+          t = Entry(rev_frame,font='courier 30 bold',width=mwidth/6)
 
-    rev_frame.rowconfigure(row,weight=1)
-    lTaste = Label(rev_frame,text='Taste:',bg='grey')
-    lTaste.grid(sticky=msticky,row=row)
-    t = self.review['taste'] = Text(rev_frame,height=mheight,width=mwidth)
-    t.grid(sticky=W+E+N+S,column=1,row=row)
-    row+=1
-
-    rev_frame.rowconfigure(row,weight=1)
-    lLook= Label(rev_frame,text='Look:',bg='lightgrey')
-    lLook.grid(sticky=msticky,row=row)
-    l = self.review['look'] = Text(rev_frame,height=mheight,width=mwidth)
-    l.grid(sticky=W+E+N+S,column=1,row=row)
-    row+=1
-
-    rev_frame.rowconfigure(2,weight=1)
-    lOverall = Label(rev_frame,text='Overall:',bg='grey')
-    lOverall.grid(sticky=msticky,row=2)
-    o = self.review['overall'] = Text(rev_frame,height=mheight,width=mwidth)
-    o.grid(sticky=W+E+N+S,column=1,row=row)
-    row+=1
-
-    rev_frame.rowconfigure(row,weight=0)
-    lBought = Label(rev_frame,text='Bought from:',bg='lightgrey')
-    lBought.grid(sticky=msticky,row=row)
-    b = self.review['bought from'] = Entry(rev_frame,width=mwidth)
-    b.grid(sticky=W+E,column=1,row=row)
-    row+=1
-
-    rev_frame.rowconfigure(row,weight=0)
-    lBought = Label(rev_frame,text='Paid:',bg='grey')
-    lBought.grid(sticky=msticky,row=row)
-    p = self.review['paid'] = Entry(rev_frame,width=mwidth)
-    p.grid(sticky=W+E,column=1,row=row)
-    row+=1
-
-    rev_frame.rowconfigure(row,weight=0)
-    lBought = Label(rev_frame,text='URL:',bg='lightgrey')
-    lBought.grid(sticky=msticky,row=row)
-    p = self.review['url'] = Entry(rev_frame,width=mwidth)
-    p.grid(sticky=W+E,column=1,row=row)
-    row+=1
-
-    rev_frame.rowconfigure(row,weight=0)
-    lRating = Label(rev_frame,text='Rating:',bg='grey',font='courier 20 bold')
-    lRating.grid(sticky=N+S+E+W,row=row)
-    r = self.review['rating'] = Entry(rev_frame,font='courier 30 bold',width=mwidth/6)
-    r.grid(sticky=W+E+N+S,column=1,row=row)
+      self.review[k] = t
+      rev_frame.rowconfigure(row,weight=weight)
+      l.grid(sticky=align,row=row)
+      t.grid(row=row,column=1,sticky=align)
+      row+=1
 
   def createIngredientField(self,f):
     mwidth = 10
@@ -120,7 +153,7 @@ class App(Frame):
       bground = 'grey' if row %2 else 'lightgrey'
       lTaste = Label(ingFrame,text=ingredient,bg=bground)
       lTaste.grid(sticky=E+W,row=row)
-      p = self.review['Nutritions'] = Entry(ingFrame,width=mwidth)
+      p = self.review['Nutritions'][ingredient] = Entry(ingFrame,width=mwidth)
       p.grid(sticky=W+E,column=1,row=row)
 
       lTaste = Label(ingFrame,text=t,bg=bground)
