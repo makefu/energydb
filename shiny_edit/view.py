@@ -34,6 +34,25 @@ class App(Frame):
       except Exception as e:
         print 'could not convert',v,'to decimal'
     print drink
+    if raw_input('really want to save????').upper() not in ['Y','YES','1']:
+      print 'aborting'
+      return
+
+    drinktab = {}
+    key = drink['key']
+    del(drink['key'])
+
+    f = open(json_file)
+    drinktab = json.load(f,parse_float=todec)
+    f.close()
+    if key in drinktab:
+        print "already have this key included!"
+        return
+    drinktab[key]= drink
+    f = open(json_file,'w+')
+    f.write(json.dumps(drinktab,indent=4,use_decimal=True,sort_keys=True))
+    f.close()
+    print 'saved!'
 
   def createHead(self):
     top = Frame(self,borderwidth=4)
