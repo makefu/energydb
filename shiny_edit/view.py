@@ -23,16 +23,20 @@ class App(Frame):
               nutr[ingredient] = 0
           else:
             nutr[ingredient] = val.get()
+
       else:
         if k in ['taste','look','overall','tribute']:
           drink[k] = v.get(1.0,END)[:-1] #kill trailing \n from text field
         else:
           drink[k] = v.get()
+
     for v in ['rating','volume','paid']:
       try:
         drink[v] = todec(drink)
       except Exception as e:
         print 'could not convert',v,'to decimal'
+        drink[v] = 0
+    drink['CO2'] = True if drink['CO2'] else False
     print drink
     if raw_input('really want to save????').upper() not in ['Y','YES','1']:
       print 'aborting'
