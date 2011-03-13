@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-03-07 </lastBuildDate>
-  <pubDate>2011-03-07 </pubDate>
+  <lastBuildDate>2011-03-13 </lastBuildDate>
+  <pubDate>2011-03-13 </pubDate>
 <item>
     <title>Mad bat BIO Energy</title>
     <description></description>
@@ -452,6 +452,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_apple.html</link>
     <guid>rockstar_apple</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Boost Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/boost.html</link>
+    <guid>boost</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
