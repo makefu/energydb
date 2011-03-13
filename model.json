@@ -319,6 +319,43 @@
         "url": "Blue Bastard Postbus 80, 4153 ZH BEESD", 
         "volume": 250.0
     }, 
+    "boost": {
+        "CO2": false, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 30.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 47.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 1.0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 7.2, 
+            "others": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.08, 
+            "sugar": 10.9, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0.2, 
+            "vitamin B2": 0, 
+            "vitamin B6": 0.8, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "UK Shop Stuttgart Stadtmitte", 
+        "look": "The Boost energy drink comes in a silver plastic bottle  with a black and dark blue label. One might confuse it with an oil bottle you can buy at the gas station. Because of that i want to warn you about the fact that one of these drinks might taste considerably worse and may harm your health. Boost itself looks, when drunken out of a glass like wee-wee with tiny little bubbles inside. I do not really know where these come from as the drink itself is still.", 
+        "name": "Boost Energy", 
+        "overall": "I bought this drink from an UK Shop in Stuttgart, therefore i guess it must be from Great Britain. This means it must be better than other drinks! ... OR IS IT? The Boost Energy drink does not contain any CO2 (as mentioned in 'Taste') which means for me it cannot possibly be as good as an ordinary energy drink. And yes, it does suck. It surely is not the worst but also not the best still energy drink. The ingredients are pretty average, high amounts of caffein, lots of taurine and some vitamins are added to the drink. It might give you the kick but it does not taste really great, therefore I cannot really recommend it.", 
+        "paid": 1.2, 
+        "rating": 4.7, 
+        "taste": "Boost smells at first a tiny bit like Mad Bat but the plastic smell is far less strong, luckily i must say. I really expected this drink to have at least a bit of CO2 but not be still... Boost, why you failed me? I mean, it is not horribly bad, i kinda like the pricking of the citric acid. There is a small bit plastic taste in this drink, similar to Mad Bat but as the smell, it is not that strong. Be sure to drink it cold because otherwise you might experience a new level of disgust (considering you haven't drunk MB before). Besides that it got this typical gummy bear taste.Boost does not really have a 'good' taste i must say...", 
+        "tribute": "", 
+        "url": "www.boostdrinks.com", 
+        "volume": 500
+    }, 
     "booster_edeka": {
         "CO2": true, 
         "Nutritions": {
