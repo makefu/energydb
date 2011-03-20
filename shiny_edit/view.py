@@ -32,7 +32,7 @@ class App(Frame):
 
     for v in ['rating','volume','paid']:
       try:
-        drink[v] = todec(drink)
+        drink[v] = todec(self.review[v].get())
       except Exception as e:
         print 'could not convert',v,'to decimal'
         drink[v] = 0
@@ -100,7 +100,7 @@ class App(Frame):
     rev_frame.columnconfigure(0,weight=1)
     rev_frame.columnconfigure(1,weight=2)
     big_fields = ['taste','look','overall','tribute']
-    small_fields = ['bought from','paid','url','rating']
+    small_fields = ['bought from','paid','url','volume','rating']
     all_fields = big_fields + small_fields
     for k in all_fields:
       bground = 'grey' if not row %2 else 'lightgrey'
