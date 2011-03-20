@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-03-13 </lastBuildDate>
-  <pubDate>2011-03-13 </pubDate>
+  <lastBuildDate>2011-03-20 </lastBuildDate>
+  <pubDate>2011-03-20 </pubDate>
 <item>
     <title>Mad bat BIO Energy</title>
     <description></description>
@@ -196,6 +196,13 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>Action Energy Drink Tabs</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/action_tabs.html</link>
+    <guid>action_tabs</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>tonight onLimit</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/onlimit.html</link>
@@ -266,10 +273,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Ener-G</title>
+    <title>Boost Energy</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/ener_g.html</link>
-    <guid>ener_g</guid>
+    <link>http://makefu.github.com/energydb/drinks/boost.html</link>
+    <guid>boost</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -455,10 +462,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Boost Energy</title>
+    <title>Ener-G</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/boost.html</link>
-    <guid>boost</guid>
+    <link>http://makefu.github.com/energydb/drinks/ener_g.html</link>
+    <guid>ener_g</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
