@@ -7,7 +7,7 @@
   <lastBuildDate>2011-04-10 </lastBuildDate>
   <pubDate>2011-04-10 </pubDate>
 <item>
-    <title>Mad bat BIO Energy</title>
+    <title>Mad Bat BIO Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mad_bat-bio.html</link>
     <guid>mad_bat-bio</guid>
@@ -182,10 +182,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>powerpoint euphoric energy Juicy</title>
+    <title>Mask Wanted Energydrink</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/power_point_juicy.html</link>
-    <guid>power_point_juicy</guid>
+    <link>http://makefu.github.com/energydb/drinks/mask_energy.html</link>
+    <guid>mask_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -238,7 +238,7 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>mad bat energy drink</title>
+    <title>Mad Bat Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mad_bat.html</link>
     <guid>mad_bat</guid>
@@ -515,6 +515,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/steinberg.html</link>
     <guid>steinberg</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>powerpoint euphoric energy Juicy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/power_point_juicy.html</link>
+    <guid>power_point_juicy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
