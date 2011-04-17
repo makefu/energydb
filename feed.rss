@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-04-10 </lastBuildDate>
-  <pubDate>2011-04-10 </pubDate>
+  <lastBuildDate>2011-04-17 </lastBuildDate>
+  <pubDate>2011-04-17 </pubDate>
 <item>
     <title>Mad Bat BIO Energy</title>
     <description></description>
@@ -291,6 +291,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/m_budget_sugarfree.html</link>
     <guid>m_budget_sugarfree</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Mask Wanted Energy Fruit</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mask_fruit.html</link>
+    <guid>mask_fruit</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
