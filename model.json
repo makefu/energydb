@@ -1478,6 +1478,43 @@
         "url": "Provisioned: MATADOR GmbH 703472 Stuttgart Germany", 
         "volume": 250.0
     }, 
+    "mask_fruit": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 49.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 10.0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 3.6, 
+            "others": 0, 
+            "panthenol acid": 1.2, 
+            "sodium": 0.02, 
+            "sugar": 11.7, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0.2, 
+            "vitamin B2": 0, 
+            "vitamin B6": 0.5, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Yorma's Stuttgart Hauptbahnhof", 
+        "look": "Mask fruit comes with the same design as the original Mask drink, only with a yellow background. It looks like a special drink to me, something you probably won't find in your super market around the corner.", 
+        "name": "Mask Wanted Energy Fruit", 
+        "overall": "The can itself is cool, the taste is \"meh..\" for me but there might be a lot of people liking this one because of the lack of ordinary energy drink taste (see mask_energy if you are looking for that). If you are looking for a fruity experience, try that one if you got the chance. It contains lots of caffeine, but has below average vitamin contents. The price is pretty good even though the can is quite small. It is pretty uncommon here in Germany even though it is sold in some Edeka Markets and 24/7 shops.", 
+        "paid": 0.99, 
+        "rating": 7.5, 
+        "taste": "It really smells fruity, like Multi Vitamin with lots of mango. I must say i do not really like the taste, it is something weird between mango and orange and some undefined \"fruit\". It tastes really really sweet, even for a fruity drink. It does not contain CO2 for my taste. A pro is that mask fruit does not taste like energy drink in any way, still contains the maximum caffeine allowed here in Germany.", 
+        "tribute": "Big Thanks goes to Momo at Shackspace , who bought this drink for me.", 
+        "url": "www.mask-energy.com", 
+        "volume": 250.0
+    }, 
     "mixxed_up": {
         "CO2": true, 
         "Nutritions": {
