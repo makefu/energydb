@@ -2473,6 +2473,43 @@
         "url": "www.trojkaenergy.com", 
         "volume": 440.0
     }, 
+    "tunnel_energy": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 23.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 49.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 5.4, 
+            "others": 0, 
+            "panthenol acid": 1.8, 
+            "sodium": 0.001, 
+            "sugar": 11.2, 
+            "taurine": 29.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0, 
+            "vitamin B2": 0.48, 
+            "vitamin B6": 0.6, 
+            "vitamin C": 18.0, 
+            "whey": 0
+        }, 
+        "bought from": "Edeka Hamburg Barmbek", 
+        "look": "Tunnel is sold in an transparent one liter PET bottle with a black and silver label. Besides the stylistic \"tunnel\" logo it contains a promotion for the film \"tne next three days\" (which was pretty mediocre by the way). I actually have never seen a real advertisement on an energy drink but i think this is a pretty good idea. Between the logo and the ad there are a number of icons i really cannot depict what they could possibly mean, for example a fishbone symbol or a \"star\". The bottle looks pretty neat to me.", 
+        "name": "Tunnel - Underground Rules", 
+        "overall": "Tunnel is one of the \"club\" drinks especially sold under the label of a well known club in Hamburg. You will probably not find it somewhere else in Germany or the rest of the world as it is extremely localized for Hamburg and surroundings. The drink itself tastes quite o.k. but i am a bit disappointed about the caffeine contents. It only contains 23mg caffeine, which is far below average for an energy drink. Keeping this in mind their subtitle \"Strong underground power drink\" sounds like a joke. Well, it comes in a 1l bottle therefore it should not be too much of a problem to ingest enough caffeine for a night.", 
+        "paid": 1.69, 
+        "rating": 7.6, 
+        "taste": "Ok, Tunnel what'cha'got? It smells like every other \"normal\" energy drink and the first taste is ... well like pretty much every other drink. The second sip is somewhat different. This drink actually tastes like it does not contain sugar, but the sugar replacement stuff. It is a bit sour because of the big amount of dissolved CO2, what i really like. When swallowing it down, tunnel has the typical gummy bear taste but it got close to no after taste. This is actually not too bad. \nAll in all Tunnel Energy is quite drinkable.", 
+        "tribute": "I thank Misa from Hamburg buying this drink for me!", 
+        "url": "www.tunnel.de", 
+        "volume": 1000.0
+    }, 
     "v_energy": {
         "CO2": true, 
         "Nutritions": {
