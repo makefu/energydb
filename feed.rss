@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-04-17 </lastBuildDate>
-  <pubDate>2011-04-17 </pubDate>
+  <lastBuildDate>2011-04-20 </lastBuildDate>
+  <pubDate>2011-04-20 </pubDate>
 <item>
     <title>Mad Bat BIO Energy</title>
     <description></description>
@@ -95,6 +95,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/naturell_energy_citrus.html</link>
     <guid>naturell_energy_citrus</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Tunnel - Underground Rules</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/tunnel_energy.html</link>
+    <guid>tunnel_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
