@@ -2581,5 +2581,42 @@
         "tribute": "Special Thanks goes to Misa for buying these drink in Hamburg.", 
         "url": "www.xl-energy.de", 
         "volume": 250.0
+    }, 
+    "xl_lime": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 44.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 8.0, 
+            "others": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.1, 
+            "sugar": 10.5, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0.2, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Edeka Hamburg Barmbek", 
+        "look": "The can of XL lime is light and dark green with the red XL Logo.The liquid itself looks like Mountain Dew, probably even a bit greener. It probably makes a good mix with other, mostly transparent alcoholic fluids.", 
+        "name": "XL Lime&Lemon Energy", 
+        "overall": "OK, up for another one. The second drink of the XL Series is Lime&Lemon, another \"fruity\" energy drink. XL Lime and Lemon is sour and also a sweet, and most importantly, the taste does not suck. Too bad the CO2 fades away so fast. The price is not too cheap for a 250ml can. ", 
+        "paid": 0.99, 
+        "rating": 6.9, 
+        "taste": "XL Lime smells like \"lemon\" and \"weird\", probably because the can stood in the supermarket for a pretty long time. The second smell i really cannot make out, but it sure is weird, probably asia market and meat smell? The first sip is kinda sour and then becomes quite sweet. The drink really comes close the the promised \"lemon and lime\" taste. Too bad the carbon acid is volatized really fast when drinking, pretty much like the cranberry one.", 
+        "tribute": "Thanks again goes to Misa from Hamburg", 
+        "url": "www.xl-energy.de", 
+        "volume": 250.0
     }
 }
