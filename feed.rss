@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-04-20 </lastBuildDate>
-  <pubDate>2011-04-20 </pubDate>
+  <lastBuildDate>2011-04-24 </lastBuildDate>
+  <pubDate>2011-04-24 </pubDate>
 <item>
     <title>Mad Bat BIO Energy</title>
     <description></description>
@@ -361,6 +361,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/effect.html</link>
     <guid>effect</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>XL Cranberry Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/xl_cranberry.html</link>
+    <guid>xl_cranberry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
