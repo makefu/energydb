@@ -2507,7 +2507,7 @@
         "rating": 7.6, 
         "taste": "Ok, Tunnel what'cha'got? It smells like every other \"normal\" energy drink and the first taste is ... well like pretty much every other drink. The second sip is somewhat different. This drink actually tastes like it does not contain sugar, but the sugar replacement stuff. It is a bit sour because of the big amount of dissolved CO2, what i really like. When swallowing it down, tunnel has the typical gummy bear taste but it got close to no after taste. This is actually not too bad. \nAll in all Tunnel Energy is quite drinkable.", 
         "tribute": "I thank Misa from Hamburg buying this drink for me!", 
-        "url": "www.tunnel.de", 
+        "url": "www.tunnelenergy.com", 
         "volume": 1000.0
     }, 
     "v_energy": {
@@ -2543,6 +2543,43 @@
         "taste": "Tastes really... weird. It got a somewhat 'smokey', bitter after taste. I cannot really say i like it. There is not much CO2 in the drink, which, for me is definitly a minus. There is definitly not too much prickling on my tongue. It does not have the typical gummy bear taste like most energy drinks, this is probably because it does not contain any taurine.", 
         "tribute": "Very special Thanks goes to Misa for buying this drink for me in the Netherlands", 
         "url": "Winters, Maarheeze NL", 
+        "volume": 250.0
+    }, 
+    "xl_cranberry": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 47.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 8.0, 
+            "others": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.7, 
+            "sugar": 11.0, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 1.87, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Edeka Hamburg Barmbek", 
+        "look": "XL Cranberry comes in a red and black can, with the XL logo at the front. I like bigger cans better than the standard ones but most of the time you do not have a choice. Besides that there is nothing special with this can. ", 
+        "name": "XL Cranberry Energy", 
+        "overall": "This is the first one of the \"XL\" Series, they call it \"Cranberry\" taste... well, yes it actually does taste like cranberry. There are few energy drinks which do taste fruity and do not suck. This one is presumably one of them. But again, its all a matter of taste. There are 4 more \"XL\" drinks to go, let's see how these drinks perform. ", 
+        "paid": 0.99, 
+        "rating": 7.9, 
+        "taste": "XL Cranberry smells pretty fruity, and yes, it also tastes fruity as well. One letdown is that this drink is incredibly sweet, almost too sweet for me. The after taste is something between chewing gum and cranberries marinated in sugar.XL Cranberry does not have the typical energy drink taste, more like a fruit juice. It is actually a pretty good fruit energy drink.", 
+        "tribute": "Special Thanks goes to Misa for buying these drink in Hamburg.", 
+        "url": "www.xl-energy.de", 
         "volume": 250.0
     }
 }
