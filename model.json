@@ -2655,5 +2655,42 @@
         "tribute": "Thanks again goes to Misa from Hamburg", 
         "url": "www.xl-energy.de", 
         "volume": 250.0
+    }, 
+    "xl_sugarfree": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 3.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 8.0, 
+            "others": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.08, 
+            "sugar": 0.1, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0.2, 
+            "vitamin B2": 0.6, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Edeka Hamburg Barmbek", 
+        "look": "As the other XL drink, it comes with the same design, two colors glossy and matt silver with the XL Logo.The fluid itself looks somewhat like pee,has a darker yellow color. Other than that there is nothing special with this can.", 
+        "name": "XL SugarFree", 
+        "overall": "Ok, this is it, the last of XL drink, sugarfree this time. As i expected it, sugarfree probably is the worst of all of them in terms of taste. It really takes something to make a good sugarfree energy drink. But again, sugar is one of the main ingredients which wake you up and give you the power you expect from an energy drink. If you take that away, only Caffeine and the infused Vitamins remain. XL SugarFree is surely not the worst energy drink but also not the best sugarfree drink i've ever had. Again it is also pretty expensive for what you get here.", 
+        "paid": 0.99, 
+        "rating": 4.9, 
+        "taste": "For a sugarfree drink, XL Sugarfree smells pretty \"normal\" to me. The taste is as i would have expected it. First you only taste the sparkling bubbles, second the drink becomes really sour and in the end you taste the \"replacement\" sugar taste. The aftertaste is really sour as well. It only got a small bit of the typical energy drink taste, most of it is overlaid by the artificial sugar taste.", 
+        "tribute": "Tribute goes to Melissa who bought this drink along with all the other XL Energy Drinks.", 
+        "url": "www.xl-energy.de", 
+        "volume": 250.0
     }
 }
