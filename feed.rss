@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-04-25 </lastBuildDate>
-  <pubDate>2011-04-25 </pubDate>
+  <lastBuildDate>2011-04-28 </lastBuildDate>
+  <pubDate>2011-04-28 </pubDate>
 <item>
     <title>Mad Bat BIO Energy</title>
     <description></description>
@@ -375,6 +375,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/effect.html</link>
     <guid>effect</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>XL SugarFree</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/xl_sugarfree.html</link>
+    <guid>xl_sugarfree</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
