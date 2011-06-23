@@ -5,7 +5,13 @@
     <meta name="description" content="Energy Drink Database and manly goals in life" />
     <meta name="keywords" content="energydb, energydrink, energy drink,Energy Drink Database, review" />
     <title>Energy Drink Database</title>
-    
+    <script type="text/javascript" src="/drinks/js/jquery-latest.js"></script> 
+    <script type="text/javascript" src="/drinks/js/jquery.tablesorter.js"></script> 
+    <script type="text/javascript"> 
+    $(document).ready(function() {    
+      $("#all_drinks").tablesorter();
+    }); 
+    </script>
 </head>
 <body>
 <div id="wrapper">
@@ -19,6 +25,7 @@ entry on this page (look down all the way). This shows the latest git
 checkins in this project. Have Fun!
 </p>
     <table id="all_drinks" border="0" width="80%">
+    <thead>
         <tr>
             <th>Thumb</th>
             <th>Name</th>
@@ -26,6 +33,8 @@ checkins in this project. Have Fun!
             <th>Price</th>
             <th>Rating</th>
         </tr>
+      </thead>
+      <tbody>
         {{#drinks}}
         <tr>
             <td><img src="drinks/img/thumb_{{key}}.jpg"></td>
@@ -35,6 +44,7 @@ checkins in this project. Have Fun!
             <td>{{rating}}</td>
         </tr>
         {{/drinks}}
+      </tbody>
     </table>
 <H1>Help Me</H1>
 I would be more than glad if something of this project helped you, you may
