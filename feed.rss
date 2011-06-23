@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-04-28 </lastBuildDate>
-  <pubDate>2011-04-28 </pubDate>
+  <lastBuildDate>2011-06-23 </lastBuildDate>
+  <pubDate>2011-06-23 </pubDate>
 <item>
     <title>Mad Bat BIO Energy</title>
     <description></description>
@@ -364,6 +364,13 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>Russian Power</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/russian_power.html</link>
+    <guid>russian_power</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>Blitz! Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/blitz_energy.html</link>
@@ -455,17 +462,17 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>mad bat Energy Shot</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mad_bat_shot.html</link>
+    <guid>mad_bat_shot</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>rhino's energy drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rhinos.html</link>
     <guid>rhinos</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Russian Power</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/russian_power.html</link>
-    <guid>russian_power</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
