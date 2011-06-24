@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" type="text/css" href="drinks/e/drinks.css" />
+    <link rel="stylesheet" type="text/css" href="drinks/e/style.css" />
     <meta name="description" content="Energy Drink Database and manly goals in life" />
     <meta name="keywords" content="energydb, energydrink, energy drink,Energy Drink Database, review" />
     <title>Energy Drink Database</title>
@@ -9,7 +9,8 @@
     <script type="text/javascript" src="drinks/js/jquery.tablesorter.js"></script> 
     <script type="text/javascript"> 
     $(document).ready(function() {    
-      $("#all_drinks").tablesorter();
+      // sort table with highest first rating
+      $("#all_drinks").tablesorter({sortList:[[4,1]],widgets:['zebra']});
     }); 
     </script>
 </head>
@@ -24,7 +25,7 @@ look for new drinks i added. In addition to that i added a "Latest Changes"
 entry on this page (look down all the way). This shows the latest git
 checkins in this project. Have Fun!
 </p>
-    <table id="all_drinks" border="0" width="80%">
+    <table id="all_drinks" border="0" width="80%" class="tablesorter">
     <thead>
         <tr>
             <th>Thumb</th>
@@ -631,6 +632,10 @@ send me one of the energy drinks i have never drank before ( check db).
 Send me a quick mail and we might meet up somewhere here in germany.
 <h2>see also the full <a href=README.html>README</a></h2>
 <H1>Latest Changes</H1>
+Date:   Thu Jun 23 19:02:53 2011 +0200<br/>
+<br/>
+    added new table style,ascend/descend arrows<br/>
+<br/>
 Date:   Thu Jun 23 18:45:52 2011 +0200<br/>
 <br/>
     fixed paths<br/>
@@ -638,10 +643,6 @@ Date:   Thu Jun 23 18:45:52 2011 +0200<br/>
 Date:   Thu Jun 23 18:44:04 2011 +0200<br/>
 <br/>
     added tablesorter<br/>
-<br/>
-Date:   Thu Jun 23 15:50:16 2011 +0200<br/>
-<br/>
-    added mad bat shot<br/>
 
 </body>
 </div>
