@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" type="text/css" href="drinks/e/drinks.css" />
+    <link rel="stylesheet" type="text/css" href="drinks/e/style.css" />
     <meta name="description" content="Energy Drink Database and manly goals in life" />
     <meta name="keywords" content="energydb, energydrink, energy drink,Energy Drink Database, review" />
     <title>Energy Drink Database</title>
@@ -9,7 +9,8 @@
     <script type="text/javascript" src="drinks/js/jquery.tablesorter.js"></script> 
     <script type="text/javascript"> 
     $(document).ready(function() {    
-      $("#all_drinks").tablesorter();
+      // sort table with highest first rating
+      $("#all_drinks").tablesorter({sortList:[[4,1]],widgets:['zebra']});
     }); 
     </script>
 </head>
@@ -24,7 +25,7 @@ look for new drinks i added. In addition to that i added a "Latest Changes"
 entry on this page (look down all the way). This shows the latest git
 checkins in this project. Have Fun!
 </p>
-    <table id="all_drinks" border="0" width="80%">
+    <table id="all_drinks" border="0" width="80%" class="tablesorter">
     <thead>
         <tr>
             <th>Thumb</th>
