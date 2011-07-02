@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-06-24 </lastBuildDate>
-  <pubDate>2011-06-24 </pubDate>
+  <lastBuildDate>2011-07-02 </lastBuildDate>
+  <pubDate>2011-07-02 </pubDate>
 <item>
     <title>Mad Bat BIO Energy</title>
     <description></description>
@@ -133,10 +133,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Trojka energy</title>
+    <title>hot blood</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/trojka_energy.html</link>
-    <guid>trojka_energy</guid>
+    <link>http://makefu.github.com/energydb/drinks/hot_blood.html</link>
+    <guid>hot_blood</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -389,6 +389,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/xl_sugarfree.html</link>
     <guid>xl_sugarfree</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Trojka energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/trojka_energy.html</link>
+    <guid>trojka_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
