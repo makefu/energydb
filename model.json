@@ -2619,6 +2619,43 @@
         "url": "Winters, Maarheeze NL", 
         "volume": 250.0
     }, 
+    "wild_dragon": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 48.9, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 8.0, 
+            "others": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0, 
+            "sugar": 0, 
+            "taurine": 390.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Baran Doener, Turmstrasse/Waldstrasse, Moabit, Berlin", 
+        "look": "Wild Dragon comes in a black and red can with a golden dragon crest. \"SERVE COOL\" in the front in case you forgot to drink your energy drinks cool. Besides that Wild Dragon(R) got a \"SUPERIOR TASTE AWARD\" emblem given out by the Institutional Taste and Quality Institute Brussels. The can also poses with \"Award winning smooth taste. Premium quality from Austria\". All that really arouses expectations. I hope for the best.", 
+        "name": "Wild Dragon Energy Drink", 
+        "overall": "Wild dragon got produced in Austria, awarded by the institute in Brussels and imported to Germany. Pretty multinational i must say. After drinking it i do not really know if they really earned their award but the drink surely does not suck bad. It feels like they tasted their own beverage before selling it (in contrast to Mad Bat). The can looks rather nice though. I bought it pretty expensive but if it would be cheaper (and available in my surrounding area) i would buy it again.", 
+        "paid": 1.49, 
+        "rating": 7.9, 
+        "taste": "So it got a superior taste award, that means it has to taste good... or not??? Well it smells rather nice, pretty sweet smell. Mh i must say the taste is pretty smooth. It is not as sour as most of the drinks and atop of that Wild Dragon does not taste like shit or weird or anything. It is still really sweet. When you wait too long the taste becomes rather sour again and it looses most of the CO2. Wild Dragon is not the best energy drink in terms of taste but it is above average.", 
+        "tribute": "", 
+        "url": "www.wilddragon.com", 
+        "volume": 250.0
+    }, 
     "xl_cranberry": {
         "CO2": true, 
         "Nutritions": {
