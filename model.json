@@ -1779,6 +1779,43 @@
         "url": "Taisentaler Getraenke GMBH", 
         "volume": 330
     }, 
+    "naturell_energy_red_berry": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 45.2, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 0, 
+            "others": 0, 
+            "panthenol acid": 0, 
+            "sodium": 0.01, 
+            "sugar": 11.0, 
+            "taurine": 0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Kaufland Bremen", 
+        "look": "Naturell Energy Red Berry comes in a red (surprise!) can with white and silver text. In addition to that the can has a darker, shining red relief to make it look \"cool\" and girls will buy it more often (my guess :P). The drink itself is light-red to pink color. It looks rather expensive, even though it isn't.", 
+        "name": "Naturell Energy Red Berry Acai", 
+        "overall": "As i stated before i had high hopes for this one and even though the drink is not too good in taste i like the drink as a whole. It looks rather nice and it is really cheap compared to other energy drinks. It does not contain any additional vitamins or taurine but 32mg pure caffeine and this is what you want! Check it out if you see it for the same price as i got it.", 
+        "paid": 0.39, 
+        "rating": 7.4, 
+        "taste": "I have high hopes in this one, as the citrus energy drink of naturell was actually pretty good. Like always you will need luck and hope they didn't fucked that one up. It smells kinda like the Relentless Berry Energy drink (tbd), very fruity, like strawberry. The smell is not too bad. Oh man, this drink has really really sour after taste. At the beginning it is kinda sweet, somewhat like an undefined red berry (not only strawberry). The CO2 is not too predominant, it creates very small bubbles not stressing your taste buds too much. This drink does not really taste like an ordinary energy drink, more like berry spritzer or flavoured water. It is not really my taste but i am sure some will like it.", 
+        "tribute": "Thanks to Melissa for buying this drink in Hamburg!", 
+        "url": "Traisentaler Getraenke GmbH & Co. A-3105 Unterradlberg", 
+        "volume": 330.0
+    }, 
     "nos": {
         "CO2": true, 
         "Nutritions": {
