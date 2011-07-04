@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-07-03 </lastBuildDate>
-  <pubDate>2011-07-03 </pubDate>
+  <lastBuildDate>2011-07-04 </lastBuildDate>
+  <pubDate>2011-07-04 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -91,6 +91,13 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>XL SugarFree</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/xl_sugarfree.html</link>
+    <guid>xl_sugarfree</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>Mask Wanted Energy Fruit</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mask_fruit.html</link>
@@ -109,13 +116,6 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/denner_e-zero.html</link>
     <guid>denner_e-zero</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Taurus Energy Drink Berry</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
-    <guid>taurus_berry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -203,10 +203,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>XL SugarFree</title>
+    <title>Taurus Energy Drink Berry</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/xl_sugarfree.html</link>
-    <guid>xl_sugarfree</guid>
+    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
+    <guid>taurus_berry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -431,6 +431,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/monster_energy.html</link>
     <guid>monster_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Naturell Energy Red Berry Acai</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/naturell_energy_red_berry.html</link>
+    <guid>naturell_energy_red_berry</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
