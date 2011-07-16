@@ -2486,6 +2486,43 @@
         "url": "unimall.de(promo),suesswarenversand.de", 
         "volume": 250
     }, 
+    "t400_energy": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 30.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 2.6, 
+            "glucuronolacton": 10.0, 
+            "guarana": 0, 
+            "inositol": 20.0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 1.8, 
+            "others": 0, 
+            "panthenol acid": 1.8, 
+            "sodium": 0.2, 
+            "sugar": 0.1, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0.3, 
+            "vitamin B2": 0, 
+            "vitamin B6": 0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Edeka aktiv markt Grindelallee", 
+        "look": "The can looks pretty cheap, with the big T400 logo at the front and tiny \"T400\"s paving the background. There is a red \"30mg Caffeine + 400mg Taurine\" banner at the top as if they where really proud of their pretty much standard ingredients. The can itself is black and if it would not have the tiny T400s in the background it would actually look pretty decent.", 
+        "name": "T400 Energy", 
+        "overall": "T400 Energy is a pretty standard, but not solid energy drink. The taste is not really that great even when cooled down to 5 degrees. It is actually pretty cheap and widely available.The added Vitamins are pretty standard, no surprises here. Another Pro is that you can drink the can empty pretty fast due to its low CO2 contents. I drank this energydrink in the afternoon down-phase hoping for an energy boost to wake me up again, too bad caffeine slowly kicks in after roughly 30 minutes. Still i must say i am slowly feeling better after  20 minutes (the time i needed to write this review). Caffeine, it works bitches!", 
+        "paid": 0.69, 
+        "rating": 5.9, 
+        "taste": "OK T400, let me see what you have got! I must say it smells kinda familiar, obviously because most energy drinks smell pretty much the same. It is always about the gummy-sweet smell. It reminds me of Hubba Bubba Bubblegum. It contains really really few CO2 and therefore the arbitrary sweet and sourness of the is predominant. It tastes a bit like plastic, too. I cannot really say i like the taste. It surely is not better than other \"me-too\" energy drinks. I know now why the taste is not really good, i looked up the sugar contents of the drink and instead of normal sugar they used a replacement. Maybe that's where the headache comes from i now have.", 
+        "tribute": "", 
+        "url": "www.t400energy.de", 
+        "volume": 250.0
+    }, 
     "taurine_force": {
         "CO2": true, 
         "Nutritions": {
