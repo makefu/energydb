@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-07-16 </lastBuildDate>
-  <pubDate>2011-07-16 </pubDate>
+  <lastBuildDate>2011-07-18 </lastBuildDate>
+  <pubDate>2011-07-18 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -193,6 +193,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/jack_jones.html</link>
     <guid>jack_jones</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>POLOs Power Lader Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/polos_power_lader.html</link>
+    <guid>polos_power_lader</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
