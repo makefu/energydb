@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-07-18 </lastBuildDate>
-  <pubDate>2011-07-18 </pubDate>
+  <lastBuildDate>2011-07-30 </lastBuildDate>
+  <pubDate>2011-07-30 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -613,6 +613,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/power_up.html</link>
     <guid>power_up</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Pure Cofain 699</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/pure_cofain.html</link>
+    <guid>pure_cofain</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
