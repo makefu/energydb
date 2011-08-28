@@ -2095,6 +2095,43 @@
         "url": "www.quickenergy.com", 
         "volume": 59.0
     }, 
+    "quixx": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 47.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 20.0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 7.9, 
+            "others": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.08, 
+            "sugar": 10.8, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Real Bremen", 
+        "look": "The drink comes in a 0.5l bottle with a black and pink label. The color has the color of urine which is pretty normal for energy drinks. Honestly i have no clue how they came up with this design and the name of this drink. The name probably comes from \"quick\" and ... i have no idea...  I cannot comprehend what these pink triangles on the front of the bottle mean. The bottle itself has a 'vivaris' imprint. ", 
+        "name": "quixx Energy Drink", 
+        "overall": "This time it is quixx energy drink. The design of the bottle is really bad imho. As the design of an energy drink is really important for reflex buyers, the producer 'vivaris' should rethink their energy drink as the taste is not too bad. The price is fine, too for a big a big bottle. All in all this is a pretty average energy drink. Be sure to drink it cold, follow the rule number one of energy drink degustation.", 
+        "paid": 0.79, 
+        "rating": 6.5, 
+        "taste": "quixx smells really really sweet and does not have really much CO2 (at least my bottle). Mh... i must say this one is really drinkable, even with very view CO2, i kinda like that. Like most of the drinks it is really sweet but it does not have a strong typical energy drink taste. It is kinda refreshing at first but then quixx becomes icky in your mouth. When swallowing the drink down it gets somewhat sour. When purping the last sour taste comes up again. This drink does not taste too bad i must say.", 
+        "tribute": "Big thanks goes to Misa who bought this drink in Bremen for me.", 
+        "url": "www.vivaris.net", 
+        "volume": 500.0
+    }, 
     "recharge_redberry": {
         "CO2": true, 
         "Nutritions": {
