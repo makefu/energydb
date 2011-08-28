@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-08-21 </lastBuildDate>
-  <pubDate>2011-08-21 </pubDate>
+  <lastBuildDate>2011-08-28 </lastBuildDate>
+  <pubDate>2011-08-28 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -571,6 +571,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/ener-g_shot.html</link>
     <guid>ener-g_shot</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>quixx Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/quixx.html</link>
+    <guid>quixx</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
