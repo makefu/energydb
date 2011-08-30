@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-08-29 </lastBuildDate>
-  <pubDate>2011-08-29 </pubDate>
+  <lastBuildDate>2011-08-30 </lastBuildDate>
+  <pubDate>2011-08-30 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -522,6 +522,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mixxed_up_light.html</link>
     <guid>mixxed_up_light</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Rockstar Recovery</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/rockstar_recovery.html</link>
+    <guid>rockstar_recovery</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
