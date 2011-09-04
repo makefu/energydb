@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-08-30 </lastBuildDate>
-  <pubDate>2011-08-30 </pubDate>
+  <lastBuildDate>2011-09-04 </lastBuildDate>
+  <pubDate>2011-09-04 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -137,6 +137,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/nos.html</link>
     <guid>nos</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Scenatic Energy drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/scenatic.html</link>
+    <guid>scenatic</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
