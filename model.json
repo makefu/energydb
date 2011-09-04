@@ -2588,6 +2588,43 @@
         "url": "www.russianpower.org", 
         "volume": 250
     }, 
+    "scenatic": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 10.0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 7.92, 
+            "others": 0, 
+            "panthenol acid": 1.98, 
+            "sodium": 0.06, 
+            "sugar": 10.4, 
+            "taurine": 380.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Edeka Bremen Hauptbahnhof", 
+        "look": "Scenatic Energy Drink comes in a white/blue can with red lines at the top with \"new recipe\" and at the bottom with \"THE ENERGIZER\". The can itself does not look special, pretty cheap.", 
+        "name": "Scenatic Energy drink", 
+        "overall": "Scenatic is a budget drink sold to Discounters in northern Germany.After drinkin this one I must say i feel pretty refreshed. Scenatic energy drink is actually not too bad for the price. It also contains all thte goodness of the expensive counterparts. When i would have the choice between this drink and Red Bull i would definitly buy Scenatic.\n", 
+        "paid": 0.49, 
+        "rating": 6.9, 
+        "taste": "Scenatic smells like an ordinary energy drink, i expect nothing special. Well, what can i say, it tastes... normal ? It is not too sweet but also does not provide any special twists. It is a bit more sour than other drinks, the typical gummy taste is not that strong in this one. The taste is not really bad but also nothing special. I like it.", 
+        "tribute": "", 
+        "url": "www.handelsmarken-gmbh.de", 
+        "volume": 250.0
+    }, 
     "schwarze_dose": {
         "CO2": true, 
         "Nutritions": {
