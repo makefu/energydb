@@ -1999,6 +1999,43 @@
         "url": "http://www.polo-motorrad.de", 
         "volume": 250.0
     }, 
+    "power_horse": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 48.0, 
+            "glucuronolacton": 200.0, 
+            "guarana": 0, 
+            "inositol": 12.0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 8.0, 
+            "others": 0, 
+            "panthenol acid": 2.0, 
+            "sodium": 0.06, 
+            "sugar": 11.0, 
+            "taurine": 400.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 2.0, 
+            "vitamin B2": 0, 
+            "vitamin B6": 2.0, 
+            "vitamin C": 0, 
+            "whey": 0
+        }, 
+        "bought from": "Kaufland Stuttgart West", 
+        "look": "The can itself is silver with red and black imprint. The logo is a black horse(surprise!) standing on it's two rear hooves. The form factor is quite unusual for energy drinks and looks more like a beer can than an energy drink one. Even though the can looks pretty small it also contains 250ml, like most energy drinks.", 
+        "name": "Power Horse Energy Drink", 
+        "overall": "After doing some research (aka. googling power horse and taking the the third hit to wikipedia), i found out that the S. Spitz Company pioneered energy drinks in europe with Power Horse. This means i drink a tiny bit of Energy Drink history, which suddenly make the drink more delicious. The taste is ok, pretty similar to most drinks, but nothing special. A Power Horse reseller is even claiming the URL \"www.energydrinks.de\"", 
+        "paid": 0.99, 
+        "rating": 7.7, 
+        "taste": "Power Horse smells like chewing gum and tastes like sour gummy bears. I really cannot tell a difference between this drink and pretty much every other 'normal' energy drink. Anyway this is not necessary a bad thing. It is nothing special though.", 
+        "tribute": "", 
+        "url": "www.power-horse.com", 
+        "volume": 250.0
+    }, 
     "power_point_juicy": {
         "CO2": true, 
         "Nutritions": {
