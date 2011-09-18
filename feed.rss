@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-09-04 </lastBuildDate>
-  <pubDate>2011-09-04 </pubDate>
+  <lastBuildDate>2011-09-18 </lastBuildDate>
+  <pubDate>2011-09-18 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -60,6 +60,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/black_cat.html</link>
     <guid>black_cat</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Carrefour Taurine Force Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/taurine_force.html</link>
+    <guid>taurine_force</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -123,13 +130,6 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/energetica.html</link>
     <guid>energetica</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Carrefour Taurine Force Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/taurine_force.html</link>
-    <guid>taurine_force</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -410,6 +410,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/redbull.html</link>
     <guid>redbull</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Power Horse Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/power_horse.html</link>
+    <guid>power_horse</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
