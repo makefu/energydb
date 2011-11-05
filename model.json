@@ -295,14 +295,12 @@
     "blitz_start": {
         "CO2": false, 
         "Nutritions": {
-            "biotin": 50, 
             "caffein": 416, 
             "calcium": 480, 
             "energy": 276, 
             "guarana": 800, 
-            "magnesium": 224, 
             "niacin": 16, 
-            "others": "Mateextract(200mg)", 
+            "others": "magnesium,(224mg),biotin(50mg),Mateextract(200mg)", 
             "panthenol acid": 6, 
             "sodium": 0, 
             "sugar": 40, 
@@ -1555,7 +1553,6 @@
     "mask_energy": {
         "CO2": true, 
         "Nutritions": {
-            "biotin": 4.0, 
             "caffein": 0, 
             "calcium": 0, 
             "coenzym Q1": 0, 
@@ -1566,7 +1563,7 @@
             "isomaltose": 0, 
             "magnesium": 0, 
             "niacin": 8.0, 
-            "others": 0, 
+            "others": "biotin(4mg)", 
             "panthenol acid": 2.0, 
             "sodium": 0.0, 
             "sugar": 11.3, 
@@ -2086,7 +2083,7 @@
             "vitamin B6": 2
         }, 
         "bought from": "Real Berlin Neuk\u00f6lln", 
-        "look": "A silver can with the Power up logo on it.Really looks somewhat cheap. Re-Review: The can is Silver with blue and red labels. There is a stick-figure weigh lifter at the front next to the Power Up logo which is blue with white Text and in the background a dark blue star and the rutherford model symbol(\u269B). In the bottom left corner there are two screw labels on the can. The designer probably though \"What looks cool and strong?\" and that is the outcome. And yeah, it still looks pretty cheap to me.", 
+        "look": "A silver can with the Power up logo on it.Really looks somewhat cheap. Re-Review: The can is Silver with blue and red labels. There is a stick-figure weigh lifter at the front next to the Power Up logo which is blue with white Text and in the background a dark blue star and the rutherford model symbol(\u269b). In the bottom left corner there are two screw labels on the can. The designer probably though \"What looks cool and strong?\" and that is the outcome. And yeah, it still looks pretty cheap to me.", 
         "name": "Power Up Energy Drink", 
         "overall": "A Cheap, mediocre tasting drink.Re-Rewiev: It has been quite some time since i reviewed 'Power Up EXTRA STRONG ENERGY DRINK' (i really do not know what the designers of energy drinks have with all caps descriptions...). I am doing the review again because the old one is kind of bland and inexpressive. After retrying Power Up i think the rating i gave for power up was not wrong, probably a bit too low. I can recommend this drink if you want a quick and kind of inexpensive refreshment.", 
         "paid": 0.49, 
@@ -2094,6 +2091,43 @@
         "taste": "It tastes really sweet with a very strong gummy taste. It surely is not the best E-drink i drank until now. Re-Review: Well i must say it still is really sweet, but actually it does not taste too bad. Power Up does not have a strong after taste (but still has the typical gummy bear taste), but quite a lot of CO2. I am drinking this one ice cold and i am pretty sure it is not great a bit warmer but that is fine for me. You can compare it to a 'not that good' version of Lions Energizer. ", 
         "url": "SIG-Import GmbH", 
         "volume": 250
+    }, 
+    "power_xxl": {
+        "CO2": true, 
+        "Nutritions": {
+            "biotin": 0, 
+            "caffein": 32.0, 
+            "calcium": 0, 
+            "coenzym Q1": 0, 
+            "energy": 47.0, 
+            "glucuronolacton": 0, 
+            "guarana": 0, 
+            "inositol": 0, 
+            "isomaltose": 0, 
+            "magnesium": 0, 
+            "niacin": 5.4, 
+            "others": 0, 
+            "panthenol acid": 1.8, 
+            "sodium": 0, 
+            "sugar": 11.3, 
+            "taurine": 30.0, 
+            "vitamin B1": 0, 
+            "vitamin B12": 0, 
+            "vitamin B2": 0.48, 
+            "vitamin B6": 0.6, 
+            "vitamin C": 18.0, 
+            "whey": 0
+        }, 
+        "bought from": "Edeka aktiv markt", 
+        "look": "The can of Power XXL looks reeeeally cheap. The logo is the \"POWER XXL\" text together with a pair of eyes staring at you pretty similar to the Jimmy Wales' Wikipedia campaign. Additionally all the \"cool\" slogans are on it  like \"TASTE THE BIG POWER\" and \"look into my eyes!\".This is really cheesy.", 
+        "name": "Power XXL Energy Drink", 
+        "overall": "POWER XLL taste pretty ok, the look is really stupid. The price is too expensive for an average 250ml energy drink.It also only contains a thenth (30mg) of taurine compared to other energy drinks. This drink is not \"great\" but also does not really disappoints.", 
+        "paid": 0.99, 
+        "rating": 6.3, 
+        "taste": "Power XXL smells pretty genericore but the first sip is... kinda different. It is pretty sour but also really sweet. It seems like the taste changes over the time of drinking. Of course it has the typical gummy bear taste and all but it got different nuances in the sweet and sour level. With enough CO2 i can honestly say that this drink does not disappoints.", 
+        "tribute": "", 
+        "url": "www.power-xxl.com", 
+        "volume": 250.0
     }, 
     "pure_cofain": {
         "CO2": true, 
@@ -2666,7 +2700,6 @@
         "CO2": true, 
         "Nutritions": {
             "caffein": 32, 
-            "coenzym Q10": 3, 
             "energy": 58, 
             "guarana": 100, 
             "isomaltose": 5, 
@@ -2675,6 +2708,7 @@
             "sodium": 0.001, 
             "sugar": 14.4, 
             "taurine": 0, 
+            "others": "Coenzym Q10(3mg)",
             "vitamin B12": 2, 
             "vitamin B6": 2, 
             "vitamin C": 24
@@ -2761,10 +2795,9 @@
     "steinberg": {
         "CO2": true, 
         "Nutritions": {
-            "biotin": 30, 
             "caffein": 32, 
             "energy": 48, 
-            "others": "", 
+            "others": "biotin(30mg)", 
             "panthenol acid": 1.2, 
             "sodium": 0.04, 
             "sugar": 11.0, 
