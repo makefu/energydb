@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2011-11-06 </lastBuildDate>
-  <pubDate>2011-11-06 </pubDate>
+  <lastBuildDate>2011-11-13 </lastBuildDate>
+  <pubDate>2011-11-13 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -438,6 +438,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/blitz_energy.html</link>
     <guid>blitz_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Black Cat Juicy Energy Drink Exotic</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/black_cat_exotic.html</link>
+    <guid>black_cat_exotic</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
