@@ -3021,6 +3021,40 @@
         "url": "www.tunnelenergy.com",
         "volume": 1000.0
     },
+    "turbo_tea": {
+        "CO2": false,
+        "Nutritions": {
+            "caffein": 0,
+            "calcium": 0,
+            "energy": 0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 0,
+            "others": 0,
+            "panthenol acid": 0,
+            "sodium": 0,
+            "sugar": 0,
+            "taurine": 0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 0,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "some belgian hotel",
+        "look": "The wrapper looks really boring, with a red \"S budget\" logo at the top. \"TURBO TEA\" is written in fat letters at the front. The back side only contains the preparation manual. The green  background contains small logos made of an tree in a circle or something.",
+        "name": "S Budget Turbo Tea",
+        "overall": "Well, this is something unique. A tea with guarana and Ginseng added to refresh you harder than normal tea. I am not really sure if this is \"energydb\" worthy but what the hell, it is my db so i can do every damn thing with it. I really like the idea. Too bad there aren't any Nutritions printed on the wrapper of the tea bag. Normal black tea will only need to stay in the water for like 3 minutes but this turbo tea needs a whopping 8 minutes to unleash it's full potential (supposedly). To be honest, the tea sucks pretty big time, even with sugar it just does not has enough flavor.",
+        "paid": 0.0,
+        "rating": 4.4,
+        "taste": "This tea smells really unique, somewhat like an energy drink mixed with black tea. I have high hopes for drinking an awesome tea. After waiting 8 long minutes .... bah, without sugar this tea is pretty bad. The initial taste is really somewhat like an energy drink, then it tastes watery and at the end turbo becomes really sour. With sugar the tea tastes better, but still not that good... I definitly prefer ordinary energy drinks or ordinary black tea above this 'turbo tea'.",
+        "tribute": "Very special thanks go to Misas Dad who brought these tea bags from a business trip.",
+        "url": "S budget",
+        "volume": 3.0
+    },
     "v_energy": {
         "CO2": true,
         "Nutritions": {
