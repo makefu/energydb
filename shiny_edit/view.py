@@ -4,7 +4,7 @@ import simplejson as json
 from decimal import Decimal
 SCHEMA_FILE='../schema.json'
 
-json_file="/home/makefu/repos/energydb/model.json"
+json_file="../model.json"
 
 def todec(s):
     return Decimal(str(round(float(s),3)))
