@@ -201,6 +201,40 @@
         "url": "www.bawls.com",
         "volume": 473.0
     },
+    "big_energy_shock": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 60.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 5.4,
+            "others": 0,
+            "panthenol acid": 1.8,
+            "sodium": 0,
+            "sugar": 14.5,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0.48,
+            "vitamin B6": 0.6,
+            "vitamin C": 18.0,
+            "whey": 0
+        },
+        "bought from": "CAP Markt, Stuttgart Untertuerkheim",
+        "look": "The 500ml can of big energy shock is golden with black and a red comic explosion at the front. All letters of the logo are bold and in caps, but i do not like to shout on the internet. The can looks really nice to me, it seems like some high quality energy drink. Again, big shock looks really similar to Monster Energy or the Rockstar Energy Drink line because of the top banner with all the good things listed.",
+        "name": "Big Energy Shock",
+        "overall": "To me the Big Energy Shock series is a real surprise, the cans look cool and the drink itself tastes pretty awesome. If you get the chance, be sure to check it out. I can highly recommend both classic and juicy orange flavours.",
+        "paid": 1.49,
+        "rating": 8.3,
+        "taste": "Well, Big Energy Shock smells like some ordinary energy drink... but the taste is kinda different from the other me-too energy drinks. It really has some unique taste, it is a bit tart, not that sweet but actually pretty neat. The drink is really refreshing, somewhat similar to the orange flavour one. ",
+        "tribute": "",
+        "url": "www.shockenergy.eu",
+        "volume": 500.0
+    },
     "big_energy_shock_orange": {
         "CO2": true,
         "Nutritions": {
