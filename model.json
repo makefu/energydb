@@ -1340,6 +1340,40 @@
         "url": "www.kee-pex.de",
         "volume": 250
     },
+    "koks": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 48.0,
+            "glucuronolacton": 25.0,
+            "guarana": 0,
+            "inositol": 10.0,
+            "isomaltose": 0,
+            "niacin": 6.4,
+            "others": 0,
+            "pantothenic acid": 2.4,
+            "sodium": 0.1,
+            "sugar": 11.7,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 1.0,
+            "vitamin B2": 0,
+            "vitamin B6": 0.56,
+            "vitamin C": 0,
+            "whey": 51.0
+        },
+        "bought from": "TEDi Stuttgart Ludwigsburg",
+        "look": "The drink comes in a black and white box. The word \"Koks\" is written in a cocaine-like line, or that is what it supposed to look like. The can looks quite unique and it stays out next to other drinks. The fluid itself is opaque white.",
+        "name": "koks",
+        "overall": "Koks (german for \"cocaine\") is a whey energy drink with a pretty unique taste. The price is ok for what you get as it contains all of the good(and bad) stuff in one can like all the vitamins and maxed out caffeine. Anyways, i think the name is totally unfitting. It tastes sweet and gummy but surely not like some hardcore drug you sniff throug your nose. Still, i can recommend it for the price.",
+        "paid": 0.75,
+        "rating": 7.8,
+        "taste": "Mh... i must say, koks is actually not too bad. It really tastes different than most drinks. It is quite sour but also somewhat like chewing gum. One might compare this drinks taste with the outter shell of \"BumBum\" Ice Cream you can buy here in Germany. The energy' taste is not as dominant as in other drinks. It contains whey, but the milky taste is almost untastable.",
+        "tribute": "",
+        "url": "tedi-discount.com",
+        "volume": 250.0
+    },
     "leetmate": {
         "CO2": true,
         "Nutritions": {
