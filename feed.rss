@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2012-02-26 </lastBuildDate>
-  <pubDate>2012-02-26 </pubDate>
+  <lastBuildDate>2012-04-15 </lastBuildDate>
+  <pubDate>2012-04-15 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -725,6 +725,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/flying_power.html</link>
     <guid>flying_power</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>RedBull The Red Edition</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/redbull_red.html</link>
+    <guid>redbull_red</guid>
     <!--<pubDate></pubDate>-->
   </item>
 </channel>
