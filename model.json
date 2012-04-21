@@ -1793,6 +1793,40 @@
         "url": "www.mask-energy.com",
         "volume": 250.0
     },
+    "mixexed_up_juicy": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 54.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 7.0,
+            "others": 0,
+            "pantothenic acid": 2.0,
+            "sodium": 0.05,
+            "sugar": 12.1,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 2.5,
+            "vitamin B2": 0,
+            "vitamin B6": 1.3,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "Lidl Stuttgart Stadtmitte",
+        "look": "The drink comes in a black small bottle with an orange label an top. It fits nicely into the mixxed up series. Still, it does not look any special and the label design is pretty weak.",
+        "name": "mixxed up Juicy Orange",
+        "overall": "The drink is adequate when comparing the cheap price to the taste. Like all mixxed up drinks, it does not taste too bad and does not look too shabby but definitly is not a unique drink in any way. The label states 30 percent fruit content but i am not really sure where these went as it is not really that 'juicy'. Of course it contains the average basis of the good stuff like taurine and caffeine but that's about it.",
+        "paid": 0.39,
+        "rating": 7.1,
+        "taste": "It Smells like Big Energy Shock, a bit more like a vitamin tablet. And the taste is pretty much like that, a Vitamin C Orange fizzy tablet. Like moste of these juicy drinks it does not taste too much like energy drink at all and is pretty sour. At least the overall taste is not all too bad but it surely is not the best juicy drink.",
+        "tribute": "",
+        "url": "Mitteldeutsche Erfrischungsgetraenke GmbH & Co KG",
+        "volume": 330.0
+    },
     "mixxed_up": {
         "CO2": true,
         "Nutritions": {
