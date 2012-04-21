@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2012-04-15 </lastBuildDate>
-  <pubDate>2012-04-15 </pubDate>
+  <lastBuildDate>2012-04-21 </lastBuildDate>
+  <pubDate>2012-04-21 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -102,6 +102,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/xl_sugarfree.html</link>
     <guid>xl_sugarfree</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>Blitz Start</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/blitz_start.html</link>
+    <guid>blitz_start</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
@@ -350,10 +357,10 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
-    <title>Blitz Start</title>
+    <title>mixxed up Juicy Orange</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/blitz_start.html</link>
-    <guid>blitz_start</guid>
+    <link>http://makefu.github.com/energydb/drinks/mixexed_up_juicy.html</link>
+    <guid>mixexed_up_juicy</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
