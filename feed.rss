@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2012-04-22 </lastBuildDate>
-  <pubDate>2012-04-22 </pubDate>
+  <lastBuildDate>2012-05-28 </lastBuildDate>
+  <pubDate>2012-05-28 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -140,6 +140,13 @@
     <!--<pubDate></pubDate>-->
   </item>
 <item>
+    <title>fire of istanbul</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/fire_of_istanbul.html</link>
+    <guid>fire_of_istanbul</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
     <title>Bebida Energetica</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/energetica.html</link>
@@ -165,6 +172,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_energy.html</link>
     <guid>rockstar_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>RedBull The Silver Edition</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/redbull_silver.html</link>
+    <guid>redbull_silver</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
