@@ -2974,6 +2974,40 @@
         "url": "www.rockstarenergydrink.de",
         "volume": 500.0
     },
+    "rodeo": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 45.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 6.4,
+            "others": 0,
+            "pantothenic acid": 2.4,
+            "sodium": 0,
+            "sugar": 11.3,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 1.0,
+            "vitamin B2": 0.56,
+            "vitamin B6": 0.56,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "Uemmet Supermarkt Stuttgart Wangen",
+        "look": "The can comes with some red and black pattern, in the middle the Rodeo logo with a rodeo rider on a horse. Overall the can looks pretty cheap to me, it seems there hasn't been too much effort into the design.",
+        "name": "Rodeo Energy Drink",
+        "overall": "It looks, smells and tastes like a cheap-o me-too Red Bull Wannabe made in Turkey. It would be a great twist if the rodeo rider would ride the actual bull mascot for the company which product they spoofed. And it would be even possible without ever infringing any copy right laws. But without anything extraordinary, this drink is sub-par.",
+        "paid": 0.99,
+        "rating": 5.5,
+        "taste": "Let's see how this turkish energy drink performs. It smells like a me-too energy drink...and tastes pretty bad as well. It is really sour at the end and incredibly sweet at the beginning. There is some weird after taste as well, somewhat plasty.",
+        "tribute": "",
+        "url": "",
+        "volume": 250.0
+    },
     "russian_power": {
         "CO2": true,
         "Nutritions": {
