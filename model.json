@@ -620,6 +620,40 @@
         "url": "www.burnenergydrink.it",
         "volume": 250
     },
+    "burn_mocca": {
+        "CO2": false,
+        "Nutritions": {
+            "caffein": 0,
+            "calcium": 0,
+            "energy": 43.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 10.0,
+            "isomaltose": 0,
+            "niacin": 3.2,
+            "others": 0,
+            "pantothenic acid": 1.0,
+            "sodium": 0,
+            "sugar": 8.1,
+            "taurine": 380.0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 0.21,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "Carrefour S.A 28022 Madrid",
+        "look": "Like all \"burn\" energy drinks this drink comes in a similar design. The big flame logo in the middle, the can itself is light to dark brown to emphasize the coffee origin and ingredients. It got a badge telling you this is a \"Coffee Energy Drink\" and the ingredients itself are added in a form of a flame oblique onto the can. This looks pretty neat, but there is no place for the translation of the ingredients, the text itself is spanish.",
+        "name": "burn coffee energy drink",
+        "overall": "For me this is not an energy drink but like Mr Brown an iced coffee, nothing more, nothing less. If you, for some reason, do not like the taste of ordinary energy drinks then iced coffee might be a real alternative for you. Of course burn mocca got all the good stuff inside like maximum caffeine,taurine and vitamin B as well as vitamin Sugar. I bought it in Spain at Carrefour but if you could buy this here in Germany i would pretty likely buy it if i see it again even though it is a bit expensive.",
+        "paid": 0.85,
+        "rating": 7.0,
+        "taste": "My guess is that this will nothing taste like energy drink, but more like some frozen coffee stuff. But hey, let's give it a try, they say it's an energy drink, so it has to be. The smell is like ice coffee, and the smell is... actually pretty good. As i though before, it tastes nothing like energy drink but more like for example Mr Brown. For me it is a bit dilluted but the coffee taste is definitly there.",
+        "tribute": "",
+        "url": "",
+        "volume": 250.0
+    },
     "clickz": {
         "CO2": false,
         "Nutritions": {
