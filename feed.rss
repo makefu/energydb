@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2012-07-06 </lastBuildDate>
-  <pubDate>2012-07-06 </pubDate>
+  <lastBuildDate>2012-07-07 </lastBuildDate>
+  <pubDate>2012-07-07 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -753,6 +753,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/turbo_tea.html</link>
     <guid>turbo_tea</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>burn coffee energy drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/burn_mocca.html</link>
+    <guid>burn_mocca</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
