@@ -35,6 +35,40 @@
         "url": "www.actilife.ch",
         "volume": 250.0
     },
+    "action_cola": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 31.5,
+            "calcium": 0,
+            "energy": 47.2,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 2.4,
+            "others": 0,
+            "pantothenic acid": 0,
+            "sodium": 0.1,
+            "sugar": 11.2,
+            "taurine": 30.0,
+            "vitamin B1": 0,
+            "vitamin B12": 0.38,
+            "vitamin B2": 0,
+            "vitamin B6": 0.21,
+            "vitamin C": 0,
+            "whey": 50.0
+        },
+        "bought from": "TEDi Ludwigsburg",
+        "look": "Action Cola comes in a blue,black and silver can with the \"Action\" logo from bottom to the top. The design is in line with the action series, bold and big fonts all over the place and arrow to make the drink look \"fast\". The drink is bigger than your normal energy drink can but not as big as the double-size cans like Relentless or Monster.",
+        "name": "Action Cola-Energy",
+        "overall": "I must say i really like this drink besides the fact that i normally really hate these cola energy drink mixes. It does everything right for me: no bottle desposit, good price, big can and most importantly the taste is pretty neat!\nI think the magic is to make a cola energy drink not taste like cola and energy at all, but like some sour/sweet soda mix similar to Vita Cola or Mezzo Mix. I can recommend this drink, so if you have the chance, try it but make sure to drink it cold.",
+        "paid": 0.75,
+        "rating": 8.0,
+        "taste": "Action Cola smells a lot like some cola syrup.... well this drink is actually not too bad i must say and this is a rare thing for a cola and energy mix. Seriously this stuff tastes pretty neat, really sweet with a citrus kick.The typical energy drink taste is not too dominant, as well as the cola taste. Action Cola is superior to all the other energy drink an cola mixes i have ever drunk. Heads up for not fucking that one up! It is also a whey mix to make it desposit free here in Germany.",
+        "tribute": "",
+        "url": "www.tedi-discount.com",
+        "volume": 355.0
+    },
     "action_energy_drink": {
         "CO2": true,
         "Nutritions": {
