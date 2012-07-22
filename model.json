@@ -2133,6 +2133,40 @@
         "url": "www.monsterenergy.com",
         "volume": 500
     },
+    "naturell_energy_blueberry": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 49.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 0,
+            "others": 0,
+            "pantothenic acid": 0,
+            "sodium": 0.1,
+            "sugar": 11.8,
+            "taurine": 0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 0,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "Kaufland Stuttgart Untertuerkheim",
+        "look": "The design is similar to the other naturell energy drinks. The can is dark blue with wite and silver text. The design looks really nice, like some designer energy drink. One might even confuse it with the new blue red bull energy drink.",
+        "name": "naturell Energy Blueberry",
+        "overall": "Even though naturell energy blueberry actually does taste like the fruite, it only contains 0.1% blueberry concentrate. For me it is at par with it's predecessor, naturell energy citrus which i really like. I can recommend this drink when you do not need the typical energy drink taste but want to stay awake with some refreshing beverage. Also, the price is really nice for a 330ml can but it does not contain any vitamins. It is definitly a must drink for all energy drink lovers because the taste is really something special you might not find somewhere again that good.",
+        "paid": 0.49,
+        "rating": 9.1,
+        "taste": "Mhhh... the drink actually smells blueberryish... The dominant taste is just pure sweetness, after that comes some blueberry ... and thats about it, there is pretty much no after taste. Also you might not even notice this is an energy drink because it does not have any characteristics of an energy drink tastewise. The drink actually is pretty nice compared to other energy + X mixes. ",
+        "tribute": "",
+        "url": "Taisentaler Getraenke GMBH",
+        "volume": 330.0
+    },
     "naturell_energy_citrus": {
         "CO2": true,
         "Nutritions": {
