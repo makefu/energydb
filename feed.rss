@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2012-07-22 </lastBuildDate>
-  <pubDate>2012-07-22 </pubDate>
+  <lastBuildDate>2012-08-12 </lastBuildDate>
+  <pubDate>2012-08-12 </pubDate>
 <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
@@ -130,6 +130,13 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_guava.html</link>
     <guid>rockstar_guava</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+<item>
+    <title>NRGY Coffee Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/nrgy_coffee.html</link>
+    <guid>nrgy_coffee</guid>
     <!--<pubDate></pubDate>-->
   </item>
 <item>
