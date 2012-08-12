@@ -2261,6 +2261,40 @@
         "url": "www.drinknos.com",
         "volume": 473.0
     },
+    "nrgy_coffee": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 44.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 0,
+            "others": 0,
+            "pantothenic acid": 0,
+            "sodium": 0.008,
+            "sugar": 10.9,
+            "taurine": 0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 0,
+            "vitamin C": 0,
+            "whey": 51.0
+        },
+        "bought from": "TeDI Bremen",
+        "look": "The drink comes in a golden can with black text. It looks actually pretty neat and hides the taste of the contents perfectly. But do not get fooled by the shiny surface, the real horror waits inside.",
+        "name": "NRGY Coffee Energy Drink",
+        "overall": "When i bought it i thought it will be some drink similar to burn coffee, which was actually pretty neat. But i was wrong, dead wrong... This drink is BAD, not Mad Bat bad, but still really really bad! If someone offers you this drink, just run! If you have the chance to buy it, do it and give it to your best friend/arch nemesis and enjoy the show.",
+        "paid": 0.75,
+        "rating": 1.5,
+        "taste": "When opening it, i was surprised it actually got CO2 inside it, i was expecting one of these coffee drink. The drink actually smells somewhat like coffee but somewhat fizzier. The taste itself..... sucks big time. Just imagine adding coffee to coke and pour until an emulsion is been created by it. I could not drink more than a tiny sip before stopping.",
+        "tribute": "",
+        "url": "iLP gmbh, poststrasse 10-12 27505 zeven, germany",
+        "volume": 330.0
+    },
     "onlimit": {
         "CO2": true,
         "Nutritions": {
