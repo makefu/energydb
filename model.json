@@ -2876,6 +2876,40 @@
         "url": "www.rhinos-energy.com",
         "volume": 250.0
     },
+    "rhinos_redberry": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 31.0,
+            "calcium": 0,
+            "energy": 45.4,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 0,
+            "others": 0,
+            "pantothenic acid": 0,
+            "sodium": 0.03,
+            "sugar": 10.9,
+            "taurine": 0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 0,
+            "vitamin C": 30.4,
+            "whey": 0
+        },
+        "bought from": "Rewe Stuttgart",
+        "look": "It is rhino's energy in red.",
+        "name": "rhino's redberry energy drink",
+        "overall": "The can is big, taste is ok but not really my thing, smell is horrible. All in all, this drink is quite ok but not an awesome addition to my `energy drinks i tried in my time`.",
+        "paid": 0.89,
+        "rating": 6.2,
+        "taste": "god it smells aweful when opened, like a artificial grape factory. Taste is not too bad, somewhat berry'ish i guess.",
+        "tribute": "",
+        "url": "www.rhinos-energy.com",
+        "volume": 330.0
+    },
     "rockstar_apple": {
         "CO2": true,
         "Nutritions": {
