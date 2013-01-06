@@ -1211,6 +1211,40 @@
         "url": "S.Spitz GmbH A-4800 Attnang-Puchheim, Austria (powered by topstar)",
         "volume": 330.0
     },
+    "free_energy": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 30.0,
+            "calcium": 0,
+            "energy": 48.6,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 10.0,
+            "isomaltose": 0,
+            "niacin": 7.92,
+            "others": 0,
+            "pantothenic acid": 1.98,
+            "sodium": 0.15,
+            "sugar": 11.3,
+            "taurine": 380.0,
+            "vitamin B1": 0,
+            "vitamin B12": 2.0,
+            "vitamin B2": 0,
+            "vitamin B6": 2.0,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "",
+        "look": "a golden and silver can with a shield with wings as logo.",
+        "name": "free energy drink",
+        "overall": "I thought it is called `free` because it is free of sugar, but it is only free of acceptable taste (not that the other free would have tasted better...). This is kind of a downer.",
+        "paid": 0.99,
+        "rating": 3.3,
+        "taste": "smells like every other energy drink and tastes pretty shitty. Has more of a plastic taste and is really sweet.",
+        "tribute": "",
+        "url": "www.free-beverage.com",
+        "volume": 250.0
+    },
     "fritz-kaffee": {
         "CO2": true,
         "Nutritions": {

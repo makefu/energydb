@@ -147,6 +147,30 @@ class App(Frame):
     with open(SCHEMA_FILE) as s:
       scheme =json.load(s) 
     nut = scheme['Nutritions']
+    firstnut =  []
+    # create a sorted list
+    firstnut.append(("energy",nut["energy"]))
+    firstnut.append(("sugar",nut["sugar"]))
+    firstnut.append(("sodium",nut["sodium"]))
+    firstnut.append(("caffein",nut["caffein"]))
+    firstnut.append(("taurine",nut["taurine"]))
+    firstnut.append(("niacin",nut["niacin"]))
+    firstnut.append(("pantothenic acid",nut["pantothenic acid"]))
+    firstnut.append(("vitamin B6",nut["vitamin B6"]))
+    firstnut.append(("vitamin B12",nut["vitamin B12"]))
+    
+    for ingredient,t in firstnut:
+      ingFrame.rowconfigure(row,weight=1)
+      bground = 'grey' if row %2 else 'lightgrey'
+      lTaste = Label(ingFrame,text=ingredient,bg=bground)
+      lTaste.grid(sticky=E+W,row=row)
+      p = self.review['Nutritions'][ingredient] = Entry(ingFrame,width=mwidth)
+      p.grid(sticky=W+E,column=1,row=row)
+
+      lTaste = Label(ingFrame,text=t,bg=bground)
+      lTaste.grid(row=row,column=2,sticky=E+W)
+      row+=1
+      del nut[ingredient]
 
     for ingredient,t in nut.iteritems():
       ingFrame.rowconfigure(row,weight=1)
