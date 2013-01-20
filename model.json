@@ -1419,6 +1419,40 @@
         "url": "www.uid.ag",
         "volume": 250.0
     },
+    "kaif": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 48.8,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 7.92,
+            "others": 0,
+            "pantothenic acid": 1.89,
+            "sodium": 0.09,
+            "sugar": 0,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 2.0,
+            "vitamin B2": 0,
+            "vitamin B6": 2.0,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "Migros Ludwigsburg",
+        "look": "it is a black can with some red and black line pattern. ",
+        "name": "KAIF Energy DRINK",
+        "overall": "I cannot say anything special about the drink because there is nothing really to say. Buy any 'normal' energy drink and it will probably taste pretty much like this drink. It is not especially cheap nor interresting.",
+        "paid": 0.99,
+        "rating": 5.0,
+        "taste": "Well it smells and also tastes like your ordinary energy drink. There is nothing special with this drink",
+        "tribute": "",
+        "url": "www.kaif-drinks.de",
+        "volume": 250.0
+    },
     "kee_pex": {
         "CO2": true,
         "Nutritions": {
