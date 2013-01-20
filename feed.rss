@@ -4,806 +4,945 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2012-08-12 </lastBuildDate>
-  <pubDate>2012-08-12 </pubDate>
-<item>
+  <lastBuildDate>2013-01-20 </lastBuildDate>
+  <pubDate>2013-01-20 </pubDate>
+ 
+  <item>
     <title>Bullit Get It! Energydrink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/bullit.html</link>
     <guid>bullit</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Monster Ripper Energy+Saft</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/monster_ripper.html</link>
     <guid>monster_ripper</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>ACTION Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/action_energy_drink.html</link>
     <guid>action_energy_drink</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>rhino's energy drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rhinos.html</link>
     <guid>rhinos</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Energy XXL</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/energy_xxl.html</link>
     <guid>energy_xxl</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>M Budget Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/m_budget_energy.html</link>
     <guid>m_budget_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Magic Man Energydrink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/magic_man.html</link>
     <guid>magic_man</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Black Cat Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/black_cat.html</link>
     <guid>black_cat</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Carrefour Taurine Force Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/taurine_force.html</link>
     <guid>taurine_force</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Energy Boost Power Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/energy_boost.html</link>
     <guid>energy_boost</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Monster Assault Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/monster_assault.html</link>
     <guid>monster_assault</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Gipsy Energy Cola</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/gipsy_energy_cola.html</link>
     <guid>gipsy_energy_cola</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Mask Wanted Energydrink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mask_energy.html</link>
     <guid>mask_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>XL SugarFree</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/xl_sugarfree.html</link>
     <guid>xl_sugarfree</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>MEGAFORCE</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/megaforce.html</link>
     <guid>megaforce</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Blitz Start</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/blitz_start.html</link>
     <guid>blitz_start</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Mask Wanted Energy Fruit</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mask_fruit.html</link>
     <guid>mask_fruit</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Rockstar Punched Energy+Guava</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_guava.html</link>
     <guid>rockstar_guava</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>NRGY Coffee Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/nrgy_coffee.html</link>
     <guid>nrgy_coffee</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Denner E-ZERO energy-taste</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/denner_e-zero.html</link>
     <guid>denner_e-zero</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>Big Energy Shock Orange juicy</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/big_energy_shock_orange.html</link>
-    <guid>big_energy_shock_orange</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>fire of istanbul</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/fire_of_istanbul.html</link>
-    <guid>fire_of_istanbul</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Bebida Energetica</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/energetica.html</link>
-    <guid>energetica</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>NOS</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/nos.html</link>
-    <guid>nos</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Scenatic Energy drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/scenatic.html</link>
-    <guid>scenatic</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Rockstar Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/rockstar_energy.html</link>
-    <guid>rockstar_energy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>RedBull The Silver Edition</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/redbull_silver.html</link>
-    <guid>redbull_silver</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Ener-G</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/ener_g.html</link>
-    <guid>ener_g</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>1337mate</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/leetmate.html</link>
-    <guid>leetmate</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
+ 
+  <item>
     <title>Relentless Origin</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/relentless.html</link>
     <guid>relentless</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>Energy Rocket</title>
+ 
+  <item>
+    <title>Big Energy Shock Orange juicy</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/energy_rocket.html</link>
-    <guid>energy_rocket</guid>
+    <link>http://makefu.github.com/energydb/drinks/big_energy_shock_orange.html</link>
+    <guid>big_energy_shock_orange</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>Mad Bat BIO Energy</title>
+ 
+  <item>
+    <title>fire of istanbul</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/mad_bat-bio.html</link>
-    <guid>mad_bat-bio</guid>
+    <link>http://makefu.github.com/energydb/drinks/fire_of_istanbul.html</link>
+    <guid>fire_of_istanbul</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>P6 Energy</title>
+ 
+  <item>
+    <title>Bebida Energetica</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/p6_energy.html</link>
-    <guid>p6_energy</guid>
+    <link>http://makefu.github.com/energydb/drinks/energetica.html</link>
+    <guid>energetica</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>Jack Jones Energy Drink</title>
+ 
+  <item>
+    <title>NOS</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/jack_jones.html</link>
-    <guid>jack_jones</guid>
+    <link>http://makefu.github.com/energydb/drinks/nos.html</link>
+    <guid>nos</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>Action Cola-Energy</title>
+ 
+  <item>
+    <title>Scenatic Energy drink</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/action_cola.html</link>
-    <guid>action_cola</guid>
+    <link>http://makefu.github.com/energydb/drinks/scenatic.html</link>
+    <guid>scenatic</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>POLOs Power Lader Energy Drink</title>
+ 
+  <item>
+    <title>Rockstar Energy Drink</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/polos_power_lader.html</link>
-    <guid>polos_power_lader</guid>
+    <link>http://makefu.github.com/energydb/drinks/rockstar_energy.html</link>
+    <guid>rockstar_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>ICE-X Cannabis Ice Tea</title>
+ 
+  <item>
+    <title>RedBull The Silver Edition</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/ice-x.html</link>
-    <guid>ice-x</guid>
+    <link>http://makefu.github.com/energydb/drinks/redbull_silver.html</link>
+    <guid>redbull_silver</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>Taurus Energy Drink Berry</title>
+ 
+  <item>
+    <title>Ener-G</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
-    <guid>taurus_berry</guid>
+    <link>http://makefu.github.com/energydb/drinks/ener_g.html</link>
+    <guid>ener_g</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>V the afternoon wake-up call</title>
+ 
+  <item>
+    <title>1337mate</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/v_energy.html</link>
-    <guid>v_energy</guid>
+    <link>http://makefu.github.com/energydb/drinks/leetmate.html</link>
+    <guid>leetmate</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
-    <title>hot blood</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/hot_blood.html</link>
-    <guid>hot_blood</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Burn Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/burn_energy.html</link>
-    <guid>burn_energy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>quixx Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/quixx.html</link>
-    <guid>quixx</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>XL Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/xl_energy.html</link>
-    <guid>xl_energy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Energy Slammers Refreshing Powerdrink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/energy_slammers.html</link>
-    <guid>energy_slammers</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>mixxed up energy drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/mixxed_up.html</link>
-    <guid>mixxed_up</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Boost Energy</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/boost.html</link>
-    <guid>boost</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Naturell energy Citrus</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/naturell_energy_citrus.html</link>
-    <guid>naturell_energy_citrus</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Tunnel - Underground Rules</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/tunnel_energy.html</link>
-    <guid>tunnel_energy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Wild Dragon Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/wild_dragon.html</link>
-    <guid>wild_dragon</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Go Fast! Energy</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/go_fast.html</link>
-    <guid>go_fast</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Kee Pex</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/kee_pex.html</link>
-    <guid>kee_pex</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Schwarze Dose 28</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/schwarze_dose.html</link>
-    <guid>schwarze_dose</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Afri Cola</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/afri_cola.html</link>
-    <guid>afri_cola</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Rodeo Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/rodeo.html</link>
-    <guid>rodeo</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Recharge energy soda Redberry</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/recharge_redberry.html</link>
-    <guid>recharge_redberry</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Quick energy</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/quick_energy.html</link>
-    <guid>quick_energy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>mixxed up Juicy Orange</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/mixexed_up_juicy.html</link>
-    <guid>mixexed_up_juicy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>fritz Kola-Kaffee-Brause</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/fritz-kaffee.html</link>
-    <guid>fritz-kaffee</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Relentless Energy Shot</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/relentless_shot.html</link>
-    <guid>relentless_shot</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>actilife Be you</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/actilife.html</link>
-    <guid>actilife</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>sexergy premium energy drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/sexergy.html</link>
-    <guid>sexergy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>ANGEL Natural energy Pomegranate</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/angel_pomegranate.html</link>
-    <guid>angel_pomegranate</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>BAWLS Guarana Cherry</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/bawls_cherry.html</link>
-    <guid>bawls_cherry</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Action Energy Drink Tabs</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/action_tabs.html</link>
-    <guid>action_tabs</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Lions Energizer</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
-    <guid>lions</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>naturell Energy Blueberry</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/naturell_energy_blueberry.html</link>
-    <guid>naturell_energy_blueberry</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Blue Bastard Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/blue_bastard.html</link>
-    <guid>blue_bastard</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Red Bull Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/redbull.html</link>
-    <guid>redbull</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Power Horse Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/power_horse.html</link>
-    <guid>power_horse</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>M Budget DRINK Sugarfree</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/m_budget_sugarfree.html</link>
-    <guid>m_budget_sugarfree</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Trojka energy</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/trojka_energy.html</link>
-    <guid>trojka_energy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
-    <title>Blitz! Energy Drink</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/blitz_energy.html</link>
-    <guid>blitz_energy</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
-<item>
+ 
+  <item>
     <title>Black Cat Juicy Energy Drink Exotic</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/black_cat_exotic.html</link>
     <guid>black_cat_exotic</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
+    <title>Energy Rocket</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/energy_rocket.html</link>
+    <guid>energy_rocket</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Mad Bat BIO Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mad_bat-bio.html</link>
+    <guid>mad_bat-bio</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>P6 Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/p6_energy.html</link>
+    <guid>p6_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Jack Jones Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/jack_jones.html</link>
+    <guid>jack_jones</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Action Cola-Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/action_cola.html</link>
+    <guid>action_cola</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>POLOs Power Lader Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/polos_power_lader.html</link>
+    <guid>polos_power_lader</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>ICE-X Cannabis Ice Tea</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/ice-x.html</link>
+    <guid>ice-x</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Taurus Energy Drink Berry</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/taurus_berry.html</link>
+    <guid>taurus_berry</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>V the afternoon wake-up call</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/v_energy.html</link>
+    <guid>v_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>hot blood</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/hot_blood.html</link>
+    <guid>hot_blood</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Burn Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/burn_energy.html</link>
+    <guid>burn_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>quixx Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/quixx.html</link>
+    <guid>quixx</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>XL Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/xl_energy.html</link>
+    <guid>xl_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Energy Slammers Refreshing Powerdrink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/energy_slammers.html</link>
+    <guid>energy_slammers</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>mixxed up energy drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mixxed_up.html</link>
+    <guid>mixxed_up</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Boost Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/boost.html</link>
+    <guid>boost</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>free energy drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/free_energy.html</link>
+    <guid>free_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Naturell energy Citrus</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/naturell_energy_citrus.html</link>
+    <guid>naturell_energy_citrus</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Tunnel - Underground Rules</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/tunnel_energy.html</link>
+    <guid>tunnel_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Wild Dragon Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/wild_dragon.html</link>
+    <guid>wild_dragon</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Go Fast! Energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/go_fast.html</link>
+    <guid>go_fast</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Kee Pex</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/kee_pex.html</link>
+    <guid>kee_pex</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Schwarze Dose 28</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/schwarze_dose.html</link>
+    <guid>schwarze_dose</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Afri Cola</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/afri_cola.html</link>
+    <guid>afri_cola</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Rodeo Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/rodeo.html</link>
+    <guid>rodeo</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Recharge energy soda Redberry</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/recharge_redberry.html</link>
+    <guid>recharge_redberry</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Quick energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/quick_energy.html</link>
+    <guid>quick_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>mixxed up Juicy Orange</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/mixexed_up_juicy.html</link>
+    <guid>mixexed_up_juicy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>fritz Kola-Kaffee-Brause</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/fritz-kaffee.html</link>
+    <guid>fritz-kaffee</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Relentless Energy Shot</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/relentless_shot.html</link>
+    <guid>relentless_shot</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>actilife Be you</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/actilife.html</link>
+    <guid>actilife</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>sexergy premium energy drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/sexergy.html</link>
+    <guid>sexergy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>ANGEL Natural energy Pomegranate</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/angel_pomegranate.html</link>
+    <guid>angel_pomegranate</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>BAWLS Guarana Cherry</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/bawls_cherry.html</link>
+    <guid>bawls_cherry</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Action Energy Drink Tabs</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/action_tabs.html</link>
+    <guid>action_tabs</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Lions Energizer</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
+    <guid>lions</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>naturell Energy Blueberry</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/naturell_energy_blueberry.html</link>
+    <guid>naturell_energy_blueberry</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Blue Bastard Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/blue_bastard.html</link>
+    <guid>blue_bastard</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Red Bull Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/redbull.html</link>
+    <guid>redbull</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Power Horse Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/power_horse.html</link>
+    <guid>power_horse</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>M Budget DRINK Sugarfree</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/m_budget_sugarfree.html</link>
+    <guid>m_budget_sugarfree</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Trojka energy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/trojka_energy.html</link>
+    <guid>trojka_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Blitz! Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/blitz_energy.html</link>
+    <guid>blitz_energy</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
     <title>M Classic Energy Fruity</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/m_classic_energy_fruity.html</link>
     <guid>m_classic_energy_fruity</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Booster Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/booster_edeka.html</link>
     <guid>booster_edeka</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Denner Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/denner_energy.html</link>
     <guid>denner_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Monster Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/monster_energy.html</link>
     <guid>monster_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Naturell Energy Red Berry Acai</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/naturell_energy_red_berry.html</link>
     <guid>naturell_energy_red_berry</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>T400 Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/t400_energy.html</link>
     <guid>t400_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>XL Lime&amp;Lemon Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/xl_lime.html</link>
     <guid>xl_lime</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Ed Hardy Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/ed_hardy.html</link>
     <guid>ed_hardy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Power by Steinberg and Unimall</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/steinberg.html</link>
     <guid>steinberg</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Take Off Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/take_off.html</link>
     <guid>take_off</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Rockstar Juiced Energy+Juice</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_juice.html</link>
     <guid>rockstar_juice</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Big Energy Shock</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/big_energy_shock.html</link>
     <guid>big_energy_shock</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Ena'O Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/ena_o.html</link>
     <guid>ena_o</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Big Pump Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/big_pump.html</link>
     <guid>big_pump</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>She Super Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/she_energy.html</link>
     <guid>she_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>miXXed up light</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mixxed_up_light.html</link>
     <guid>mixxed_up_light</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Power XXL Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/power_xxl.html</link>
     <guid>power_xxl</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Rockstar Recovery</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_recovery.html</link>
     <guid>rockstar_recovery</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Relentless Juiced Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/relentless_juiced.html</link>
     <guid>relentless_juiced</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>powerpoint euphoric energy Juicy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/power_point_juicy.html</link>
     <guid>power_point_juicy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>tonight onLimit</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/onlimit.html</link>
     <guid>onlimit</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Clickz Suplemen Makanan</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/clickz.html</link>
     <guid>clickz</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>mad bat Energy Shot</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mad_bat_shot.html</link>
     <guid>mad_bat_shot</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Russian Power</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/russian_power.html</link>
     <guid>russian_power</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Ener-G Black</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/ener_g_black.html</link>
     <guid>ener_g_black</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Ener-G Shot</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/ener-g_shot.html</link>
     <guid>ener-g_shot</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Black Cat Juicy Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/black_cat_juicy.html</link>
     <guid>black_cat_juicy</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Mad Bat Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/mad_bat.html</link>
     <guid>mad_bat</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>effect</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/effect.html</link>
     <guid>effect</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>XL Cranberry Energy</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/xl_cranberry.html</link>
     <guid>xl_cranberry</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>koks</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/koks.html</link>
     <guid>koks</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Red Horse Energydrink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/red_horse.html</link>
     <guid>red_horse</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>fritz-cola</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/fritz_cola.html</link>
     <guid>fritz_cola</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>M Classig Energy Cola</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/m_classic_energy_cola.html</link>
     <guid>m_classic_energy_cola</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Power Up Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/power_up.html</link>
     <guid>power_up</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Pure Cofain 699</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/pure_cofain.html</link>
     <guid>pure_cofain</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Rockstar Punched Energy+Apple</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/rockstar_apple.html</link>
     <guid>rockstar_apple</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>S Budget Turbo Tea</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/turbo_tea.html</link>
     <guid>turbo_tea</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>burn coffee energy drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/burn_mocca.html</link>
     <guid>burn_mocca</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
     <title>Flying Power Energy Drink</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/flying_power.html</link>
     <guid>flying_power</guid>
     <!--<pubDate></pubDate>-->
   </item>
-<item>
+ 
+  <item>
+    <title>KAIF Energy DRINK</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/kaif.html</link>
+    <guid>kaif</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>rhino's redberry energy drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/rhinos_redberry.html</link>
+    <guid>rhinos_redberry</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
     <title>RedBull The Red Edition</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/redbull_red.html</link>
     <guid>redbull_red</guid>
     <!--<pubDate></pubDate>-->
   </item>
+ 
 </channel>
 </rss>
 
