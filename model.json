@@ -2571,6 +2571,40 @@
         "url": "www.power-xxl.com",
         "volume": 250.0
     },
+    "powerpoint_himbeere": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 46.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 0,
+            "others": 0,
+            "pantothenic acid": 0,
+            "sodium": 0.1,
+            "sugar": 11.1,
+            "taurine": 0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 0,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "",
+        "look": "like all the other powerpoint drinks, only pink",
+        "name": "powerpoint Himbeere",
+        "overall": "It is far too sweet, cannot recommend. It seems from the ingredients that this drink haven't even seen any raspberry in it's short life... It also does not contain any ",
+        "paid": 0.69,
+        "rating": 4.4,
+        "taste": "Oh man it is really damn sweet. Taste is as if you dissolve sherbet powder in water. it is nothing like ordinary energy drink.",
+        "tribute": "Thanks to Carolin who gave me this drink as a christmas gift.",
+        "url": "www.powerpoint-energy.de",
+        "volume": 250.0
+    },
     "pure_cofain": {
         "CO2": true,
         "Nutritions": {
