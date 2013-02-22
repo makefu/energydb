@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2013-01-20 </lastBuildDate>
-  <pubDate>2013-01-20 </pubDate>
+  <lastBuildDate>2013-02-22 </lastBuildDate>
+  <pubDate>2013-02-22 </pubDate>
  
   <item>
     <title>Bullit Get It! Energydrink</title>
@@ -428,6 +428,14 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/kee_pex.html</link>
     <guid>kee_pex</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>powerpoint Himbeere</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/powerpoint_himbeere.html</link>
+    <guid>powerpoint_himbeere</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
