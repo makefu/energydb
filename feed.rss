@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2013-02-22 </lastBuildDate>
-  <pubDate>2013-02-22 </pubDate>
+  <lastBuildDate>2013-03-10 </lastBuildDate>
+  <pubDate>2013-03-10 </pubDate>
  
   <item>
     <title>Bullit Get It! Energydrink</title>
@@ -916,6 +916,14 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/burn_mocca.html</link>
     <guid>burn_mocca</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>TAKE OFF Energy + Tropic Mix</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/take_off_tropic.html</link>
+    <guid>take_off_tropic</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
