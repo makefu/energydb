@@ -2605,6 +2605,40 @@
         "url": "www.powerpoint-energy.de",
         "volume": 250.0
     },
+    "psychik_exotic": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 61.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 4.8,
+            "others": 0,
+            "pantothenic acid": 0,
+            "sodium": 0.3,
+            "sugar": 15.0,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 0.75,
+            "vitamin B2": 0,
+            "vitamin B6": 0.42,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "-",
+        "look": "It comes in a green bottle with some kind of brain cell in the middle? i do not know.",
+        "name": "Psychik Taurine Force exotic fruits",
+        "overall": "This drink sucks big time.",
+        "paid": 1.5,
+        "rating": 1.8,
+        "taste": "Wow this smells chemical... and it also tastes like this. No energy drink taste and it is far off tasting anything like fruits.",
+        "tribute": "I haven't bought it but i cannot remember of whom i got this drink. Thanks and fuck you!",
+        "url": "CMI - 2 Avenue du Pacifique - 91940 Les Ulle - FRANCE",
+        "volume": 500.0
+    },
     "pure_cofain": {
         "CO2": true,
         "Nutritions": {
