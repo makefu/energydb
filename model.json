@@ -1510,6 +1510,40 @@
         "url": "www.kee-pex.de",
         "volume": 250
     },
+    "killerfish": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 47.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 0,
+            "others": 0,
+            "pantothenic acid": 1.2,
+            "sodium": 0.04,
+            "sugar": 11.0,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 0.28,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "",
+        "look": "Baby-blue with piranha thingy as a logo.",
+        "name": "Killerfish Hot Energy",
+        "overall": "jep, it is german.Besides that there is really nothing to say about this drink. It gets a generic 5.",
+        "paid": 1.19,
+        "rating": 5.0,
+        "taste": "Smells like your genericore energy drink. Tastes like your genericore energy drink. The drinking sensation is like licking a cat. ",
+        "tribute": "Thanks to momo",
+        "url": "http;//killerfish.com",
+        "volume": 250.0
+    },
     "koks": {
         "CO2": true,
         "Nutritions": {
