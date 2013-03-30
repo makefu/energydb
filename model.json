@@ -199,6 +199,40 @@
         "url": "www.angel-drink.com",
         "volume": 330
     },
+    "arrow_energy_drink": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 56.0,
+            "glucuronolacton": 240.0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 7.9,
+            "others": 0,
+            "pantothenic acid": 2.0,
+            "sodium": 0.052,
+            "sugar": 13.6,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 2.0,
+            "vitamin B2": 0,
+            "vitamin B6": 2.0,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "don't know anymore",
+        "look": "It comes in a bottle with lots of arrows. Besides having arrors on the can it does not seem to have another name than \"Energy Drink\".",
+        "name": "Energy Drink",
+        "overall": "Generic Energy Drink gone wrong. Go Buy some good energy drink somewhere else. The drink is from france.",
+        "paid": 0,
+        "rating": 2.9,
+        "taste": "It smells very strong. The taste is far too sweet, not very sour. It is pretty bad.",
+        "tribute": "",
+        "url": "www.magasins-u.com",
+        "volume": 250.0
+    },
     "bawls_cherry": {
         "CO2": true,
         "Nutritions": {
