@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2013-03-19 </lastBuildDate>
-  <pubDate>2013-03-19 </pubDate>
+  <lastBuildDate>2013-03-30 </lastBuildDate>
+  <pubDate>2013-03-30 </pubDate>
  
   <item>
     <title>Bullit Get It! Energydrink</title>
@@ -448,6 +448,14 @@
   </item>
  
   <item>
+    <title>Recharge energy soda Redberry</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/recharge_redberry.html</link>
+    <guid>recharge_redberry</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
     <title>Afri Cola</title>
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/afri_cola.html</link>
@@ -464,10 +472,10 @@
   </item>
  
   <item>
-    <title>Recharge energy soda Redberry</title>
+    <title>naturell Energy Blueberry</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/recharge_redberry.html</link>
-    <guid>recharge_redberry</guid>
+    <link>http://makefu.github.com/energydb/drinks/naturell_energy_blueberry.html</link>
+    <guid>naturell_energy_blueberry</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
@@ -544,18 +552,18 @@
   </item>
  
   <item>
-    <title>Lions Energizer</title>
+    <title>Energy Drink</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
-    <guid>lions</guid>
+    <link>http://makefu.github.com/energydb/drinks/arrow_energy_drink.html</link>
+    <guid>arrow_energy_drink</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
   <item>
-    <title>naturell Energy Blueberry</title>
+    <title>Lions Energizer</title>
     <description></description>
-    <link>http://makefu.github.com/energydb/drinks/naturell_energy_blueberry.html</link>
-    <guid>naturell_energy_blueberry</guid>
+    <link>http://makefu.github.com/energydb/drinks/lions.html</link>
+    <guid>lions</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
