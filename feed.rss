@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2013-08-06 </lastBuildDate>
-  <pubDate>2013-08-06 </pubDate>
+  <lastBuildDate>2013-08-07 </lastBuildDate>
+  <pubDate>2013-08-07 </pubDate>
  
   <item>
     <title>Bullit Get It! Energydrink</title>
@@ -244,14 +244,6 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/leetmate.html</link>
     <guid>leetmate</guid>
-    <!--<pubDate></pubDate>-->
-  </item>
- 
-  <item>
-    <title>Semtex Crazy</title>
-    <description></description>
-    <link>http://makefu.github.com/energydb/drinks/semtex.html</link>
-    <guid>semtex</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
@@ -572,6 +564,14 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/lions.html</link>
     <guid>lions</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>Semtex Crazy</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/semtex_crazy.html</link>
+    <guid>semtex_crazy</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
