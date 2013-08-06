@@ -3403,6 +3403,40 @@
         "url": "www.schwarzedose.de",
         "volume": 250
     },
+    "semtex": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 43.0,
+            "glucuronolacton": 240.0,
+            "guarana": 0,
+            "inositol": 20.0,
+            "isomaltose": 0,
+            "niacin": 8.0,
+            "others": 0,
+            "pantothenic acid": 2.1,
+            "sodium": 0.1,
+            "sugar": 11.2,
+            "taurine": 400.0,
+            "vitamin B1": 0,
+            "vitamin B12": 0,
+            "vitamin B2": 0,
+            "vitamin B6": 1.4,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "Tank Station at the Autobahn between Praha and Germany",
+        "look": "- CRAZY, bunt und farbkleksen\n- ist irgendwie gruen/gelb (etwas wie eine gute urinprobe)\n\n",
+        "name": "Semtex Crazy",
+        "overall": "- Sieht toll aus und hat nen coolen namen, aber der schmack ist einfach unterirdisch. Fuer den preis hat man allerdings ne ganze menge Eenergie.",
+        "paid": 0.8,
+        "rating": 2.5,
+        "taste": "- schmeckt noch beschissener als jeder normale energy drink\n- viel zu wenig kohlensaeure\n- am anfang nich so arsch, dann super arsch\n- riecht super generic\n- es ist einfach am ende einfach super chemisch, Nachgeschmack suckt super Hart",
+        "tribute": "- Danke an Wooki, welcher ihn aus Tschechien mitgebracht hat",
+        "url": "www.SemtexCulture.cz",
+        "volume": 500.0
+    },
     "sexergy": {
         "CO2": true,
         "Nutritions": {
