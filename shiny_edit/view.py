@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/env python2
 from Tkinter import *
 import simplejson as json
 from decimal import Decimal
