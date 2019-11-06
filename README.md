@@ -1,7 +1,7 @@
 INTRODUCTION
 ============
-Every men has a goal in life, mine is to drink every energy drink in the
-world!
+Every man has a goal in life, mine is to drink every energy drink in the
+world! 
 
 In this process i want to review, categorize and describe every one of
 them. The idea is to create a database of all energydrink i ever drunk,
