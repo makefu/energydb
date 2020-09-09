@@ -50,3 +50,7 @@ Felix Richter ( energydb !KHAN! syntax-fehler.de )
 
 replace KHAN with what you would expect to be here if you want to write an
 email to me
+
+License
+=======
+The source code and data are licensed under Creative Commons 4.0 BY (CC-by). If you want to make use of my data you can do so no problem as long as you give appropriate credit :)
