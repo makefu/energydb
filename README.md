@@ -53,4 +53,4 @@ email to me
 
 License
 =======
-The source code and data are licensed under Creative Commons 4.0 BY (CC-by). If you want to make use of my data you can do so no problem as long as you give appropriate credit :)
+The source code and data are licensed under Creative Commons 4.0 BY (CC-by). If you want to make use of my data you can do so no problem as long as you give appropriate credit and indicate when you made changes :). See [creativecommons.org](https://creativecommons.org/licenses/by/4.0/) for a human readable form of the license.
