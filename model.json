@@ -1487,6 +1487,40 @@
         "url": "www.kaif-drinks.de",
         "volume": 250.0
     },
+    "kaif_energy": {
+        "CO2": true,
+        "Nutritions": {
+            "caffein": 32.0,
+            "calcium": 0,
+            "energy": 48.0,
+            "glucuronolacton": 0,
+            "guarana": 0,
+            "inositol": 0,
+            "isomaltose": 0,
+            "niacin": 0,
+            "others": 0,
+            "pantothenic acid": 2.0,
+            "sodium": 0.23,
+            "sugar": 11.0,
+            "taurine": 380.0,
+            "vitamin B1": 0,
+            "vitamin B12": 2.0,
+            "vitamin B2": 0,
+            "vitamin B6": 2.0,
+            "vitamin C": 0,
+            "whey": 0
+        },
+        "bought from": "",
+        "look": "The drink i got as merchandise from IT-Seal and the design is quite nice - at least their logo looks fun.\nThe can has some plastic foil on top to apply the custom design, however i like printed cans better.",
+        "name": "KAIF Energy Drink",
+        "overall": "As merchandise this drink is totally fine, however i would not pay full price for it in the supermarket. It got a couple of additives (E330,E331,E150c) but the more the merrier, right?\nJust steal it from the vendors on the exhibition if you have the chance, you can even cash in the can deposit at the end!",
+        "paid": 0.0,
+        "rating": 6.5,
+        "taste": "Well, here we go again. The drink tastes like your generic energy drink. To be honest i would never be able to taste the difference between this drink and any other generic drink.\nEven though it is generic it could be much worse!",
+        "tribute": "IT-Seal on ITSA",
+        "url": "http://www.kaifenergy.com",
+        "volume": 250.0
+    },
     "kee_pex": {
         "CO2": true,
         "Nutritions": {
