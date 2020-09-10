@@ -1,4 +1,6 @@
-#!/bin/bash
+#!/bin/sh
+
+set -euf
 
 if ! $(git diff-index --quiet HEAD);
 then
