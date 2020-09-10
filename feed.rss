@@ -4,8 +4,8 @@
   <title>Energydb Drinks</title>
   <description>This is the feed of all energydrinks held on energydb</description>
   <link></link>
-  <lastBuildDate>2013-08-07 </lastBuildDate>
-  <pubDate>2013-08-07 </pubDate>
+  <lastBuildDate>2020-09-10 </lastBuildDate>
+  <pubDate>2020-09-10 </pubDate>
  
   <item>
     <title>Bullit Get It! Energydrink</title>
@@ -724,6 +724,14 @@
     <description></description>
     <link>http://makefu.github.com/energydb/drinks/big_energy_shock.html</link>
     <guid>big_energy_shock</guid>
+    <!--<pubDate></pubDate>-->
+  </item>
+ 
+  <item>
+    <title>KAIF Energy Drink</title>
+    <description></description>
+    <link>http://makefu.github.com/energydb/drinks/kaif_energy.html</link>
+    <guid>kaif_energy</guid>
     <!--<pubDate></pubDate>-->
   </item>
  
