@@ -1,7 +1,7 @@
 INTRODUCTION
 ============
-Every men has a goal in life, mine is to drink every energy drink in the
-world!
+Every man has a goal in life, mine is to drink every energy drink in the
+world! 
 
 In this process i want to review, categorize and describe every one of
 them. The idea is to create a database of all energydrink i ever drunk,
@@ -50,3 +50,7 @@ Felix Richter ( energydb !KHAN! syntax-fehler.de )
 
 replace KHAN with what you would expect to be here if you want to write an
 email to me
+
+License
+=======
+The source code and data are licensed under Creative Commons 4.0 BY (CC-by). If you want to make use of my data you can do so no problem as long as you give appropriate credit and indicate when you made changes :). See [creativecommons.org](https://creativecommons.org/licenses/by/4.0/) for a human readable form of the license.

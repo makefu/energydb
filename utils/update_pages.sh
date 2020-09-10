@@ -8,10 +8,9 @@ fi
 git checkout gh-pages
 git merge master
 CURR=`pwd`
-cd /home/makefu/repos/energydb
+cd "$(dirname "$(readlink -f "$0")")"/.. || exit 1
 ./generate_html.py
 git add .
-cd $CURR
 git commit -a -m "merged in changes from master"
 git push
 git checkout master

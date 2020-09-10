@@ -66,9 +66,9 @@ for drink in drinktab.values():
 #try to convert the README file into html
 try:
     import markdown
-    markdown.markdownFromFile(input="README.md", 
+    markdown.markdownFromFile(input="README.md",
                               output="README.html")
-    markdown.markdownFromFile(input="TRIVIA.md", 
+    markdown.markdownFromFile(input="TRIVIA.md",
                               output="TRIVIA.html")
 except:
     print "markdown not installed, skipping generation of README"
