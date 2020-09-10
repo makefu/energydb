@@ -8,5 +8,6 @@ pkgs.mkShell {
     python2Packages.simplejson
     # shinyedit
     python2Packages.tkinter
+    python2Packages.markdown
   ];
 }
